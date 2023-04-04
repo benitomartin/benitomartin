@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on further developing my acquired data science skills and learning **Pytorch and AWS**
 
 
-<details>
+
  <summary><h3>👨‍💻 My Profile</h3></summary>
    Experienced engineer with 15+ years of exposure to real-world business problems with a strong international background, a team/client oriented approach, and deep understanding of maths and statistics. Graduated in March 2023 from the Data Science Bootcamp of Le Wagon and looking to leverage my in-depth knowledge and skills to master data with an analytical mindset
-   </details>
+
 
 
 <h3 align="left">Data Science</h3>
