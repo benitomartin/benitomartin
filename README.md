@@ -6,7 +6,7 @@
 - 🌱 Recently developed as a project leader a computer vision deep learning project [FoodScore](https://foodscore.streamlit.app/)
 
 
-- 🔭 I’m currently working on further developing my acquired data science skills and learning **Pytorch and AWS**
+- 🔭 I’m currently working on further developing my acquired data science skills and learning **Pytorch** and **AWS**
 
 
 
