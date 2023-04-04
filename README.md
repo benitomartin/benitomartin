@@ -1,6 +1,6 @@
 <h1 align="center">:mountain_snow: Benito</h1>
 
-- ⚡ A former process engineer and now passionate for **Data Science and Artificial Intelligence**
+- ⚡ A former process engineer and now passionate for **Data Science** and **Artificial Intelligence**
 
 
 - 🌱 Recently developed as a project leader a computer vision deep learning project [FoodScore](https://foodscore.streamlit.app/)
