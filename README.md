@@ -1,6 +1,6 @@
 <h1 align="center">:mountain_snow: Benito</h1>
 
-- ⚡ A former process engineer and now passionate for **Data Science** and **Artificial Intelligence**
+- ⚡ A former process engineer and now passionate about **Data Science** and **Artificial Intelligence**
 
 
 - 🌱 Recently developed as a project leader a computer vision deep learning project [FoodScore](https://github.com/benitomartin/foodscore-code)
@@ -11,7 +11,7 @@
 
 
 <h2>👨‍💻 My Profile</h2>
-   Experienced engineer with 15+ years of exposure to real-world business problems with a strong international background, a team/client oriented approach, and deep understanding of maths and statistics. Graduated in March 2023 from the Data Science Bootcamp of Le Wagon and looking to leverage my in-depth knowledge and skills to master data with an analytical mindset
+   Experienced engineer with 15+ years of exposure to real-world business problems with a strong international background, a team/client-oriented approach, and a deep understanding of maths and statistics. Graduated in March 2023 from the Data Science Bootcamp of Le Wagon and looking to leverage my in-depth knowledge and skills to master data with an analytical mindset
 
 
 
