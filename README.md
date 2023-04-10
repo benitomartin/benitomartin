@@ -10,7 +10,7 @@
 - 🌱 Recently developed as a project leader a computer vision deep learning project [FoodScore](https://github.com/benitomartin/foodscore-code)
 
 
-- 🔭 I’m currently working on further developing my acquired data science skills and learning **Pytorch** and **AWS**
+- 🔭 I’m currently working on further developing my acquired data science skills to increase my portfolio and learning **Pytorch** and **AWS**
 
 &nbsp;
 
