@@ -1,5 +1,5 @@
 <h1 align="center">:mountain_snow: Benito</h1>
-<h3 align="center">It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	</h3>
+<h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 &nbsp;
 
 
@@ -15,7 +15,7 @@
 &nbsp;
 
 <h2>👨‍💻 My Profile</h2>
-   Experienced engineer with 15+ years of exposure to real-world business problems with a strong international background, a team/client-oriented approach, and a deep understanding of maths and statistics. Graduated in March 2023 from the Data Science Bootcamp of Le Wagon and looking to leverage my in-depth knowledge and skills to master data with an analytical mindset
+   Experienced engineer with 15+ years of exposure to <b>real-world business problems</b> with a strong international background, a team/client-oriented approach, and a deep understanding of maths and statistics. Graduated in March 2023 from the <b>Data Science</b> Bootcamp of Le Wagon and looking to leverage my in-depth knowledge and skills to master data with an <b>analytical mindset</b>
 
 &nbsp;
 
