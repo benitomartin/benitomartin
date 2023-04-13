@@ -20,6 +20,38 @@
 &nbsp;
 
 
+<h2>:abacus: Skills</h2>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 535px">
+<colgroup>
+<col style="width: 121.428571px" style="text-align:center;">
+<col style="width: 111.428571px">
+<col style="width: 66.428571px">
+<col style="width: 113.428571px">
+<col style="width: 122.428571px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Data Wrangling</td>
+    <td class="tg-c3ow">Large Data Sets</td>
+    <td class="tg-c3ow">Statistics</td>
+    <td class="tg-c3ow">Data Analytics</td>
+    <td class="tg-c3ow">Data Visualization</td>
+  </tr>
+  <tr>
+    <td class="tg-996f">Machine Learning</td>
+    <td class="tg-996f">Deep Learning</td>
+    <td class="tg-996f">NLP</td>
+    <td class="tg-996f">Computer Vision</td>
+    <td class="tg-996f">Data Engineering</td>
+  </tr>
+</tbody>
+</table>
+
+
+&nbsp;
+
+
 <h3 align="left">Data Science</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
 
