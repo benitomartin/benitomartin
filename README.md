@@ -7,7 +7,7 @@
 - ⚡ A former process engineer and now passionate about **Data Science** and **Artificial Intelligence**
 
 
-- 🌱 Recently developed as a project leader a computer vision deep learning project [FoodScore](https://github.com/benitomartin/foodscore-code) and its [Website](https://foodscore.streamlit.app/)    &nbsp; <img src="https://user-images.githubusercontent.com/116911431/230981753-cf09ce9e-e57e-49f5-933b-088029d2c232.png" width="100"/>
+- 🌱 Recently developed as a project leader a computer vision deep learning project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/)    &nbsp; <img src="https://user-images.githubusercontent.com/116911431/230981753-cf09ce9e-e57e-49f5-933b-088029d2c232.png" width="100"/>
 
 
 - 🔭 I’m currently working on further developing my acquired data science skills to increase my portfolio and learning **Pytorch** and **AWS**
