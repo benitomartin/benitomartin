@@ -10,9 +10,8 @@
 - 🌱 Recently developed as a project leader a computer vision deep learning project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/)    &nbsp; <img src="https://user-images.githubusercontent.com/116911431/230981753-cf09ce9e-e57e-49f5-933b-088029d2c232.png" width="100"/>
 
 
-- 🔭 I’m currently working as a freelancer/volunteer to further developing my acquired data science skills and learning **Pytorch** and **AWS**
-
-&nbsp;
+- 🔭 I’m currently working as a freelancer/volunteer to further develop my acquired data science skills 
+- &nbsp;
 
 <h2>👨‍💻 My Profile</h2>
    Experienced engineer with 15+ years of exposure to <b>real-world business problems</b> with a strong international background, a team/client-oriented approach, and a deep understanding of maths and statistics. Graduated in March 2023 from the <b>Data Science</b> Bootcamp of Le Wagon and looking to leverage my in-depth knowledge and skills to master data with an <b>analytical mindset</b>
