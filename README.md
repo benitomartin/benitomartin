@@ -37,6 +37,7 @@
     <td class="tg-c3ow">Statistics</td>
     <td class="tg-c3ow">Data Analytics</td>
     <td class="tg-c3ow">Data Visualization</td>
+    <td class="tg-c3ow">QGIS</td>
   </tr>
   <tr>
     <td class="tg-996f">Machine Learning</td>
@@ -44,6 +45,7 @@
     <td class="tg-996f">NLP</td>
     <td class="tg-996f">Computer Vision</td>
     <td class="tg-996f">Data Engineering</td>
+    <td class="tg-c3ow">Video/Audio Processing</td>
   </tr>
 </tbody>
 </table>
