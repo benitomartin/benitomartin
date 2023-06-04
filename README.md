@@ -45,7 +45,7 @@
     <td class="tg-996f">NLP</td>
     <td class="tg-996f">Computer Vision</td>
     <td class="tg-996f">Data Engineering</td>
-    <td class="tg-c3ow">Video/Audio Processing</td>
+    <td class="tg-c3ow">Video/Audio</td>
   </tr>
 </tbody>
 </table>
