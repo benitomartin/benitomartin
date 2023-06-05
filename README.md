@@ -10,7 +10,7 @@
 - 🌱 Recently developed as a project leader a computer vision deep learning project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/)    &nbsp; <img src="https://user-images.githubusercontent.com/116911431/230981753-cf09ce9e-e57e-49f5-933b-088029d2c232.png" width="100"/>
 
 
-- 🔭 I’m currently working as a **freelancer/volunteer** at Omdena in [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/), [video/audio processing](https://omdena.com/chapter-challenges/breaking-down-language-barriers-using-ai-and-nlp-to-automate-dubbing-process-for-improved-accessibility-and-inclusivity/) and [LLMs](https://omdena.com/projects/building-a-multi-platform-wellness-content-delivery-system/) projects 
+- 🔭 I’m currently working as a **freelancer/volunteer** at Omdena in [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/), [video/audio processing](https://omdena.com/chapter-challenges/breaking-down-language-barriers-using-ai-and-nlp-to-automate-dubbing-process-for-improved-accessibility-and-inclusivity/) and [NLP](https://omdena.com/projects/building-a-multi-platform-wellness-content-delivery-system/) projects 
 
 &nbsp;
 
