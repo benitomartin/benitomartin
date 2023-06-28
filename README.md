@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a **freelancer/volunteer** at Omdena in [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/), [Video/Audio Processing](https://omdena.com/chapter-challenges/breaking-down-language-barriers-using-ai-and-nlp-to-automate-dubbing-process-for-improved-accessibility-and-inclusivity/) and [NLP](https://omdena.com/projects/building-a-multi-platform-wellness-content-delivery-system/) projects
 
-- Additionally, I am developing my own cryptocurrencies prediction model in this [repo](https://github.com/benitomartin/cryptocurrencies)
+- 💰 Additionally, I am developing my own cryptocurrencies prediction model in this [repo](https://github.com/benitomartin/cryptocurrencies)
 
 &nbsp;
 
