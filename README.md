@@ -10,7 +10,7 @@
 - 🌱 Developed as a project leader a computer vision deep learning project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/)    &nbsp; <img src="https://user-images.githubusercontent.com/116911431/230981753-cf09ce9e-e57e-49f5-933b-088029d2c232.png" width="100"/>
 
 
-- 🔭 I recently finished as a **volunteer** at Omdena a [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project
+- 🔭 I recently finished as a **volunteer** at Omdena a [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project and its [App] (https://portugal-energy.streamlit.app/) deployment
 
 - 💰 Additionally, I am developing my own **cryptocurrencies** prediction model in this [repo](https://github.com/benitomartin/cryptocurrencies)
 
