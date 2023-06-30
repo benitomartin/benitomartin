@@ -17,7 +17,7 @@
 &nbsp;
 
 <h2>👨‍💻 My Profile</h2>
-   Experienced engineer with 15+ years of exposure to <b>real-world business problems</b> with a strong international background, a team/client-oriented approach, and a deep understanding of maths and statistics. Graduated in March 2023 from the <b>Data Science</b> Bootcamp of Le Wagon and looking to leverage my in-depth knowledge and skills to master data with an <b>analytical mindset</b>
+   Experienced engineer with 15+ years of exposure to <b>real-world business problems</b> with a strong international background, a team/client-oriented approach, and a deep understanding of maths and statistics. Graduated in March 2023 from a <b>Data Science</b> Bootcamp and looking to leverage my in-depth knowledge and skills to master data with an <b>analytical mindset</b>
 
 &nbsp;
 
