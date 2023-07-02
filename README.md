@@ -36,10 +36,10 @@
   <tr>
     <td class="tg-c3ow">Data Wrangling</td>
     <td class="tg-c3ow">Large Data Sets</td>
-    <td class="tg-c3ow">Statistics</td>
+    <td class="tg-c3ow">QGIS</td>
     <td class="tg-c3ow">Data Analytics</td>
     <td class="tg-c3ow">Data Visualization</td>
-    <td class="tg-c3ow">QGIS</td>
+    <td class="tg-c3ow">Time Series</td>
   </tr>
   <tr>
     <td class="tg-996f">Machine Learning</td>
