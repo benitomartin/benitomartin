@@ -12,7 +12,7 @@
 
 - 🔭 I recently finished as a **volunteer** at Omdena a [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project and its [Website](https://portugalenergy.streamlit.app/) deployment
 
-- 💰 Currently, I am developing my own **cryptocurrencies** prediction model in this [repo](https://github.com/benitomartin/cryptocurrencies)
+- 💰 Currently, I am developing my own **cryptocurrencies** prediction model in this [repo](https://github.com/benitomartin/cryptocurrencies) and a personal project using MLFlow and Prefect
 
 &nbsp;
 
