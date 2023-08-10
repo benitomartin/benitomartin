@@ -40,6 +40,7 @@
     <td class="tg-c3ow">Data Analytics</td>
     <td class="tg-c3ow">Data Visualization</td>
     <td class="tg-c3ow">Time Series</td>
+    <td class="tg-c3ow">MLOps</td>
   </tr>
   <tr>
     <td class="tg-996f">Machine Learning</td>
@@ -48,6 +49,7 @@
     <td class="tg-996f">Computer Vision</td>
     <td class="tg-996f">Data Engineering</td>
     <td class="tg-c3ow">Video/Audio</td>
+     <td class="tg-c3ow">Data Engineering</td>
   </tr>
 </tbody>
 </table>
