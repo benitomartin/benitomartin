@@ -12,7 +12,7 @@
 
 - 🔭 Recently, I finished as a **volunteer** at Omdena a [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project and its [Website](https://portugalenergy.streamlit.app/) deployment
 
-- 💰 My last project can be found in this [repo](https://github.com/benitomartin/mlops-car-prices): **MLOps** using MLFlow, Prefect, Grafana, Terraform and AWS, which can be found 
+- 💰 My last project can be found in this [repo](https://github.com/benitomartin/mlops-car-prices): **MLOps** using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
 
 &nbsp;
 
