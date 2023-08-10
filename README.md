@@ -9,8 +9,7 @@
 
 - 🌱 Developed as a **project leader** a computer vision deep learning project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/)    &nbsp; <img src="https://user-images.githubusercontent.com/116911431/230981753-cf09ce9e-e57e-49f5-933b-088029d2c232.png" width="100"/>
 
-
-- 🔭 Recently, I finished as a **volunteer** at Omdena a [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project and its [Website](https://portugalenergy.streamlit.app/) deployment
+- 🔭 Recently, I finished as a **volunteer** a [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project and its [Website](https://portugalenergy.streamlit.app/) deployment
 
 - 💰 My last project can be found in this [repo](https://github.com/benitomartin/mlops-car-prices): **MLOps** using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
 
