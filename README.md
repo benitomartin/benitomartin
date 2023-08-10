@@ -11,7 +11,9 @@
 
 - 🔭 Recently, I finished as a **volunteer** a [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project and its [Website](https://portugalenergy.streamlit.app/) deployment
 
-- 💰 My last personal project can be found in this [repository](https://github.com/benitomartin/mlops-car-prices): **MLOps** using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
+- 💰 My last personal projects can be found in these repositories:
+   -  [Car Prices Predicition](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
+   -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): **Data Engineering** project using Prefect, Spark, dbt, Terraform, Looker and GCP
 
 &nbsp;
 
