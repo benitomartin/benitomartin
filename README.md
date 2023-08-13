@@ -14,7 +14,7 @@
 - 💰 My last personal projects can be found in these repositories:
    -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
    -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): **Data Engineering** project using Prefect, Spark, dbt, Terraform, Looker and GCP
-   -  [Cryptocurrencies](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** comparison: ARIMA, XGBoost, LSTM, Prophet, and Gradient Boosting
+   -  [Cryptocurrencies](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** comparison: ARIMA, XGBoost, LSTM, and Prophet
 
 &nbsp;
 
