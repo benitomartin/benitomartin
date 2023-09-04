@@ -9,7 +9,7 @@
 
 - 🌱 Developed as a project leader a **computer vision** DL project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/)    &nbsp; <img src="https://user-images.githubusercontent.com/116911431/230981753-cf09ce9e-e57e-49f5-933b-088029d2c232.png" width="100"/>
 
-- 🔭 Recently, I finished as a **volunteer** a [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project and its [Website](https://portugalenergy.streamlit.app/) deployment
+- 🔭 Recently, I finished as a **volunteer** a [NLP](https://omdena.com/chapter-challenges/breaking-down-language-barriers-using-ai-and-nlp-to-automate-dubbing-process-for-improved-accessibility-and-inclusivity/) and [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project ([Website](https://portugalenergy.streamlit.app/))
 
 - 💰 My last personal projects can be found in these repositories:
    -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
