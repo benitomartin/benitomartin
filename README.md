@@ -17,7 +17,7 @@
    -  [Cryptocurrencies](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** comparison of ARIMA, XGBoost, LSTM, and Prophet
 
 - 💰 Additionally you can find my Power BI Projects:
-   -  [Personal Finance]([https://github.com/benitomartin/mlops-car-prices](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9)]: Income, Bills, Profits, Available Money
+   -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Income, Bills, Profits, Available Money
 
 
 &nbsp;
