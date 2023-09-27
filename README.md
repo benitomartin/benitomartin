@@ -11,12 +11,12 @@
 
 - 🔭 Recently, I finished as a **volunteer** a [NLP](https://omdena.com/chapter-challenges/breaking-down-language-barriers-using-ai-and-nlp-to-automate-dubbing-process-for-improved-accessibility-and-inclusivity/) and [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project ([Website](https://portugalenergy.streamlit.app/))
 
-- 💰 My last personal projects can be found in these repositories:
+- 💰 My last personal **Data Science** projects can be found in these repositories:
    -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
    -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): **Data Engineering** project using Prefect, Spark, dbt, Terraform, Looker and GCP
    -  [Cryptocurrencies](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** comparison of ARIMA, XGBoost, LSTM, and Prophet
 
-- 💸 Additionally, you can find my Power BI Projects:
+- 💸 Additionally, you can find my **Power BI** projects:
    -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Income, Bills, Profits, Available Money
 
 
