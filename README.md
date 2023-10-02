@@ -20,7 +20,7 @@
    -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Analysis and Comparison of Income, Bills, Profits and Available Money
    -  [Product Sales Comparison](https://app.powerbi.com/view?r=eyJrIjoiMTZiODk4MjYtMTZiOS00ZWIyLTg5ZmYtZWJiNDk2ODJhZDQ0IiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Product Sales Comparison using DAX functions
 
-- :basecamp: Last but not least, I also have a **Tableau** [portfolio](https://public.tableau.com/app/profile/benito.mart.n1807/vizzes) using common functions, table calculations, storylines, parameters, and other advanced functions
+- :basecamp: Last but not least, I also have a **Tableau** [portfolio](https://public.tableau.com/app/profile/benito.mart.n1807/vizzes) using groups, sets, table calculations, storylines, parameters, and other advanced functions
 
 &nbsp;
 
