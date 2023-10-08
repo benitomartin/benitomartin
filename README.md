@@ -15,6 +15,7 @@
    -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
    -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): **Data Engineering** project using Prefect, Spark, dbt, Terraform, Looker and GCP
    -  [Cryptocurrencies](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** comparison of ARIMA, XGBoost, LSTM, and Prophet
+   -  [Birds Classification](https://github.com/benitomartin/birds_classification): **Computer Vision** project using Pytorch and Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
 
 - 💸 Additionally, you can find my **Power BI** projects:
    -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Analysis and Comparison of Income, Bills, Profits and Available Money
