@@ -80,16 +80,13 @@
 | **Machine Learning** | **Deep Learning** | **NLP** | **Computer Vision** | **Data Engineering** | **Video/Audio** | **LLM** |
 
 #### GCP
-| Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI |
-|---------------|----------|-----------|----|-----------|
+| Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc |
+|---------------|----------|-----------|----|-----------|----------|
 
 #### AWS
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
 |----|-----|-----|---------|--------|-----|
 
-
-
-&nbsp;
 
 <h3 align="left">Web Development</h3>
 
