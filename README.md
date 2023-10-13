@@ -65,7 +65,7 @@
 </tbody>
 </table>
 
-## AWS
+### AWS
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
 |----|-----|-----|---------|--------|-----|
 
