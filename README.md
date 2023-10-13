@@ -35,43 +35,6 @@
 
 <h2>:abacus: Skills</h2>
 
-<table class="tg" style="undefined;table-layout: fixed; width: 535px">
-<colgroup>
-<col style="width: 121.428571px" style="text-align:center;">
-<col style="width: 111.428571px">
-<col style="width: 66.428571px">
-<col style="width: 113.428571px">
-<col style="width: 122.428571px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">Data Wrangling</td>
-    <td class="tg-c3ow">Large Data Sets</td>
-    <td class="tg-c3ow">QGIS</td>
-    <td class="tg-c3ow">Data Analytics</td>
-    <td class="tg-c3ow">Data Visualization</td>
-    <td class="tg-c3ow">Time Series</td>
-    <td class="tg-c3ow">MLOps</td>
-  </tr>
-  <tr>
-    <td class="tg-996f">Machine Learning</td>
-    <td class="tg-996f">Deep Learning</td>
-    <td class="tg-996f">NLP</td>
-    <td class="tg-996f">Computer Vision</td>
-    <td class="tg-996f">Data Engineering</td>
-    <td class="tg-c3ow">Video/Audio</td>
-     <td class="tg-c3ow">LLM</td>
-  </tr>
-</tbody>
-</table>
-
-### AWS
-| S3 | EC2 | ECR | Kinesis | Lambda | RDS |
-|----|-----|-----|---------|--------|-----|
-
-&nbsp;
-
-
 <h3 align="left">Data Science/Analytics</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -111,6 +74,22 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
+
+| Data Wrangling       | Large Data Sets   | QGIS    | Data Analytics      | Data Visualization   | Time Series     | MLOps   |
+|----------------------|-------------------|---------|---------------------|----------------------|-----------------|---------|
+| **Machine Learning** | **Deep Learning** | **NLP** | **Computer Vision** | **Data Engineering** | **Video/Audio** | **LLM** |
+
+#### GCP
+| Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI |
+|---------------|----------|-----------|----|-----------|
+
+#### AWS
+| S3 | EC2 | ECR | Kinesis | Lambda | RDS |
+|----|-----|-----|---------|--------|-----|
+
+
+
+&nbsp;
 
 <h3 align="left">Web Development</h3>
 
