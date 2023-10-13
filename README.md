@@ -14,9 +14,10 @@
 - 💰 My last personal **Data Science** projects can be found in these repositories:
    -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Grafana, Terraform and AWS
    -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): **Data Engineering** project using Prefect, Spark, dbt, Terraform, Looker and GCP
-   -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** comparison of ARIMA, XGBoost, LSTM, and Prophet
+   -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** project: comparison of ARIMA, XGBoost, LSTM, and Prophet
    -  [Birds Classification](https://github.com/benitomartin/birds_classification): **Computer Vision** project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
-   -  [News Classification](https://github.com/benitomartin/nlp-news-classification): **EDA**, **Modeling** and **Deployment**: comparison of RNN, CNN and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
+   -  [Q&A and Summarization](https://github.com/benitomartin/youtube-llm): **LLM** project for audio and text extraction using Whisper and Langchain with app deployment using Streamlit (locally)
+   -  [News Classification](https://github.com/benitomartin/nlp-news-classification): **EDA**, **Modeling** and **Deployment** project: comparison of RNN, CNN and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
 
 - 💸 Additionally, you can find my **Power BI** projects:
    -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Analysis and Comparison of Income, Bills, Profits and Available Money
