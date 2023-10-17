@@ -75,7 +75,7 @@ Experienced Data Scientist with a diverse portfolio of personal projects in Mach
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 
-| Data Wrangling       | Large Data Sets   | QGIS    | Data Analytics      | Data Visualization   | Time Series     | MLOps   |
+| Data Wrangling       |      Big Data     | QGIS    | Data Analytics      | Data Visualization   | Time Series     | MLOps   |
 |----------------------|-------------------|---------|---------------------|----------------------|-----------------|---------|
 | **Machine Learning** | **Deep Learning** | **NLP** | **Computer Vision** | **Data Engineering** | **Video/Audio** | **LLM** |
 
