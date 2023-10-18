@@ -13,6 +13,7 @@
 
 - 💰 My last personal **Data Science** projects can be found in these repositories:
    -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform and AWS
+   -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): **MLOps** project using MLFlow, Prefect, FastApi, Docker, and GCP
    -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): **Data Engineering** project using Prefect, Spark, SQL, dbt, Terraform, Looker and GCP
    -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** project: comparison of ARIMA, XGBoost, LSTM, and Prophet
    -  [Birds Classification](https://github.com/benitomartin/birds_classification): **Computer Vision** project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
