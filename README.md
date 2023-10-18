@@ -81,8 +81,8 @@ Experienced Data Scientist with a diverse portfolio of personal projects in Mach
 | **Machine Learning** | **Deep Learning** | **NLP** | **Computer Vision** | **Data Engineering** | **Video/Audio** | **LLM** |
 
 #### GCP
-| Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc | Earth Engine |
-|---------------|----------|-----------|----|-----------|----------|--------------|
+| Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc | Earth Engine | Container Registry |
+|---------------|----------|-----------|----|-----------|----------|--------------|--------------------|
 
 #### AWS
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
