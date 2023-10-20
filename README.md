@@ -29,7 +29,7 @@
 &nbsp;
 
 <h2>👨‍💻 My Profile</h2>
-Experienced Data Scientist with a diverse portfolio of personal projects in Machine/Deep Learning, including Regression, Classification, Neural Networks, Time Series, Ensemble Methods, NLP, and Computer Vision, as well as proficiency in Power BI and Tableau with projects in Personal Finance and Product Sales Comparison, I also possess a deep skill set encompassing, SQL, Data Engineering, MLOps, Cloud platforms like GCP and AWS, and various web development tools
+Experienced Data Scientist with a diverse portfolio of personal projects in Machine/Deep Learning, including Regression, Classification, Neural Networks, Time Series, Ensemble Methods, NLP, and Computer Vision, as well as in Power BI and Tableau with projects in Personal Finance and Product Sales Comparison, I also possess a deep skill set encompassing, SQL, Data Engineering, MLOps, Cloud platforms like GCP and AWS, and various web development tools
 
 &nbsp;
 
