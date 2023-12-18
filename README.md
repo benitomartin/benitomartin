@@ -20,6 +20,8 @@
    -  [Birds Classification](https://github.com/benitomartin/birds_classification): **Computer Vision** project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
    -  [Q&A and Summarization](https://github.com/benitomartin/youtube-llm): **LLM** project for audio and text extraction using Whisper and Langchain with app deployment using Streamlit (locally)
    -  [News Classification](https://github.com/benitomartin/nlp-news-classification): **EDA**, **Modeling** and **Deployment** project: comparison of RNN, CNN and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
+   -  [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone): **EDA** and **Modeling** project: comparison of Random Forest using Sklearn and Spark, as part of the Advanced Data Science with IBM Specialization
+
 
 - 💸 Additionally, you can find my **Power BI** projects:
    -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Analysis and Comparison of Income, Bills, Profits and Available Money
