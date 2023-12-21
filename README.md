@@ -91,6 +91,10 @@ Experienced Data Scientist with a diverse portfolio of personal projects in Mach
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
 |----|-----|-----|---------|--------|-----|
 
+#### Azure
+| Azure Databricks | Delta Lake | Azure Data Lake Gen2 | Azure Data Factory |
+|------------------|------------|----------------------|--------------------|
+
 
 <h3 align="left">Web Development</h3>
 
