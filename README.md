@@ -1,4 +1,4 @@
-<h1 align="center">:mountain_snow: Benito</h1>
+7<h1 align="center">:mountain_snow: Benito</h1>
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 &nbsp;
 
@@ -37,7 +37,7 @@ Resourceful and adaptable Data Scientist in career transition, showcasing a dive
 &nbsp;
 
 
-<h2>:abacus: Skills</h2>
+<h2>:abacus: Tech Stack</h2>
 
 <h3 align="left">Data Science/Analytics</h3>
 
