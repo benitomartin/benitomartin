@@ -107,3 +107,6 @@ Resourceful and adaptable Data Scientist in career transition, showcasing a dive
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+
+<a href="https://linkedin.com/in/bmartin80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dosorio" height="30" width="40" /></a>
+
