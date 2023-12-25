@@ -39,7 +39,7 @@ Resourceful and adaptable Data Scientist in career transition, showcasing a dive
 
 <h2>:abacus: Tech Stack</h2>
 
-<h3 align="left"><ins>Data Science/Analytics</ins></h3>
+<h3 align="left"><ins>Data Science/Analytics and ML</ins></h3>
 &nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -86,7 +86,7 @@ Resourceful and adaptable Data Scientist in career transition, showcasing a dive
 |----------------------|-------------------|---------|---------------------|----------------------|-----------------|---------|
 | **Machine Learning** | **Deep Learning** | **NLP** | **Computer Vision** | **Data Engineering** | **Video/Audio** | **LLM** |
 
-<h3 align="left"><ins>Cloud</ins></h3>
+<h3 align="left"><ins>Cloud Services</ins></h3>
 
 #### GCP
 | Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc | Earth Engine | Container Registry |
