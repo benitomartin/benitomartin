@@ -98,8 +98,8 @@ Resourceful and adaptable Data Scientist in career transition, showcasing a dive
 |---------------|----------|-----------|----|-----------|----------|--------------|--------------------|
 
 #### Azure
-| Azure Databricks | Delta Lake | Data Lake Gen2 | Data Factory | Container Registry |
-|------------------|------------|----------------|--------------|--------------------|
+| Azure Databricks | Data Lake Gen2 | Data Factory | Container Registry |
+|------------------|----------------|--------------|--------------------|
 
 #### AWS
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
