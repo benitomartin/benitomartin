@@ -16,7 +16,7 @@
       -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD and AWS
       -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): **MLOps** project using MLFlow, Prefect, FastAPI, Docker, and GCP
       -  [Music Clustering](https://github.com/benitomartin/mlops-music-clustering): **MLOps** project using FastAPI, Docker, CI/CD, AWS and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
-   - Data Analysis:
+   - Data Analysis + Modeling:
       -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** project: comparison of ARIMA, XGBoost, LSTM, and Prophet
       -  [News Classification](https://github.com/benitomartin/nlp-news-classification): **EDA**, **Modeling** and **Deployment** project: comparison of RNN, CNN and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
       -  [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone): **EDA** and **Modeling** project: comparison of Random Forest using Sklearn and Spark, as part of the Advanced Data Science with IBM Specialization
