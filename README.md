@@ -1,4 +1,4 @@
-<h1 align="center">:mountain_snow: Benito</h1>
+<h1 align="center">⚡ Benito</h1>
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 &nbsp;
 
@@ -7,7 +7,12 @@
 </p>
 &nbsp;
 
-- ⚡ A former process engineer and now passionate about **Data Science** and **Artificial Intelligence**
+<h2>👨‍💻 My Profile</h2>
+Resourceful and adaptable **Data Scientist** in career transition, showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
+
+&nbsp;
+
+<h2>📄 Projects Portfolio</h2>
 
 
 - 🌱 Developed as a project leader a **Computer Vision MLOps** project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/) during the last 2 weeks of the Data Science Bootcamp of Le Wagon
@@ -37,12 +42,6 @@
 - :basecamp: Last but not least, I also have a **Tableau** [portfolio](https://public.tableau.com/app/profile/benito.mart.n1807/vizzes) using groups, sets, blends, joins, table calculations, storylines, parameters, animations, and other advanced functions
 
 &nbsp;
-
-<h2>👨‍💻 My Profile</h2>
-Resourceful and adaptable Data Scientist in career transition, showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
-
-&nbsp;
-
 
 <h2>:abacus: Tech Stack</h2>
 
