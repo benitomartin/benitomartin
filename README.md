@@ -5,6 +5,7 @@
 <p align="center">
     <img src="https://github.com/benitomartin/benitomartin/assets/116911431/74603d1a-8aa5-47b3-a8c1-d4fc89ade665" width="1000" height="300"/>
 </p>
+&nbsp;
 
 - ⚡ A former process engineer and now passionate about **Data Science** and **Artificial Intelligence**
 
