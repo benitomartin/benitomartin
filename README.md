@@ -8,14 +8,14 @@
 &nbsp;
 
 <h2>👨‍💻 My Profile</h2>
-Resourceful and adaptable **Data Scientist** in career transition, showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
+Resourceful and adaptable **Data Scientist** in career transition since the end of 2022, showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
 
 &nbsp;
 
 <h2>📄 Projects Portfolio</h2>
 
 
-- 🌱 Developed as a project leader a **Computer Vision MLOps** project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/) during the last 2 weeks of the Data Science Bootcamp of Le Wagon
+- 🌱 Developed as a project leader a **Computer Vision MLOps** project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/) during the last 2 weeks of the Data Science Bootcamp of Le Wagon (March 2023)
 
 - 🔭 After my graduation, I worked as a  **volunteer** in the following Data Science Projects [NLP](https://omdena.com/chapter-challenges/breaking-down-language-barriers-using-ai-and-nlp-to-automate-dubbing-process-for-improved-accessibility-and-inclusivity/) and [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project ([Website](https://portugalenergy.streamlit.app/))
 
