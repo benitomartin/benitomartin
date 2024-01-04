@@ -3,9 +3,14 @@
 &nbsp;
 
 <p align="center">
+    <a href="[https://www.linkedin.com/your-profile-link](https://www.linkedin.com/feed/)">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="[https://www.kaggle.com/your-profile-link](https://www.kaggle.com/)">
         <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+    </a>
 </p>
+
 
 <p align="center">
     <img src="https://github.com/benitomartin/benitomartin/assets/116911431/74603d1a-8aa5-47b3-a8c1-d4fc89ade665" width="1000" height="300"/>
