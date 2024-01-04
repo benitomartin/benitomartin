@@ -2,20 +2,19 @@
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 &nbsp;
 
-<p align="center">
-    <a href="[https://www.linkedin.com/your-profile-link](https://www.linkedin.com/feed/)">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="[https://www.kaggle.com/your-profile-link](https://www.kaggle.com/)">
-        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-    </a>
-</p>
 
-
-<p align="center">
-    <img src="https://github.com/benitomartin/benitomartin/assets/116911431/74603d1a-8aa5-47b3-a8c1-d4fc89ade665" width="1000" height="300"/>
-</p>
-&nbsp;
+<div >
+    <a href="https://linkedin.com/in/benitomzh">
+        <p align="center">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        </p>
+    </a>
+    <a href="https://www.kaggle.com/bmart80/code">
+        <p align="center">
+        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
+        </p>
+    </a>
+</div>
 
 <h2>👨‍💻 My Profile</h2>
 Resourceful and adaptable <b>Data Scientist</b> in career transition since the end of 2022, showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
