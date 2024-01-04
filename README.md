@@ -1,7 +1,5 @@
 <h1 align="center">⚡ Benito</h1>
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
-&nbsp;
-
 
 <div >
     <a href="https://linkedin.com/in/benitomzh">
