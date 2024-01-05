@@ -1,10 +1,19 @@
-<h1 align="center">⚡Hi! I am Benito!</h1>
+<h1 align="center">⚡⚡⚡ Benito! ⚡⚡⚡</h1>
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/benitomzh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benito" height="30" width="40" /></a>   
-<a href="https://www.kaggle.com/bmart80/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="benito" height="30" width="40" /></a>
-</p>
+<div style="display: flex; justify-content: center;">
+    <a href="https://linkedin.com/in/benitomzh">
+       <p align="center">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+          </p>
+    </a>
+    <a href="https://www.kaggle.com/bmart80/code">
+        <p align="center">
+        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
+         </p>
+    </a>
+</div>
+
 
 <h2>👨‍💻 My Profile</h2>
 Resourceful and adaptable <b>Data Scientist</b> in career transition since the end of 2022, showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
