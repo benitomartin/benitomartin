@@ -15,12 +15,12 @@
 </div>
 
 
-<h2>👨‍💻 My Profile</h2>
+<h1>👨‍💻 $\textcolor{blue}{My\ Profile}$</h1>
 Resourceful and adaptable <b>Data Scientist</b> in career transition since the end of 2022, showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
 
 &nbsp;
 
-<h2>📄 Projects Portfolio</h2>
+<h1>📄 $\textcolor{blue}{Projects\ Portfolio}$</h1>
 
 
 - 🌱 Developed as a project leader a **Computer Vision MLOps** project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/) during the last 2 weeks of the Data Science Bootcamp of Le Wagon (March 2023)
@@ -28,19 +28,19 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 - 🔭 After my graduation, I worked as a  **volunteer** in the following Data Science Projects [NLP](https://omdena.com/chapter-challenges/breaking-down-language-barriers-using-ai-and-nlp-to-automate-dubbing-process-for-improved-accessibility-and-inclusivity/) and [GIS](https://omdena.com/chapter-challenges/identify-and-qualify-opportunities-to-create-new-energy-communities-in-portugal/) project ([Website](https://portugalenergy.streamlit.app/))
 
 - 💰 My last personal **Data Science/Engineering/Analysis and ML** projects can be found in these repositories:
-   - MLOps:
-      -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): **MLOps** project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD and AWS
-      -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): **MLOps** project using MLFlow, Prefect, FastAPI, Docker, and GCP
-      -  [Music Clustering](https://github.com/benitomartin/mlops-music-clustering): **MLOps** project using FastAPI, Docker, CI/CD, AWS and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
-   - Data Analysis + Modeling:
-      -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): **EDA** and **Modeling** project: comparison of ARIMA, XGBoost, LSTM, and Prophet
-      -  [News Classification](https://github.com/benitomartin/nlp-news-classification): **EDA**, **Modeling** and **Deployment** project: comparison of RNN, CNN and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
-      -  [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone): **EDA** and **Modeling** project: comparison of Random Forest using Sklearn and Spark, as part of the Advanced Data Science with IBM Specialization
-   - Machine Learning:
-      -  [Birds Classification](https://github.com/benitomartin/birds_classification): **Computer Vision** project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
-      -  [Q&A and Summarization](https://github.com/benitomartin/youtube-llm): **LLM** project for audio and text extraction using Whisper and Langchain with app deployment using Streamlit (locally)
-   - Data Engineering:   
-      -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): **Data Engineering** project using Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD and GCP
+   - **MLOps**:
+      -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): MLOps project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD and AWS
+      -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): MLOps project using MLFlow, Prefect, FastAPI, Docker, and GCP
+      -  [Music Clustering](https://github.com/benitomartin/mlops-music-clustering): MLOps project using FastAPI, Docker, CI/CD, AWS and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
+   - **Data Analysis + Modeling**:
+      -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): EDA and Modeling project: comparison of ARIMA, XGBoost, LSTM, and Prophet
+      -  [News Classification](https://github.com/benitomartin/nlp-news-classification): EDA, Modeling and Deployment project: comparison of RNN, CNN and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
+      -  [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone): EDA and Modeling project: comparison of Random Forest using Sklearn and Spark, as part of the Advanced Data Science with IBM Specialization
+   - **Machine Learning**:
+      -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
+      -  [Q&A and Summarization](https://github.com/benitomartin/youtube-llm): LLM project for audio and text extraction using Whisper and Langchain with app deployment using Streamlit (locally)
+   - **Data Engineering**:   
+      -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): Data Engineering project using Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD and GCP
 
 
 - 💸 Additionally, you can find my **Power BI** projects:
@@ -51,9 +51,9 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 
 &nbsp;
 
-<h2>:abacus: Tech Stack</h2>
+<h1>:abacus: $\textcolor{blue}{Tech\ Stack}$</h1>
 
-<h3 align="left"><ins>Data Science/Engineering/Analysis and ML</ins></h3>
+<h2 align="left"><ins>$\textcolor{blue}{Data Science/Engineering/Analysis\ and\ ML}$</ins></h2>
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -100,23 +100,26 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 |----------------------|-------------------|---------|---------------------|----------------------|-----------------|---------|
 | **Machine Learning** | **Deep Learning** | **NLP** | **Computer Vision** | **Data Engineering** | **Video/Audio** | **LLM** |
 
-<h3 align="left"><ins>Cloud Services</ins></h3>
+<h2 align="left"><ins>$\textcolor{blue}{Cloud\ Services}$</ins></h2>
 
 
-#### GCP
+<h4 align="left"><ins>$\color{green}{GCP}$</ins></h4>
+
 | Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc | Earth Engine | Container Registry |
 |---------------|----------|-----------|----|-----------|----------|--------------|--------------------|
 
-#### Azure
+<h4 align="left"><ins>$\color{green}{Azure}$</ins></h4>
+
 | Azure Databricks | Data Lake Gen2 | Data Factory | Container Registry |
 |------------------|----------------|--------------|--------------------|
 
-#### AWS
+<h4 align="left"><ins>$\color{green}{AWS}$</ins></h4>
+
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
 |----|-----|-----|---------|--------|-----|
 
 
-<h3 align="left"><ins>Web Development</ins></h3>
+<h2 align="left"><ins>$\textcolor{blue}{Web\ Development}$</ins></h2>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -130,7 +133,7 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 
 &nbsp;
 
-<h2>:repeat_one: Let's Connect!</h2>
+<h1>:abacus: $\textcolor{blue}{ Let's\ Connect}$</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/benitomzh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benito" height="30" width="40" /></a>   
