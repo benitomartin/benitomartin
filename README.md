@@ -1,4 +1,4 @@
-<h1 align="center">⚡⚡⚡ Benito! ⚡⚡⚡</h1>
+<h1 align="center">⚡⚡⚡Benito ⚡⚡⚡</h1>
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 
 <div style="display: flex; justify-content: center;">
@@ -103,17 +103,17 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 <h2 align="left"><ins>$\textcolor{blue}{Cloud\ Services}$</ins></h2>
 
 
-<h4 align="left"><ins>$\color{green}{GCP}$</ins></h4>
+<h3 align="left"><ins>$\color{green}{GCP}$</ins></h3>
 
 | Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc | Earth Engine | Container Registry |
 |---------------|----------|-----------|----|-----------|----------|--------------|--------------------|
 
-<h4 align="left"><ins>$\color{green}{Azure}$</ins></h4>
+<h3 align="left"><ins>$\color{green}{Azure}$</ins></h3>
 
 | Azure Databricks | Data Lake Gen2 | Data Factory | Container Registry |
 |------------------|----------------|--------------|--------------------|
 
-<h4 align="left"><ins>$\color{green}{AWS}$</ins></h4>
+<h3 align="left"><ins>$\color{green}{AWS}$</ins></h3>
 
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
 |----|-----|-----|---------|--------|-----|
@@ -133,7 +133,7 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 
 &nbsp;
 
-<h1>:abacus: $\textcolor{blue}{ Let's\ Connect}$</h1>
+<h1>:abacus: $\textcolor{blue}{ Let's\ Connect!}$</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/benitomzh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benito" height="30" width="40" /></a>   
