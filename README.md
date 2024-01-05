@@ -102,8 +102,7 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 
 <h2 align="left"><ins>Cloud Services</ins></h2>
 
-
-<h3 align="left"><GCP</h3>
+<h3 align="left">GCP</h3>
 
 | Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc | Earth Engine | Container Registry |
 |---------------|----------|-----------|----|-----------|----------|--------------|--------------------|
