@@ -131,6 +131,9 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 
 <h2>:repeat_one: Let's Connect!</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benitomzh)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bmart80/code)
+<p align="left">
+<a href="https://www.linkedin.com/in/benitomzh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benito" height="30" width="40" /></a>   
+<a href="https://www.kaggle.com/bmart80/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="benito" height="30" width="40" /></a>
+
+</p>
 
