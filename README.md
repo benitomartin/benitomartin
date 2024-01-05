@@ -15,12 +15,12 @@
 </div>
 
 
-<h1>👨‍💻 $\textcolor{blue}{My\ Profile}$</h1>
+<h1>👨‍💻 My Profile</h1>
 Resourceful and adaptable <b>Data Scientist</b> in career transition since the end of 2022, showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
 
 &nbsp;
 
-<h1>📄 $\textcolor{blue}{Projects\ Portfolio}$</h1>
+<h1>📄 Projects Portfolio</h1>
 
 
 - 🌱 Developed as a project leader a **Computer Vision MLOps** project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/) during the last 2 weeks of the Data Science Bootcamp of Le Wagon (March 2023)
@@ -51,9 +51,9 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 
 &nbsp;
 
-<h1>:abacus: $\textcolor{blue}{Tech\ Stack}$</h1>
+<h1>:abacus: Tech Stack</h1>
 
-<h2 align="left"><ins>$\textcolor{blue}{Data Science/Engineering/Analysis\ and\ ML}$</ins></h2>
+<h2 align="left"><ins>Data Science/Engineering/Analysis and ML</ins></h2>
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -100,26 +100,26 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 |----------------------|-------------------|---------|---------------------|----------------------|-----------------|---------|
 | **Machine Learning** | **Deep Learning** | **NLP** | **Computer Vision** | **Data Engineering** | **Video/Audio** | **LLM** |
 
-<h2 align="left"><ins>$\textcolor{blue}{Cloud\ Services}$</ins></h2>
+<h2 align="left"><ins>Cloud Services</ins></h2>
 
 
-<h3 align="left"><ins>$\color{green}{GCP}$</ins></h3>
+<h3 align="left"><GCP</h3>
 
 | Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc | Earth Engine | Container Registry |
 |---------------|----------|-----------|----|-----------|----------|--------------|--------------------|
 
-<h3 align="left"><ins>$\color{green}{Azure}$</ins></h3>
+<h3 align="left">Azure</h3>
 
 | Azure Databricks | Data Lake Gen2 | Data Factory | Container Registry |
 |------------------|----------------|--------------|--------------------|
 
-<h3 align="left"><ins>$\color{green}{AWS}$</ins></h3>
+<h3 align="left">AWS</h3>
 
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
 |----|-----|-----|---------|--------|-----|
 
 
-<h2 align="left"><ins>$\textcolor{blue}{Web\ Development}$</ins></h2>
+<h2 align="left"><ins>Web Development</ins></h2>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -133,7 +133,7 @@ Resourceful and adaptable <b>Data Scientist</b> in career transition since the e
 
 &nbsp;
 
-<h1>:abacus: $\textcolor{blue}{ Let's\ Connect!}$</h1>
+<h1>:abacus: Let's Connect!</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/benitomzh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benito" height="30" width="40" /></a>   
