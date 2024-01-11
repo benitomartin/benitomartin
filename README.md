@@ -34,7 +34,7 @@ Resourceful and adaptable <b>Data Scientist</b> showcasing a diverse portfolio s
       -  [Music Clustering](https://github.com/benitomartin/mlops-music-clustering): MLOps project using FastAPI, Docker, CI/CD, AWS and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
    - **Data Analysis + Modeling**:
       -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): EDA and Modeling project: comparison of ARIMA, XGBoost, LSTM, and Prophet
-      -  [News Classification](https://github.com/benitomartin/nlp-news-classification): EDA, Modeling and Deployment project: comparison of RNN, CNN and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
+      -  [News Classification](https://github.com/benitomartin/nlp-news-classification): EDA, Modeling and Deployment project: comparison of NN, CNN and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
       -  [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone): EDA and Modeling project: comparison of Random Forest using Sklearn and Spark, as part of the Advanced Data Science with IBM Specialization
    - **Machine Learning**:
       -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
