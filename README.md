@@ -124,7 +124,6 @@ Resourceful and adaptable <b>Data Scientist</b> showcasing a diverse portfolio s
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
 |----|-----|-----|---------|--------|-----|
 
-
 &nbsp;
 
 <h1>:abacus: Let's Connect!</h1>
