@@ -2,7 +2,7 @@
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://benitomartin.my.canva.site//">
+    <a href="https://benitomartin.github.io/index.html">
        <p align="center">
         <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn Badge">
           </p>
