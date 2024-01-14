@@ -1,21 +1,21 @@
 <h1 align="center">⚡Benito⚡</h1>
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 
+User
 <div style="display: flex; justify-content: center;">
-    <a href="https://benitomartin.github.io" onclick="window.open(this.href,'_blank'); return false;">
-        <p align="center">
-            <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
-        </p>
+    <a href="https://benitomartin.github.io">
+       <p align="center">
+        <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn Badge">
+          </p>
+    <a href="https://linkedin.com/in/benitomzh">
+       <p align="center">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+          </p>
     </a>
-    <a href="https://linkedin.com/in/benitomzh" onclick="window.open(this.href,'_blank'); return false;">
+    <a href="https://www.kaggle.com/bmart80/code">
         <p align="center">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </p>
-    </a>
-    <a href="https://www.kaggle.com/bmart80/code" onclick="window.open(this.href,'_blank'); return false;">
-        <p align="center">
-            <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
-        </p>
+        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
+         </p>
     </a>
 </div>
 
