@@ -1,7 +1,7 @@
 <h1 align="center">⚡Benito⚡</h1>
 <h3 align="center"><i>" It's not about data, it's all about tangible business insights :chart_with_upwards_trend:	"</i></h3>
 
-User
+
 <div style="display: flex; justify-content: center;">
     <a href="https://benitomartin.github.io">
        <p align="center">
