@@ -52,6 +52,7 @@ Currently working as **Teaching Assistant** for the [Data Science & AI Bootcamp]
       -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
       -  [Q&A and Summarization](https://github.com/benitomartin/youtube-llm): LLM project for audio and text extraction using Whisper and Langchain with app deployment using Streamlit (locally)
       -  [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake): RAG (Retrieval-Augmented Generation) project for QA retrieval using Llama Index and Deep Lake
+      -  [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas): RAG (Retrieval-Augmented Generation) project for QA retrieval using LangChain and evaluation with RAGAS
    - **Data Engineering**:   
       -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): Data Engineering project using Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD and GCP
 
