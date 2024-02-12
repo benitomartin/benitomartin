@@ -23,7 +23,7 @@
 
 
 <h1>👨‍💻 My Profile</h1>
-Resourceful and adaptable <b>Data Scientist</b> showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks,LLM, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Science, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
+Resourceful and adaptable <b>Data Scientist</b> showcasing a diverse portfolio spanning Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, LLM, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Power BI, Tableau, SQL, Data Science, Data Engineering, MLOps, REST API, Cloud platforms (GCP, AWS), and various web development tools.
 
 &nbsp;
 
