@@ -27,7 +27,7 @@ Resourceful and adaptable <b>Data Scientist</b> showcasing a diverse portfolio s
 
 &nbsp;
 
-Currently working as **Teaching Assistant** for the [Data Science & AI Bootcamp](https://www.lewagon.com/data-science-course) @ Le Wagon.
+Currently working as **Teaching Assistant** for the [Data Analytics](https://www.lewagon.com/data-analytics-course) and [Data Science & AI Bootcamp](https://www.lewagon.com/data-science-course) @ Le Wagon.
 
 &nbsp;
 
