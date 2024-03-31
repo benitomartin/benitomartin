@@ -48,7 +48,7 @@ Currently working as **Teaching Assistant** for the [Data Analytics](https://www
       -  [News Classification](https://github.com/benitomartin/nlp-news-classification): EDA, Modeling and Deployment project: comparison of several Neural Networks (CNN, RNN, feedforward) and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
       -  [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone): EDA and Modeling project: comparison of Random Forest using Sklearn and Spark, as part of the Advanced Data Science with IBM Specialization
       -  [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification): EDA and Modeling project including univariate/bivariate analysis, feature engineering, baseline model selection and voting classifier (LGBMClassifier, XGBoostClassifier, and CatBoostClassifier)
-   - **Machine Learning**:
+   - **Machine Learning & LLM**:
       -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
       -  [Q&A and Summarization](https://github.com/benitomartin/youtube-llm): LLM project for audio and text extraction using Whisper and Langchain with app deployment using Streamlit (locally)
       -  [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake): RAG (Retrieval-Augmented Generation) project for QA retrieval using Llama Index and Deep Lake
