@@ -55,7 +55,7 @@ Currently working as **Teaching Assistant** for the [Data Analytics](https://www
       -  [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas): RAG (Retrieval-Augmented Generation) project for QA retrieval using LangChain and evaluation with RAGAS
    - **Data Engineering**:   
       -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): Data Engineering project using Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD and GCP
-      -  [Weather Switzerland](https://github.com/benitomartin/de-ch-weather): Data Engineering project using Mage, dbt, Terraform, Looker, CI/CD and GCP
+      -  [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather): Data Engineering project using Mage, dbt, Terraform, Looker, CI/CD and GCP
 
 
 - 💸 Additionally, you can find my **Power BI** projects:
