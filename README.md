@@ -31,6 +31,11 @@ Currently working as **Teaching Assistant** for the [Data Analytics](https://www
 
 &nbsp;
 
+<a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Fill in this form or reach out on LinkedIn!</a>
+
+
+&nbsp;
+
 <h1>📄 Projects Portfolio</h1>
 
 
