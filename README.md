@@ -27,8 +27,8 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 &nbsp;
 
-- ✅ Data Visualization/Analytics: Power BI, Looker, Tableau
-- ✅ Data Science: Python, PyTorch, TensorFlow, Scikit-learn
+- ✅ Data Visualization/Analytics: Power BI, Looker, Tableau,  Matplotlib, Seaborn, Plotly
+- ✅ Data Science: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Transformers, OpenCV
 - ✅ Web Scraping: BeautifulSoup, Scrapy, Selenium
 - ✅ Maths and Statistics: Statsmodels
 - ✅ Domains: Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering, Dimensionality, Reduction, Anomaly Detection
