@@ -23,7 +23,19 @@
 
 
 <h1>👨‍💻 My Profile</h1>
-Resourceful and adaptable <b>Data Scientist</b> showcasing a diverse portfolio spanning AI & Machine/Deep Learning expertise in Regression, Classification, Time Series, NLP, Neural Networks, LLM, Ensemble Methods, and Computer Vision. I bring a deep skill set poised to drive impactful data-driven solutions encompassing Data Visualization (Power BI, Looker), SQL, Data Science, Data Engineering, MLOps (MLflow, Prefect, Mage), REST API, Cloud platforms (GCP, AWS), and various web development tools.
+Innovative and dynamic <b>Data Scientist</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. Incorporating a robust skill set encompassing: 
+
+&nbsp;
+
+- ✅ Data Visualization/Analytics: Power BI, Looker, Tableau
+- ✅ Data Science: Python, PyTorch, TensorFlow, Scikit-learn
+- ✅ Web Scraping: BeautifulSoup, Scrapy, Selenium
+- ✅ Maths and Statistics: Statsmodels
+- ✅ Domains: Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering, Dimensionality, Reduction, Anomaly Detection
+- ✅ Data Engineering: dbt, Terraform, SQL, PySpark
+- ✅ MLOps: MLflow, Prefect, Mage
+- ✅ APIs: Flask, FastAPI
+- ✅ Cloud Platforms: GCP, AWS,Azure
 
 &nbsp;
 
