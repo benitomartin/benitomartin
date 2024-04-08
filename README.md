@@ -31,8 +31,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ Data Science: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Transformers, OpenCV, NLTK, SpaCy
 - ✅ Web Scraping: BeautifulSoup, Scrapy, Selenium
 - ✅ Maths and Statistics: Statsmodels, SciPy
-- ✅ Domains: Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA,
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering, Dimensionality, Reduction, Anomaly Detection
+- ✅ Domains: Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality, Reduction, Anomaly Detection
 - ✅ Data Engineering: dbt, Terraform, SQL, PySpark
 - ✅ MLOps: MLflow, Prefect, Mage
 - ✅ APIs: Flask, FastAPI
