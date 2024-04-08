@@ -127,11 +127,6 @@ Currently working as **Teaching Assistant** for the [Data Analytics](https://www
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-
-|    Data Wrangling    |      Big Data     |  QGIS   | Data Analytics      | Data Visualization   | Time Series     | MLOps   |
-|----------------------|-------------------|---------|---------------------|----------------------|-----------------|---------|
-| **Machine Learning** | **Deep Learning** | **NLP** | **Computer Vision** | **Data Engineering** | **Video/Audio** | **LLM** |
-
 <h2 align="left"><ins>Cloud Services</ins></h2>
 
 <h3 align="left">GCP</h3>
