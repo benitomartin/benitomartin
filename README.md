@@ -27,7 +27,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 &nbsp;
 
-- ✅ Data Visualization/Analytics: Power BI, Looker, Tableau,  Matplotlib, Seaborn, Plotly
+- ✅ Data Visualization/Analytics: Power BI, Looker, Tableau,  Matplotlib, Seaborn, Plotly, Streamlit
 - ✅ Data Science: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Transformers, OpenCV, NLTK, SpaCy
 - ✅ Web Scraping: BeautifulSoup, Scrapy, Selenium
 - ✅ Maths and Statistics: Statsmodels, SciPy
