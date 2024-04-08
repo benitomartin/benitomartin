@@ -35,7 +35,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ Data Engineering: dbt, Terraform, SQL, PySpark
 - ✅ MLOps: MLflow, Prefect, Mage
 - ✅ APIs: Flask, FastAPI
-- ✅ Cloud Platforms: GCP, AWS,Azure
+- ✅ Cloud Platforms: GCP, AWS, Azure
 
 &nbsp;
 
