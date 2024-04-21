@@ -39,7 +39,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 &nbsp;
 
-Currently working as **Teaching Assistant** for the [Data Analytics](https://www.lewagon.com/data-analytics-course) and [Data Science & AI](https://www.lewagon.com/data-science-course) Bootcamps @ Le Wagon and as **AI Course Developer and Technical Editor** @ [Towards AI](https://towardsai.net/) and open for further cooperation opportunities!
+Currently working as **Teacher** for the [Data Analytics](https://www.lewagon.com/data-analytics-course) and [Data Science & AI](https://www.lewagon.com/data-science-course) Bootcamps @ Le Wagon and as **AI Course Developer and Technical Editor** @ [Towards AI](https://towardsai.net/) and open for further cooperation opportunities!
 &nbsp;
 
 👉 **CONTACT ME!** 👉  <a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Fill in this form or reach out on LinkedIn!</a>
