@@ -18,9 +18,12 @@
          </p>
     </a>
 </div>
+        
+&nbsp;
 
+The best way to read my profile is while listening this beautiful [Spanish AI song](https://youtu.be/M_Q_8-f0sAg?si=e5RNTOUQOui3Hcgb) &nbsp;  🎶 🎷 🎶
 
-
+&nbsp;
 
 <h1>👨‍💻 My Profile</h1>
 Innovative and dynamic <b>Data Scientist</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. Incorporating a robust skill set encompassing: 
