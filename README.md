@@ -21,7 +21,7 @@
         
 &nbsp;
 
-The best way to read my profile is while listening this beautiful [Spanish AI song](https://youtu.be/M_Q_8-f0sAg?si=e5RNTOUQOui3Hcgb) &nbsp;  🎶 🎷 🎶
+The best way to read my profile is while listening to this beautiful [Spanish AI song](https://youtu.be/M_Q_8-f0sAg?si=e5RNTOUQOui3Hcgb) &nbsp;  🎶 🎷 🎶
 
 &nbsp;
 
