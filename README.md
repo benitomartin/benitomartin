@@ -46,7 +46,7 @@ Currently working as an **Independent Consultant**, **Teacher**, and **AI Course
 
 &nbsp;
 
-👉 **CONTACT ME!** 👉  <a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Reach out in 🇪🇸 or 🇬🇧 using this form or on LinkedIn!</a>
+👉 **CONTACT ME!** <a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Reach out in 🇪🇸 or 🇬🇧 using this form or on LinkedIn!</a>
 
 &nbsp;
 
