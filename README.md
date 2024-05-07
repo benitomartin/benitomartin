@@ -17,8 +17,15 @@
         <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
          </p>
     </a>
+        <p align="center">
+        <img src="https://emojicdn.elk.sh/🇪🇸" alt=":ES:" width="30" height="30"/>  
+        <img src="https://emojicdn.elk.sh/🇬🇧" alt="Flag of the United Kingdom" width="30" height="30"/>  
+         </p>
+
+
 </div>
-        
+
+
 &nbsp;
 
 The best way to read my profile is while listening to this beautiful [Spanish AI Song](https://youtu.be/M_Q_8-f0sAg?si=e5RNTOUQOui3Hcgb) &nbsp;  🎶 🎷 🎶
@@ -46,7 +53,8 @@ Currently working as an **Independent Consultant**, **Teacher**, and **AI Course
 
 &nbsp;
 
-👉 **CONTACT ME!** <a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Reach out in 🇪🇸 or 🇬🇧 using this form or on LinkedIn!</a>
+👉 **CONTACT ME!** <a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Reach out using this form or on LinkedIn!</a> 
+
 
 &nbsp;
 
