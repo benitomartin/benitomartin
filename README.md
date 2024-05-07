@@ -17,11 +17,10 @@
         <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
          </p>
     </a>
-        <p align="center">
+    <p align="center">
         <img src="https://emojicdn.elk.sh/🇪🇸" alt=":ES:" width="30" height="30"/>  
         <img src="https://emojicdn.elk.sh/🇬🇧" alt="Flag of the United Kingdom" width="30" height="30"/>  
-         </p>
-
+    </p>
 
 </div>
 
