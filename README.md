@@ -81,7 +81,7 @@ Currently working as an **Independent Consultant**, **Teacher**, and **AI Course
       -  [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake): RAG project for QA retrieval using Llama Index and Deep Lake
       -  [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas): RAG project for QA retrieval using LangChain and evaluation with RAGAS
       -  [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone): RAG project for QA retrieval using LangChain, Pinecone adding multi-tenancy, agents and memory
-      -  
+
    - **Data Engineering**:   
       -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): Data Engineering project using Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD and GCP
       -  [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather): Data Engineering project using Mage, dbt, Terraform, Looker, CI/CD and GCP
