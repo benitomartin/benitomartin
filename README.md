@@ -40,7 +40,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ **Web Scraping:** BeautifulSoup, Scrapy, Selenium
 - ✅ **Maths and Statistics:** Statsmodels, SciPy
 - ✅ **Data Science & ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, NLTK, SpaCy
-- ✅ **AI:** Langchain, LlamaIndex, OpenAI, Hugging Face, Transformers, Ollama
+- ✅ **AI:** Langchain, LlamaIndex, OpenAI, Hugging Face, Transformers, Ollama, Llamafile, CrewAI, Pinecone, Qdrant, Chroma, Faiss
 - ✅ **Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
 - ✅ **Data Engineering:** dbt, Terraform, SQL, PySpark
 - ✅ **MLOps:** MLflow, Prefect, Mage
