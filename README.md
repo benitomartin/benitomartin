@@ -65,7 +65,7 @@ Currently working as an **Independent Consultant**, **Teacher**, and **AI Course
 
 - 🔭 After my graduation, I worked as a  **volunteer** in the following Data Science Projects [NLP](https://www.omdena.com/projects/automate-dubbing-processing-using-ai-and-nlp) and [GIS](https://www.omdena.com/projects/identifying-and-qualifying-opportunities-to-create-new-energy-communities-in-portugal) project ([Website](https://portugalenergy.streamlit.app/)) at Omdena
 
-- 💰 My last personal **Data Science/Engineering/Analysis and ML** projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
+- 💰 My last personal **Data Science/Engineering/Analysis, ML and AI** projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
    - **MLOps**:
       -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): MLOps project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD and AWS
       -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): MLOps project using MLFlow, Prefect, FastAPI, Docker, and GCP
