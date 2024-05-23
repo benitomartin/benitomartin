@@ -31,6 +31,11 @@
 
 &nbsp;
 
+👉 **CONTACT ME!** 👉 <a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Reach out using this form or on LinkedIn!</a> 
+
+
+&nbsp;
+
 <h1>👨‍💻 My Profile</h1>
 Innovative and dynamic <b>Data Scientist</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. Incorporating a robust skill set encompassing: 
 
@@ -51,12 +56,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 Currently working as an **Independent Consultant**, **Teacher**, and **AI Course Developer** for Data Analytics and Data Science Bootcamps and Courses, and open for further cooperation opportunities! Additionally, I always keep developing personal projects.
 
-&nbsp;
 
-👉 **CONTACT ME!** 👉 <a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Reach out using this form or on LinkedIn!</a> 
-
-
-&nbsp;
 
 <h1>📄 Projects Portfolio</h1>
 
