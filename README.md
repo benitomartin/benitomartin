@@ -63,7 +63,7 @@ Currently working as an **Independent Consultant**, **Teacher**, and **AI Course
 
 - 🌱 Developed as a project leader a **Computer Vision MLOps** project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/) during the last 2 weeks of the Data Science Bootcamp of Le Wagon (March 2023)
 
-- 🔭 After my graduation, I worked as a  **volunteer** in the following Data Science Projects [NLP](https://www.omdena.com/projects/automate-dubbing-processing-using-ai-and-nlp) and [GIS](https://www.omdena.com/projects/identifying-and-qualifying-opportunities-to-create-new-energy-communities-in-portugal) project ([Website](https://portugalenergy.streamlit.app/)) at Omdena
+- 🔭 After my graduation, I worked as a  **volunteer** in the following Data Science Projects [NLP](https://verified.sertifier.com/en/verify/67574151062200/) and [GIS](https://www.omdena.com/projects/identifying-and-qualifying-opportunities-to-create-new-energy-communities-in-portugal) project ([Website](https://portugalenergy.streamlit.app/)) at Omdena
 
 - 💰 My personal end-to-end **Data Science/Engineering/Analysis, ML and AI** projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
    - **MLOps**:
