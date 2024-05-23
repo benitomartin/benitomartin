@@ -27,7 +27,7 @@
 
 &nbsp;
 
-😃 Support me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) and read my profile while listening to this beautiful [Spanish AI Song](https://youtu.be/M_Q_8-f0sAg?si=e5RNTOUQOui3Hcgb) &nbsp;  🎶 🎷 🎶
+😃 Support me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) if you like my content and read my profile while listening to this beautiful [Spanish AI Song](https://youtu.be/M_Q_8-f0sAg?si=e5RNTOUQOui3Hcgb) &nbsp;  🎶 🎷 🎶
 
 
 👉 **CONTACT ME!** 👉 <a href="https://forms.gle/yF3hZRLTbN1MCyVN9" target="_blank">Reach out using this form or on LinkedIn!</a> 
