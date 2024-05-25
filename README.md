@@ -82,7 +82,6 @@ Currently working as an **Independent Consultant**, **Teacher**, and **Course De
       -  [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone): RAG project for QA retrieval using LangChain, Pinecone adding multi-tenancy, agents and memory
       -  [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant): RAG project for QA retrieval using LangChain, Qdrant and CrewAI agents (researcher and writer)
       -  [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b): Fine tuning of Gemma 2B model using quantization and LoRA Adapters (QLoRA) and hosting the model/adapters in a private repo in [Hugging Face](https://huggingface.co/bmartinc80/gemma-ft)
-      -  
    - **Data Engineering**:   
       -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): Data Engineering project using Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD and GCP
       -  [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather): Data Engineering project using Mage, dbt, Terraform, Looker, CI/CD and GCP
