@@ -55,7 +55,10 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 &nbsp;
 
-Currently working as an **Independent Consultant**, **Teacher**, and **Course Developer** for Data Analytics/Science ML and AI, and open for further cooperation opportunities! Additionally, I always keep developing personal projects.
+Currently working as an **Independent Consultant**, **Teacher**, and **Course Developer** for Data Analytics/Science ML and AI, and open for further cooperation opportunities! 
+
+If you want me to develop a project for you feel free to contact me! I always keep developing personal projects and I'm happy to get new ideas 😃.
+
 
 &nbsp;
 
