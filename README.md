@@ -53,7 +53,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 &nbsp;
 
-Currently working as an **Independent Consultant**, **Teacher**, and **AI Course Developer** for Data Analytics and Data Science Bootcamps and Courses, and open for further cooperation opportunities! Additionally, I always keep developing personal projects.
+Currently working as an **Independent Consultant**, **Teacher**, and **Course Developer** for Data Analytics/Science ML and AI, and open for further cooperation opportunities! Additionally, I always keep developing personal projects.
 
 &nbsp;
 
@@ -69,13 +69,13 @@ Currently working as an **Independent Consultant**, **Teacher**, and **AI Course
       -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): MLOps project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD and AWS
       -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): MLOps project using MLFlow, Prefect, FastAPI, Docker, and GCP
       -  [Music Clustering](https://github.com/benitomartin/mlops-music-clustering): MLOps project using FastAPI, Docker, CI/CD, AWS and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
+      -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
    - **Data Analysis + Modeling**:
       -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): EDA and Modeling project: comparison of ARIMA, XGBoost, LSTM, and Prophet
       -  [News Classification](https://github.com/benitomartin/nlp-news-classification): EDA, Modeling and Deployment project: comparison of several Neural Networks (CNN, RNN, feedforward) and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
       -  [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone): EDA and Modeling project: comparison of Random Forest using Sklearn and Spark, as part of the Advanced Data Science with IBM Specialization
       -  [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification): EDA and Modeling project including univariate/bivariate analysis, feature engineering, baseline model selection and voting classifier (LGBMClassifier, XGBoostClassifier, and CatBoostClassifier)
-   - **Machine Learning & LLM**:
-      -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
+   - **LLM, RAG and Fine-tuning**:
       -  [Q&A and Summarization](https://github.com/benitomartin/youtube-llm): LLM project for audio and text extraction using Whisper and Langchain with app deployment using Streamlit (locally)
       -  [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake): RAG project for QA retrieval using Llama Index and Deep Lake
       -  [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas): RAG project for QA retrieval using LangChain and evaluation with RAGAS
