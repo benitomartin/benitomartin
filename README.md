@@ -6,11 +6,12 @@
     <a href="https://benitomartin.github.io">
        <p align="center">
         <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn Badge">
-          </p>
+       </p>
+        
     <a href="https://linkedin.com/in/benitomzh">
        <p align="center">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-          </p>
+        </p>
     </a>
     <a href="https://www.kaggle.com/bmart80/code">
         <p align="center">
