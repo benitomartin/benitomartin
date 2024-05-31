@@ -19,7 +19,7 @@
     </a>
     <p align="center">
         <img src="https://emojicdn.elk.sh/🇪🇸" alt=":ES:" width="30" height="30"/>  
-        <img src="https://emojicdn.elk.sh/🇬🇧" alt="Flag of the United Kingdom" width="30" height="30"/>  
+        <img src="https://emojicdn.elk.sh/🇬🇧" alt=":EN:" width="30" height="30"/>  
         <img src="https://emojicdn.elk.sh/🇩🇪" alt=":ES:" width="30" height="30"/>  
       
     </p>
