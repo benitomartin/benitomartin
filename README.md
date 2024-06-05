@@ -64,18 +64,14 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h1>📄 Projects Portfolio</h1>
 
-
-- 🌱 Developed as a project leader a **Computer Vision MLOps** project [FoodScore](https://github.com/benitomartin/foodscore-code) (summary) and its [Website](https://foodscore.streamlit.app/) during the last 2 weeks of the Data Science Bootcamp of Le Wagon (March 2023)
-
-- 🔭 After my graduation, I worked as a  **volunteer** in the following Data Science Projects [NLP](https://verified.sertifier.com/en/verify/92241073347976/) and [GIS](https://verified.sertifier.com/en/verify/67574151062200/) project ([Website](https://portugalenergy.streamlit.app/)) at Omdena
-
 - 💰 My personal end-to-end **Data Science/Engineering/Analysis, ML and AI** projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
-   - **MLOps**:
+   - **MLOps**:           
       -  [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke): MLOps project using Comet ML, Flask, Docker, and AWS
       -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): MLOps project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD and AWS
       -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): MLOps project using MLFlow, Prefect, FastAPI, Docker, and GCP
       -  [Music Clustering](https://github.com/benitomartin/mlops-music-clustering): MLOps project using FastAPI, Docker, CI/CD, AWS and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
       -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
+      -  [Food Prediction](https://github.com/benitomartin/foodscore-code): MLOps project using Flask, Docker, and GCP
    - **Data Analysis + Modeling**:
       -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): EDA and Modeling project: comparison of ARIMA, XGBoost, LSTM, and Prophet
       -  [News Classification](https://github.com/benitomartin/nlp-news-classification): EDA, Modeling and Deployment project: comparison of several Neural Networks (CNN, RNN, feedforward) and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
