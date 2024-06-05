@@ -71,7 +71,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
       -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): MLOps project using MLFlow, Prefect, FastAPI, Docker, and GCP
       -  [Music Clustering](https://github.com/benitomartin/mlops-music-clustering): MLOps project using FastAPI, Docker, CI/CD, AWS and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
       -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
-      -  [Food Prediction](https://github.com/benitomartin/foodscore-code): MLOps project using Flask, Docker, and GCP
+      -  [Food Prediction](https://github.com/benitomartin/foodscore-code): MLOps project using FastAPI, Docker, GCP, and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
    - **Data Analysis + Modeling**:
       -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): EDA and Modeling project: comparison of ARIMA, XGBoost, LSTM, and Prophet
       -  [News Classification](https://github.com/benitomartin/nlp-news-classification): EDA, Modeling and Deployment project: comparison of several Neural Networks (CNN, RNN, feedforward) and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
