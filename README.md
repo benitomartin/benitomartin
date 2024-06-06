@@ -166,6 +166,5 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <p align="left">
 <a href="https://www.linkedin.com/in/benitomzh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benito" height="30" width="40" /></a>   
-<a href="https://www.kaggle.com/bmart80/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="benito" height="30" width="40" /></a>
 </p>
 
