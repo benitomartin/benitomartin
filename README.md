@@ -21,7 +21,7 @@
 
 
 <div align="center">
-    <img src="https://github.com/benitomartin/de-ch-weather/assets/116911431/3dfd9f56-54af-4047-809f-9d653b1cf89f"/>
+    <img src="https://github.com/benitomartin/de-ch-weather/assets/116911431/3dfd9f56-54af-4047-809f-9d653b1cf89f" width="60" height="60"/>
 </div>
 
 
