@@ -18,6 +18,15 @@
        </p>
     </a>
 </div>
+
+
+<div align="center">
+    <img src="https://github.com/benitomartin/de-ch-weather/assets/116911431/3dfd9f56-54af-4047-809f-9d653b1cf89f"/>
+</div>
+
+
+
+
 <div align="center">
     <img src="https://emojicdn.elk.sh/🇪🇸" alt=":ES:" width="30" height="30"/>  
     <img src="https://emojicdn.elk.sh/🇬🇧" alt=":EN:" width="30" height="30"/>  
