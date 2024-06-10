@@ -167,8 +167,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h3 align="left">AWS</h3>
 
-| S3 | EC2 | ECR | Kinesis | Lambda | RDS |
-|----|-----|-----|---------|--------|-----|
+| SageaMaker | S3 | EC2 | ECR | Kinesis | Lambda | RDS |
+|------------|----|-----|-----|---------|--------|-----|
 
 &nbsp;
 
