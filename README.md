@@ -75,7 +75,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 <h1>📄 Projects Portfolio</h1>
 
 - 💰 My personal end-to-end **Data Science/Engineering/Analysis, ML and AI** projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
-   - **MLOps**:           
+   - **MLOps**:
+      -  [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance): MLOps project using Comet ML, Flask, CI/CD and AWS
       -  [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke): MLOps project using Comet ML, Flask, Docker, and AWS
       -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): MLOps project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD and AWS
       -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): MLOps project using MLFlow, Prefect, FastAPI, Docker, and GCP
