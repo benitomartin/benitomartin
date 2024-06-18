@@ -79,32 +79,34 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h1>📄 Projects Portfolio</h1>
 
-- 💰 My personal end-to-end **Data Science/Engineering/Analysis, ML and AI** projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
-   - **MLOps**:
-      -  [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance): MLOps project using Comet ML, Flask, CI/CD and AWS
-      -  [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke): MLOps project using Comet ML, Flask, Docker, and AWS
-      -  [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices): MLOps project using MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD and AWS
-      -  [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides): MLOps project using MLFlow, Prefect, FastAPI, Docker, and GCP
-      -  [Music Clustering](https://github.com/benitomartin/mlops-music-clustering): MLOps project using FastAPI, Docker, CI/CD, AWS and deployment in Streamlit (see [app](https://music-clustering-playlist.streamlit.app/))
-      -  [Birds Classification](https://github.com/benitomartin/birds_classification): Computer Vision project using Pytorch EfficientNet models and deployment in Gradio (see [app](https://huggingface.co/spaces/bmartinc80/birds_pytorch))
-      -  [Food Prediction](https://github.com/benitomartin/foodscore-code): MLOps project using FastAPI, Docker, GCP, and deployment in Streamlit (see [app](https://foodscore.streamlit.app/))
-   - **Data Analysis + Modeling**:
-      -  [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies): EDA and Modeling project: comparison of ARIMA, XGBoost, LSTM, and Prophet
-      -  [News Classification](https://github.com/benitomartin/nlp-news-classification): EDA, Modeling and Deployment project: comparison of several Neural Networks (CNN, RNN, feedforward) and Multinomial Naive Bayes models and deployment in Streamlit (see [app](https://nlp-news-classification.streamlit.app/))
-      -  [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone): EDA and Modeling project: comparison of Random Forest using Sklearn and Spark, as part of the Advanced Data Science with IBM Specialization
-      -  [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification): EDA and Modeling project including univariate/bivariate analysis, feature engineering, baseline model selection and voting classifier (LGBMClassifier, XGBoostClassifier, and CatBoostClassifier)
-   - **LLM, RAG and Fine-tuning**:
-      -  [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant): RAG project for QA retrieval using LangChain, Qdrant, Docker, AWS Lambda/API and Streamlit. Published in [Medium](https://medium.com/@bmartinc80/ddb7646d4c2f)
-      -  [Q&A and Summarization](https://github.com/benitomartin/youtube-llm): LLM project for audio and text extraction using Whisper and Langchain with app deployment using Streamlit (locally)
-      -  [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake): RAG project for QA retrieval using Llama Index and Deep Lake
-      -  [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas): RAG project for QA retrieval using LangChain and evaluation with RAGAS
-      -  [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone): RAG project for QA retrieval using LangChain, Pinecone adding multi-tenancy, agents and memory
-      -  [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant): RAG project for QA retrieval using LangChain, Qdrant and CrewAI agents (researcher and writer)
-      -  [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b): Fine tuning of Gemma 2B model using quantization and LoRA Adapters (QLoRA) and hosting the model/adapters in a private repo in [Hugging Face](https://huggingface.co/bmartinc80/gemma-ft)
-   - **Data Engineering**:   
-      -  [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews): Data Engineering project using Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD and GCP
-      -  [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather): Data Engineering project using Mage, dbt, Terraform, Looker, CI/CD and GCP
+💰 My personal end-to-end projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
 
+| Project Name | Main Libraries/Tools | Cloud Service | App |
+| --- | --- | --- | --- |
+| **ML/MLOps** |
+| [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance) | Scikit-learn, TensorFlow, Comet ML, Flask, CI/CD | AWS |  |
+| [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke) | Scikit-learn, XGBoost, Comet ML, Flask, Docker | AWS |  |
+| [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices) | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD | AWS |  |
+| [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides) | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP |  |
+| [Music Clustering](https://github.com/benitomartin/mlops-music-clustering) | Scikit-learn, FastAPI, Docker, CI/CD | AWS | Streamlit |
+| [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |
+| [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit |
+| **Data Analysis + Modeling** |
+| [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies) | ARIMA, XGBoost, TensorFlow LSTM, Prophet |  |  |
+| [News Classification](https://github.com/benitomartin/nlp-news-classification) | Scikit-learn (Multinomial Naive Bayes), Tensorflow (CNN, RNN, feedforward) |  | Streamlit |
+| [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone) | Scikit-learn, Spark | IBM |  |
+| [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn, LightGBM, XGBoost, CatBoost |  |  |
+| **LLM, RAG and Fine-tuning** |
+| [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker | AWS | Streamlit |
+| [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit |
+| [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI, LlamaIndex, Deep Lake |  |  |
+| [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI, Hugging Face Transformers, LangChain, Ragas |  |  |
+| [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI, Groq, LangChain, Pinecone |  |  |
+| [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI, LangChain, Qdrant, CrewAI Agents |  |  |
+| [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers, PEFT, (LoRA/QLoRA) | Hugging Face  | |
+| **Data Engineering** |
+| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD | GCP |  |
+| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, Terraform, Looker, CI/CD | GCP |  |
 
 - 💸 Additionally, you can find my **Power BI** projects:
    -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Analysis and Comparison of Income, Bills, Profits and Available Money
@@ -184,4 +186,3 @@ If you want me to develop a project for you feel free to contact me! I always ke
 <p align="left">
 <a href="https://www.linkedin.com/in/benitomzh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benito" height="30" width="40" /></a>   
 </p>
-
