@@ -100,7 +100,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker | AWS | Streamlit |
 | [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit |
 | [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI, LlamaIndex, Deep Lake |  |  |
-| [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI, Hugging Face Transformers, LangChain, Ragas |  |  |
+| [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI, Hugging Face Transformers, Faiss, LangChain, Ragas |  |  |
 | [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI, Groq, LangChain, Pinecone |  |  |
 | [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI, LangChain, Qdrant, CrewAI Agents |  |  |
 | [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers, PEFT, (LoRA/QLoRA) | Hugging Face  | |
