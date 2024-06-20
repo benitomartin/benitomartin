@@ -70,7 +70,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 &nbsp;
 
-Currently working as an **Freelance** for Data Analytics/Science ML and AI end-to-end projects, and open for further cooperation opportunities! 
+Currently working as a **Freelance** for Data Analytics/Science ML and AI end-to-end projects, and open for further cooperation opportunities! 
 
 If you want me to develop a project for you feel free to contact me! I always keep developing personal projects and I'm happy to implement new ideas 😃.
 
