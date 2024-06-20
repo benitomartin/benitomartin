@@ -82,7 +82,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 💰 My personal end-to-end projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
 
 | Project Name | Main Libraries/Tools | Cloud Service | App |
-| --- | --- | --- | --- |
+| --- | --- | :---: | :---: |
 | **ML/MLOps** |
 | [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance) | Scikit-learn, TensorFlow, Comet ML, Flask, CI/CD | AWS |  |
 | [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke) | Scikit-learn, XGBoost, Comet ML, Flask, Docker | AWS |  |
