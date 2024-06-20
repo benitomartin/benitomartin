@@ -112,11 +112,11 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 &nbsp;
 
-- 💸 Additionally, you can find my **Power BI** projects:
+💸 Additionally, you can find my **Power BI** projects:
    -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Analysis and Comparison of Income, Bills, Profits and Available Money
    -  [Product Sales Comparison](https://app.powerbi.com/view?r=eyJrIjoiMTZiODk4MjYtMTZiOS00ZWIyLTg5ZmYtZWJiNDk2ODJhZDQ0IiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Product Sales Comparison using DAX functions
 
-- :basecamp: Last but not least, I also have a **Tableau** [portfolio](https://public.tableau.com/app/profile/benito.mart.n1807/vizzes) using groups, sets, blends, joins, table calculations, storylines, parameters, animations, and other advanced functions
+:basecamp: Last but not least, I also have a **Tableau** [portfolio](https://public.tableau.com/app/profile/benito.mart.n1807/vizzes) using groups, sets, blends, joins, table calculations, storylines, parameters, animations, and other advanced functions
 
 &nbsp;
 
