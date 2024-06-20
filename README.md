@@ -81,6 +81,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 💰 My personal end-to-end projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
 
+&nbsp;
+
 | Project Name | Main Libraries/Tools | Cloud Service | App |
 | --- | --- | :---: | :---: |
 | **ML/MLOps** |
@@ -107,6 +109,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | **Data Engineering** |
 | [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD | GCP |  |
 | [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, Terraform, Looker, CI/CD | GCP |  |
+
+&nbsp;
 
 - 💸 Additionally, you can find my **Power BI** projects:
    -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Analysis and Comparison of Income, Bills, Profits and Available Money
