@@ -83,32 +83,33 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 &nbsp;
 
-| Project Name | Main Libraries/Tools | Cloud Service | App |
-| --- | --- | :---: | :---: |
+| Project Name | Main Libraries/Tools | Cloud Service | App | Best Practices |
+| --- | --- | :---: | :---: | :---: |
 | **ML/MLOps** |
-| [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance) | Scikit-learn, TensorFlow, Comet ML, Flask, CI/CD | AWS |  |
-| [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke) | Scikit-learn, XGBoost, Comet ML, Flask, Docker | AWS |  |
-| [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices) | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD | AWS |  |
-| [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides) | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP |  |
-| [Music Clustering](https://github.com/benitomartin/mlops-music-clustering) | Scikit-learn, FastAPI, Docker, CI/CD | AWS | Streamlit |
-| [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |
-| [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit |
+| [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance) | Scikit-learn, TensorFlow, Comet ML, Flask | AWS |  | Experiment Tracking, Model Registry, Model/Data Monitoring, Linting, Formatting, Testing, Coverage, CI/CD |
+| [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke) | Scikit-learn, XGBoost, Comet ML, Flask, Docker | AWS |  | Experiment Tracking, Model Registry/Monitoring, Containerization, Testing |
+| [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices) | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD | AWS |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization, Linting, Formatting, Testing, IaC, CI/CD |
+| [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides) | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization |
+| [Music Clustering](https://github.com/benitomartin/mlops-music-clustering) | Scikit-learn, FastAPI, Docker, CI/CD | AWS | Streamlit | Containerization, CI/CD |
+| [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
+| [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit | Containerization |
 | **Data Analysis + Modeling** |
-| [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies) | ARIMA, XGBoost, TensorFlow LSTM, Prophet |  |  |
-| [News Classification](https://github.com/benitomartin/nlp-news-classification) | Scikit-learn (Multinomial Naive Bayes), Tensorflow (CNN, RNN, feedforward) |  | Streamlit |
-| [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone) | Scikit-learn, Spark | IBM |  |
-| [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn, LightGBM, XGBoost, CatBoost |  |  |
+| [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies) | ARIMA, XGBoost, TensorFlow LSTM, Prophet |  |  |  |
+| [News Classification](https://github.com/benitomartin/nlp-news-classification) | Scikit-learn (Multinomial Naive Bayes), Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
+| [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone) | Scikit-learn, Spark | IBM |  |  |
+| [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn, LightGBM, XGBoost, CatBoost |  |  |  |
 | **LLM, RAG and Fine-tuning** |
-| [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker | AWS | Streamlit |
-| [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit |
-| [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI, LlamaIndex, Deep Lake |  |  |
-| [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI, Hugging Face Transformers, Faiss, LangChain, Ragas |  |  |
-| [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI, Groq, LangChain, Pinecone |  |  |
-| [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI, LangChain, Qdrant, CrewAI Agents |  |  |
-| [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers, PEFT, (LoRA/QLoRA) | Hugging Face  | |
+| [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker | AWS | Streamlit | Linting, Formatting, Testing |
+| [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit |  |
+| [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI, LlamaIndex, Deep Lake |  |  |  |
+| [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI, Hugging Face Transformers, Faiss, LangChain, Ragas |  |  |  |
+| [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI, Groq, LangChain, Pinecone |  |  |  |
+| [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI, LangChain, Qdrant, CrewAI Agents |  |  |  |
+| [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers, PEFT, (LoRA/QLoRA) | Hugging Face  | |  |
 | **Data Engineering** |
-| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD | GCP |  |
-| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, Terraform, Looker, CI/CD | GCP |  |
+| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD | GCP |  | Orchestration, Linting, Formatting, Pre-Commit, IaC, CI/CD |
+| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, Terraform, Looker, CI/CD | GCP |  | Orchestration, IaC, CI/CD |
+
 
 &nbsp;
 
