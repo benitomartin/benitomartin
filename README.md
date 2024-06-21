@@ -63,7 +63,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ **Data Science & ML:** Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy
 - ✅ **AI:** Langchain, LlamaIndex, OpenAI, Hugging Face, Transformers, Ollama, Llamafile, CrewAI, Pinecone, Qdrant, Chroma, Faiss, Ragas
 - ✅ **Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
-- ✅ **Data Engineering:** dbt, Terraform, SQL, PySpark
+- ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
 - ✅ **MLOps:** MLflow, Prefect, Mage, Comet
 - ✅ **APIs:** Flask, FastAPI
 - ✅ **Cloud Platforms:** GCP, AWS, Azure
