@@ -88,9 +88,9 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | **ML/MLOps** |
 | [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance) | Scikit-learn, TensorFlow, Comet ML, Flask | AWS |  | Experiment Tracking, Model Registry, Model/Data Monitoring, Linting, Formatting, Testing, Coverage, CI/CD |
 | [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke) | Scikit-learn, XGBoost, Comet ML, Flask, Docker | AWS |  | Experiment Tracking, Model Registry/Monitoring, Containerization, Testing |
-| [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices) | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Docker, Grafana, Terraform, CI/CD | AWS |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization, Linting, Formatting, Testing, IaC, CI/CD |
+| [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices) | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Docker, Grafana, Terraform | AWS |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization, Linting, Formatting, Testing, IaC, CI/CD |
 | [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides) | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization |
-| [Music Clustering](https://github.com/benitomartin/mlops-music-clustering) | Scikit-learn, FastAPI, Docker, CI/CD | AWS | Streamlit | Containerization, CI/CD |
+| [Music Clustering](https://github.com/benitomartin/mlops-music-clustering) | Scikit-learn, FastAPI, Docker | AWS | Streamlit | Containerization, CI/CD |
 | [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit | Containerization |
 | **Data Analysis + Modeling** |
@@ -107,8 +107,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI, LangChain, Qdrant, CrewAI Agents |  |  |  |
 | [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers, PEFT, (LoRA/QLoRA) | Hugging Face  | |  |
 | **Data Engineering** |
-| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, dbt, Terraform, Looker, CI/CD | GCP |  | Orchestration, Linting, Formatting, Pre-Commit, IaC, CI/CD |
-| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, Terraform, Looker, CI/CD | GCP |  | Orchestration, IaC, CI/CD |
+| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, dbt, Terraform, Looker | GCP |  | Orchestration, Linting, Formatting, Pre-Commit, IaC, CI/CD |
+| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, Terraform, Looker | GCP |  | Orchestration, IaC, CI/CD |
 
 
 
