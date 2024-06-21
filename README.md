@@ -107,8 +107,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI, LangChain, Qdrant, CrewAI Agents |  |  |  |
 | [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers, PEFT, (LoRA/QLoRA) | Hugging Face  | |  |
 | **Data Engineering** |
-| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, dbt, Terraform, Looker | GCP |  | Orchestration, Linting, Formatting, Pre-Commit, IaC, CI/CD |
-| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, Terraform, Looker | GCP |  | Orchestration, IaC, CI/CD |
+| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, BigQuery, dbt, Terraform, Looker | GCP |  | Orchestration, Linting, Formatting, Pre-Commit, IaC, CI/CD |
+| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, SQL, BigQuery, Terraform, Looker | GCP |  | Orchestration, IaC, CI/CD |
 
 
 
