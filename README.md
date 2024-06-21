@@ -99,7 +99,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone) | Scikit-learn, Spark | IBM |  |  |
 | [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn, LightGBM, XGBoost, CatBoost |  |  |  |
 | **LLM, RAG and Fine-tuning** |
-| [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker | AWS | Streamlit | Containerization, Linting, Formatting, Testing |
+| [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker, AWS API | AWS | Streamlit | Containerization, Linting, Formatting, Testing |
 | [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit |  |
 | [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI, LlamaIndex, Deep Lake |  |  |  |
 | [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI, Hugging Face Transformers, Faiss, LangChain, Ragas |  |  |  |
