@@ -111,6 +111,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, Terraform, Looker, CI/CD | GCP |  | Orchestration, IaC, CI/CD |
 
 
+
 &nbsp;
 
 💸 Additionally, you can find my **Power BI** projects:
