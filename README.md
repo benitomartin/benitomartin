@@ -86,16 +86,16 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | Project Name | Main Libraries/Tools | Cloud Service | App | Best Practices |
 | --- | --- | :---: | :---: | :---: |
 | **ML/MLOps** |
-| [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance) | Scikit-learn, TensorFlow, Comet ML, Flask | AWS |  | Experiment Tracking, Model Registry, Model/Data Monitoring, Linting, Formatting, Testing, Coverage, CI/CD |
-| [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke) | Scikit-learn, XGBoost, Comet ML, Flask, Docker | AWS |  | Experiment Tracking, Model Registry/Monitoring, Containerization, Testing |
-| [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices) | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Docker, Grafana, Terraform | AWS |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization, Linting, Formatting, Testing, IaC, CI/CD |
-| [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides) | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization |
+| [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance) | Scikit-learn, TensorFlow, Comet ML, Flask | AWS |  | Experiment Tracking, Model Registry, Model/Data Monitoring, Linting, Formatting, Testing, Error Handling, Coverage, CI/CD |
+| [Stroke Prediction](https://github.com/benitomartin/mlops-aws-stroke) | Scikit-learn, XGBoost, Comet ML, Flask, Docker | AWS |  | Experiment Tracking, Model Registry/Monitoring, Containerization, Testing, Error Handling |
+| [Car Price Prediction](https://github.com/benitomartin/mlops-car-prices) | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Docker, Grafana, Terraform | AWS |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization, Linting, Formatting, Testing, Error Handling, IaC, CI/CD |
+| [Taxi Rides Prediction](https://github.com/benitomartin/mlops-chicago-rides) | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP |  | Experiment Tracking, Model Registry/Monitoring, Orchestration, Containerization, Error Handling |
 | [Music Clustering](https://github.com/benitomartin/mlops-music-clustering) | Scikit-learn, FastAPI, Docker | AWS | Streamlit | Containerization, CI/CD |
 | [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit | Containerization |
 | **LLM, RAG and Fine-tuning** |
-| [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker, AWS API Gateway | AWS | Streamlit | Containerization, Linting, Formatting, Testing |
-| [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit |  |
+| [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker, AWS API Gateway | AWS | Streamlit | Containerization, Linting, Formatting, Testing, Error Handling |
+| [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit | Error Handling |
 | [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI, LlamaIndex, Deep Lake |  |  |  |
 | [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI, Hugging Face Transformers, Faiss, LangChain, Ragas |  |  |  |
 | [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI, Groq, LangChain, Pinecone |  |  |  |
@@ -107,8 +107,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone) | Scikit-learn, Spark | IBM |  |  |
 | [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn, LightGBM, XGBoost, CatBoost |  |  |  |
 | **Data Engineering** |
-| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, BigQuery, dbt, Terraform, Looker | GCP |  | Orchestration, Linting, Formatting, Pre-Commit, IaC, CI/CD |
-| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, SQL, BigQuery, Terraform, Looker | GCP |  | Orchestration, IaC, CI/CD |
+| [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, BigQuery, dbt, Terraform, Looker | GCP |  | Orchestration, Linting, Formatting, Error Handling, Pre-Commit, IaC, CI/CD |
+| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, SQL, BigQuery, Terraform, Looker | GCP |  | Orchestration, IaC, Containerization, CI/CD |
 
 
 
