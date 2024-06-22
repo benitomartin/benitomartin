@@ -65,7 +65,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ **Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
 - ✅ **MLOps:** MLflow, Prefect, Mage, Comet
-- ✅ **APIs:** Flask, FastAPI
+- ✅ **APIs:** Flask, FastAPI, AWS API Gateway 
 - ✅ **Cloud Platforms:** GCP, AWS, Azure
 
 &nbsp;
