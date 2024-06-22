@@ -93,11 +93,6 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Music Clustering](https://github.com/benitomartin/mlops-music-clustering) | Scikit-learn, FastAPI, Docker | AWS | Streamlit | Containerization, CI/CD |
 | [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit | Containerization |
-| **Data Analysis + Modeling** |
-| [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies) | ARIMA, XGBoost, TensorFlow LSTM, Prophet |  |  |  |
-| [News Classification](https://github.com/benitomartin/nlp-news-classification) | Scikit-learn (Multinomial Naive Bayes), Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
-| [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone) | Scikit-learn, Spark | IBM |  |  |
-| [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn, LightGBM, XGBoost, CatBoost |  |  |  |
 | **LLM, RAG and Fine-tuning** |
 | [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker, AWS API Gateway | AWS | Streamlit | Containerization, Linting, Formatting, Testing |
 | [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit |  |
@@ -106,6 +101,11 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI, Groq, LangChain, Pinecone |  |  |  |
 | [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI, LangChain, Qdrant, CrewAI Agents |  |  |  |
 | [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers, PEFT, (LoRA/QLoRA) | Hugging Face  | |  |
+| **Data Analysis + Modeling** |
+| [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies) | ARIMA, XGBoost, TensorFlow LSTM, Prophet |  |  |  |
+| [News Classification](https://github.com/benitomartin/nlp-news-classification) | Scikit-learn (Multinomial Naive Bayes), Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
+| [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone) | Scikit-learn, Spark | IBM |  |  |
+| [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn, LightGBM, XGBoost, CatBoost |  |  |  |
 | **Data Engineering** |
 | [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, BigQuery, dbt, Terraform, Looker | GCP |  | Orchestration, Linting, Formatting, Pre-Commit, IaC, CI/CD |
 | [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, SQL, BigQuery, Terraform, Looker | GCP |  | Orchestration, IaC, CI/CD |
