@@ -57,12 +57,12 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 &nbsp;
 
-- ✅ **Data Visualization/Analytics:** Power BI, Looker, Tableau,  Matplotlib, Seaborn, Plotly, Streamlit, Gradio
+- ✅ **Data Visualization & Analytics:** Power BI, Looker, Tableau,  Matplotlib, Seaborn, Plotly, Streamlit, Gradio
 - ✅ **Web Scraping:** BeautifulSoup, Scrapy, Selenium
 - ✅ **Maths and Statistics:** Statsmodels, SciPy
 - ✅ **Data Science & ML:** Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy
 - ✅ **AI:** Langchain, LlamaIndex, OpenAI, Hugging Face, Transformers, Ollama, Llamafile, CrewAI, Pinecone, Qdrant, Chroma, Faiss, Ragas, LangSmith
-- ✅ **Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
+- ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
 - ✅ **MLOps:** MLflow, Prefect, Mage, Comet
 - ✅ **APIs:** Flask, FastAPI, AWS API Gateway 
