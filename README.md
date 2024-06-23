@@ -53,7 +53,7 @@ And don't forget to read my profile while listening to this beautiful [Spanish A
 &nbsp;
 
 <h1>👨‍💻 My Profile</h1>
-Innovative and dynamic <b>Data Scientist</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. Incorporating a robust skill set encompassing: 
+Innovative and dynamic <b>Data Scientist</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. My skill set includes: 
 
 &nbsp;
 
