@@ -1,43 +1,37 @@
-<h1 align="center">⚡ Benito ⚡</h1>
-<h3 align="center"><i>"It's not about data, it's all about tangible business insights :chart_with_upwards_trend:"</i></h3>
-
-<div style="display: flex; justify-content: center;">
-    <a href="https://benitomartin.github.io">
-       <p align="center">
-        <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
-       </p>
-    </a>
-    <a href="https://linkedin.com/in/benitomzh">
-       <p align="center">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-       </p>
-    </a>
-    <a href="https://medium.com/@benitomartin">
-       <p align="center">
-        <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
-       </p>
-    </a>  
-    <a href="https://www.kaggle.com/bmart80/code">
-        <p align="center">
-        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
-       </p>
-    </a>
-</div>
-
-
 <div align="center">
 <a href="https://benitomartin.github.io">
-    <img src="https://github.com/benitomartin/benitomartin.github.io/assets/116911431/11ae9b1f-eabf-4eaf-8fad-a3069a07218f" width="150" height="150"/>
+    <img src="https://github.com/benitomartin/benitomartin.github.io/assets/116911431/030674b1-bda1-4b51-87d6-3fcce981bccb"/>
 </div>
 
+&nbsp;
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://benitomartin.github.io" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/benitomzh" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@benitomartin" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.kaggle.com/bmart80/code" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
-<div align="center">
-    <img src="https://emojicdn.elk.sh/🇪🇸" alt=":ES:" width="30" height="30"/>  
-    <img src="https://emojicdn.elk.sh/🇬🇧" alt=":EN:" width="30" height="30"/>  
-    <img src="https://emojicdn.elk.sh/🇩🇪" alt=":DE:" width="30" height="30"/>  
-</div>
 
 
 &nbsp;
