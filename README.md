@@ -167,8 +167,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h3 align="left">GCP</h3>
 
-| Cloud Storage | BigQuery | Cloud Run | VM | Vertex AI | Dataproc | Earth Engine | Container Registry |
-|---------------|----------|-----------|----|-----------|----------|--------------|--------------------|
+| Cloud Storage | BigQuery | Cloud Run | VM | GKE | Vertex AI | Dataproc | Earth Engine | Container Registry |
+|---------------|----------|-----------|----|-----|-----------|----------|--------------|--------------------|
 
 <h3 align="left">AWS</h3>
 
