@@ -58,7 +58,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ **AI:** Langchain, LlamaIndex, OpenAI, Hugging Face, Transformers, Ollama, Llamafile, CrewAI, Pinecone, Qdrant, Chroma, Faiss, Ragas, LangSmith
 - ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
-- ✅ **MLOps:** MLflow, Prefect, Mage, Comet
+- ✅ **MLOps:** MLflow, Prefect, Mage, Comet, Docker, Kubernetes 
 - ✅ **APIs:** Flask, FastAPI, AWS API Gateway 
 - ✅ **Cloud Platforms:** GCP, AWS, Azure
 
