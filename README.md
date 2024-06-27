@@ -102,7 +102,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn, LightGBM, XGBoost, CatBoost |  |  |  |
 | **Data Engineering** |
 | [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect, Spark, SQL, BigQuery, dbt, Terraform, Looker | GCP |  | Orchestration, Linting, Formatting, Error Handling, Pre-Commit, IaC, CI/CD |
-| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, SQL, BigQuery, Terraform, Looker | GCP |  | Orchestration, IaC, Containerization, CI/CD |
+| [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage, dbt, SQL, BigQuery, Docker, Terraform, Looker | GCP |  | Orchestration, IaC, Containerization, CI/CD |
 
 
 
