@@ -73,7 +73,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h1>📄 Projects Portfolio</h1>
 
-💰 My personal end-to-end projects can be found in these repositories (feel free to click ⭐ if you like them 😎):
+💰 My personal end-to-end projects can be found in these repositories. Feel free to click ⭐ if you like them 😎:
 
 &nbsp;
 
