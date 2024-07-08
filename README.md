@@ -41,7 +41,7 @@
 And don't forget to read my profile while listening to this beautiful [Spanish AI Song](https://youtu.be/M_Q_8-f0sAg?si=e5RNTOUQOui3Hcgb) &nbsp;  🎶 🎷 🎶
 
 
-👉 **CONTACT ME!** 👉 Use this [form](https://forms.gle/yF3hZRLTbN1MCyVN9) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
+👉 **CONTACT ME!** 👉 Use this [form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
 
 
 &nbsp;
