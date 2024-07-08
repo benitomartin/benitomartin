@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://benitomartin.github.io" style="text-decoration: none;">
+      <a href="https://martindatasol.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
       </a>
     </td>
