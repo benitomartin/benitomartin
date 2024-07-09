@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://benitomartin.github.io">
-    <img src="https://github.com/benitomartin/benitomartin.github.io/assets/116911431/030674b1-bda1-4b51-87d6-3fcce981bccb"/>
+    <img src="https://github.com/benitomartin/birds-classification/assets/116911431/247032e3-3659-4f98-81a0-eca8c6001d6f"/>
 </div>
 
 &nbsp;
