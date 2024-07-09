@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://benitomartin.github.io">
+<a href="https://martindatasol.com/">
     <img src="https://github.com/benitomartin/birds-classification/assets/116911431/247032e3-3659-4f98-81a0-eca8c6001d6f"/>
 </div>
 
