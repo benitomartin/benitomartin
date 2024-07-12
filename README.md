@@ -42,8 +42,6 @@
 
 🌟 Crafting each piece of content is a journey that demands both time and passion. If you enjoy my work, consider fueling my creativity [buying me a coffee](https://buymeacoffee.com/bmartinc80w) ☕ or supporting me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) 🚀
 
-👉 **CONTACT ME!** 👉 Book a [free call](https://martindatasol.com/book-a-free-call), use this [form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
-
 
 &nbsp;
 
@@ -68,6 +66,8 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 Currently working as a **Freelance** for Data Analytics/Science ML and AI end-to-end projects, and open for further cooperation opportunities! 
 
 If you want me to develop a project for you feel free to contact me! I always keep developing personal projects and I'm happy to implement new ideas 😃
+
+👉 **CONTACT ME!** 👉 Book a [free call](https://martindatasol.com/book-a-free-call), use this [form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
 
 
 &nbsp;
