@@ -37,7 +37,7 @@
 &nbsp;
 
 
-🎵 While you're here, why not enhance your visit with a melodious twist? Tune into this enchanting Spanish AI Song. A perfect blend of technology and art. Enjoy the vibes! 🎷🎶
+🎵 While you're here, why not enhance your visit with a melodious twist? Tune into this enchanting [Spanish AI Song](https://youtu.be/M_Q_8-f0sAg?si=3rHyFr2sYSwIph6g). A perfect blend of technology and art. Enjoy the vibes! 🎷🎶
 
 
 🌟 Crafting each piece of content is a journey that demands both time and passion. If you enjoy my work, consider fueling my creativity [buying me a coffee](https://buymeacoffee.com/bmartinc80w) ☕ or supporting me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) 🚀
