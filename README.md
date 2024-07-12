@@ -36,12 +36,12 @@
 
 &nbsp;
 
-😃 Support me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) if you like my content! This encourages me to keep working on new projects 😎
 
-And don't forget to read my profile while listening to this beautiful [Spanish AI Song](https://youtu.be/M_Q_8-f0sAg?si=e5RNTOUQOui3Hcgb) &nbsp;  🎶 🎷 🎶
+🌟 Crafting each piece of content is a journey that demands both time and passion. If you enjoyed my work, consider fueling my creativity [buying me a coffee](https://buymeacoffee.com/bmartinc80w) ☕ or supporting me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) 🚀
 
+🎵 While you're here, why not enhance your visit with a melodious twist? Tune into this enchanting Spanish AI Song. A perfect blend of technology and art. Enjoy the vibes! 🎷🎶
 
-👉 **CONTACT ME!** 👉 Book a [call](https://martindatasol.com/book-a-call), use this [form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
+👉 **CONTACT ME!** 👉 Book a [free call](https://martindatasol.com/book-a-call), use this [form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
 
 
 &nbsp;
