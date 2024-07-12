@@ -40,7 +40,7 @@
 🎵 While you're here, why not enhance your visit with a melodious twist? Tune into this enchanting Spanish AI Song. A perfect blend of technology and art. Enjoy the vibes! 🎷🎶
 
 
-🌟 Crafting each piece of content is a journey that demands both time and passion. If you enjoyed my work, consider fueling my creativity [buying me a coffee](https://buymeacoffee.com/bmartinc80w) ☕ or supporting me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) 🚀
+🌟 Crafting each piece of content is a journey that demands both time and passion. If you enjoy my work, consider fueling my creativity [buying me a coffee](https://buymeacoffee.com/bmartinc80w) ☕ or supporting me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) 🚀
 
 👉 **CONTACT ME!** 👉 Book a [free call](https://martindatasol.com/book-a-call), use this [form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
 
