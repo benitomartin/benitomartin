@@ -91,7 +91,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Scalable RAG with GKE, LlamaIndex and Qdrant](https://github.com/benitomartin/scale-gke-qdrant-llama) | OpenAI, LlamaIndex, Qdrant, Docker, FastAPI, GKE | GCP | Streamlit | Containerization, Linting, Formatting, Testing, Error Handling,  CI/CD  |
 | [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI, LangChain, Qdrant, Docker, AWS API Gateway | AWS | Streamlit | Containerization, Linting, Formatting, Testing, Error Handling |
 | [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers, Whisper, Langchain, ChromaDB |  | Streamlit | Error Handling |
-| [Multimodal Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | Gemini, LlamaIndex, Qdrant |  |  |  |
+| [Multimodal Llama Index](https://github.com/benitomartin/multimodal-youtube-recipes) | Gemini, LlamaIndex, Qdrant |  |  |  |
 | [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI, LlamaIndex, Deep Lake |  |  |  |
 | [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI, Hugging Face Transformers, Faiss, LangChain, Ragas |  |  |  |
 | [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI, Groq, LangChain, Pinecone |  |  |  |
