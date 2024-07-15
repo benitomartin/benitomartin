@@ -68,7 +68,7 @@ Currently working as a **Freelance** for Data Analytics/Science ML and AI end-to
 
 If you want me to develop a project for you feel free to contact me! I always keep developing personal projects and I'm happy to implement new ideas 😃
 
-👉 **CONTACT ME!** 👉 Book a [free call](https://martindatasol.com/book-a-free-call), use this [form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
+👉 **CONTACT ME!** 👉 Book a [Free Call](https://martindatasol.com/book-a-free-call), use this [Form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
 
 
 &nbsp;
