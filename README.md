@@ -61,7 +61,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ **MLOps:** MLflow, Prefect, Mage, Comet, Docker, Kubernetes 
 - ✅ **APIs:** Flask, FastAPI, AWS API Gateway 
 - ✅ **Cloud Platforms:** GCP, AWS
-
+- ✅ **Version Control:** Git
 &nbsp;
 
 Currently working as a **Freelance** for Data Analytics/Science ML and AI end-to-end projects, and open for further cooperation opportunities! 
