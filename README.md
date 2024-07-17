@@ -22,11 +22,6 @@
         <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
       </a>
     </td>
-    <td>
-      <a href="https://www.kaggle.com/bmart80/code" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
-      </a>
-    </td>
   </tr>
 </table>
 
