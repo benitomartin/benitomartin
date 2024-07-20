@@ -171,8 +171,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h3 align="left">AWS</h3>
 
-| SageMaker | S3 | EC2 | ECR | Kinesis | Lambda | RDS | API Gateway | EventBridge |
-|-----------|----|-----|-----|---------|--------|-----|-------------|-------------|
+| SageMaker | S3 | EC2 | ECR | Kinesis | Lambda | Glue | Athena | Firehose | CloudWatch | RDS | API Gateway | EventBridge |
+|-----------|----|-----|-----|---------|--------|------|--------|----------|------------|-----|-------------|-------------|
 
 <h3 align="left">Azure</h3>
 
