@@ -74,7 +74,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 &nbsp;
 
-| Project Name | Main Libraries/Tools | Cloud Service | App | Best Practices |
+| Project Name | Main Libraries/Tools | Cloud Service | App | DevOps Best Practices |
 | --- | --- | :---: | :---: | --- |
 | **ML/MLOps** |
 | [Medical Insurance Costs Prediction](https://github.com/benitomartin/mlops-aws-insurance) | Scikit-learn<br>TensorFlow<br>SageMaker<br>Comet ML<br>Flask | AWS |  | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Coverage<br>CI/CD |
