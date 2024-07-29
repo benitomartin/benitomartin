@@ -39,6 +39,8 @@
 
 💰 My website has been created using Hostinger. If you want to create your own one, using this link (https://hostinger.com?REFERRALCODE=1BENITO83) will provide you 20% discount on the selected plan 💶
 
+👉 **CONTACT ME!** 👉 Book a [Free Call](https://martindatasol.com/book-a-free-call), use this [Form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
+
 &nbsp;
 
 <h1>👨‍💻 My Profile</h1>
@@ -62,8 +64,6 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 Currently working as a **Freelance** for Data Analytics/Science ML and AI end-to-end projects, and open for further cooperation opportunities! 
 
 If you want me to develop a project for you feel free to contact me! I always keep developing personal projects and I'm happy to implement new ideas 😃
-
-👉 **CONTACT ME!** 👉 Book a [Free Call](https://martindatasol.com/book-a-free-call), use this [Form](https://martindatasol.com/contact) or reach out on [LinkedIn](https://www.linkedin.com/in/benitomzh/)! 🚀
 
 
 &nbsp;
