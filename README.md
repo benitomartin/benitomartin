@@ -102,7 +102,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | **Data Engineering** |
 | [Hotel Reviews](https://github.com/benitomartin/de-hotel-reviews) | Prefect<br>Spark<br>SQL<br>BigQuery<br>dbt<br>Terraform<br>Looker | GCP |  | Orchestration<br>Linting<br>Formatting<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD |
 | [Air Quality Switzerland](https://github.com/benitomartin/de-ch-weather) | Mage<br>dbt<br>SQL<br>BigQuery<br>Docker<br>Terraform<br>Looker | GCP |  | Orchestration<br>IaC<br>Containerization<br>CI/CD |
-
+| **Miscellaneous** |
+| [Justicio Web Scraping](https://github.com/benitomartin/scraping-to-sql) | Beautiful Soup<br>MySQL<br> |  |  | Error Handling |
 
 
 
