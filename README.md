@@ -85,6 +85,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | **LLM, RAG and Fine-tuning** |
+| [RAG Azure Functions Qdrant](https://github.com/benitomartin/rag-azure-http) | OpenAI<br>LangChain<br>Qdrant<br>Azure Functions App | Azure |  | Linting<br>Formatting<br>Testing<br>Error Handling |
 | [Scalable RAG with GKE, LlamaIndex and Qdrant](https://github.com/benitomartin/scale-gke-qdrant-llama) | OpenAI<br>LlamaIndex<br>Qdrant<br>Docker<br>FastAPI<br>GKE | GCP | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
 | [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>Docker<br>AWS API Gateway | AWS | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling |
 | [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
@@ -179,8 +180,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h3 align="left">Azure</h3>
 
-| Azure Databricks | Data Lake Gen2 | Data Factory | Container Registry |
-|------------------|----------------|--------------|--------------------|
+| Azure Functions App | Container Registry | Azure Databricks |
+|------------------|--------------------|--------------------|
 
 &nbsp;
 
