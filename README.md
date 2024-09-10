@@ -182,8 +182,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h3 align="left">Azure</h3>
 
-| Azure Functions App | Container Registry | Azure Databricks |
-|---------------------|--------------------|------------------|
+| Azure Functions App | Container Registry | 
+|---------------------|--------------------|
 
 &nbsp;
 
