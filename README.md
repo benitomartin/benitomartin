@@ -8,13 +8,23 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://martindatasol.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
+      <a href="https://linkedin.com/in/benitomzh" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
     </td>
     <td>
-      <a href="https://linkedin.com/in/benitomzh" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      <a href="https://martindatasol.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/website-bdda57?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://qdrant.tech/stars/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/qdrant-ff0000?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://zilliz.com/authors/Benito_Martin" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/zilliz-1c51f5?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
       </a>
     </td>
     <td>
