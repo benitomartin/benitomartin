@@ -104,6 +104,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Multimodal Llama Index](https://github.com/benitomartin/multimodal-youtube-recipes) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
 | [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
 | [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI<br>Hugging Face Transformers<br>Faiss<br>LangChain<br>Ragas |  |  |  |
+| [PII RAG LlamaIndex Milvus](https://github.com/benitomartin/rag-pii-llamaindex-milvus) | OpenAI<br>Presidio<br>LlamaIndex<br>Milvus |  |  |  |
 | [Agentic RAG LlamaIndex Milvus](https://github.com/benitomartin/Milvus-Agentic-RAG-Claude) | OpenAI<br>Claude<br>LlamaIndex<br>Milvus |  |  |  |
 | [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI<br>Groq<br>LangChain<br>Pinecone |  |  |  |
 | [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>CrewAI Agents |  |  |  |
