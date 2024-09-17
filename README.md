@@ -190,8 +190,11 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h3 align="left">AWS</h3>
 
-| SageMaker | S3 | EC2 | ECR | Kinesis | Lambda |ECS | Glue | Athena | Bedrock | CloudWatch | RDS | CDK | Fargate | API Gateway | Firehose |EventBridge |
-|-----------|----|-----|-----|---------|--------|----|------|--------|----------|------------|-----|-----|---------|-------------|---------|------------|
+| SageMaker | S3 | EC2 | ECR | Kinesis | Lambda |ECS | Glue | Athena |CloudWatch |
+|-----------|----|-----|-----|---------|--------|----|------|--------|-----------|
+
+| Fargate | API Gateway | Firehose | EventBridge | Opensearch | RDS | CDK |  Bedrock | 
+|---------|-------------|----------|-------------|------------|-----|-----| -----------|
 
 <h3 align="left">Azure</h3>
 
