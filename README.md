@@ -5,7 +5,7 @@
 
 &nbsp;
 
-<h3 align="center">⬇️⬇️⬇️ You can find me here! ⬇️⬇️⬇️</h3>
+<h3 align="center">⬇️ You can find me here! ⬇️</h3>
 <table align="center">
   <tr>
     <td>
