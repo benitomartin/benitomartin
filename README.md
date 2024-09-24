@@ -96,8 +96,8 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | **LLM, RAG and Fine-tuning** |
-| [Multimodal AWS Bedrock DynamoDB](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb) | AWS Bedrock<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
-| [RAG AWS Bedrock Opensearch](https://github.com/benitomartin/aws-bedrock-opensearch-langchain) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>Terraform | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
+| [Multimodal AWS Bedrock DynamoDB](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb) | AWS Bedrock<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK<br>Claude 3 Sonnet | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
+| [RAG AWS Bedrock Opensearch](https://github.com/benitomartin/aws-bedrock-opensearch-langchain) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>Terraform<br>Titan | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
 | [RAG AWS CDK Qdrant](https://github.com/benitomartin/aws-cdk-rag-fargate) | OpenAI<br>LlamaIndex<br>Qdrant<br>AWS CDK/Fargate<br>FastAPI | AWS |  | Testing<br>Error Handling |
 | [RAG Azure Functions Qdrant](https://github.com/benitomartin/rag-azure-http) | OpenAI<br>LangChain<br>Qdrant<br>Azure Functions App | Azure |  | Linting<br>Formatting<br>Testing<br>Error Handling |
 | [Scalable RAG with GKE, LlamaIndex and Qdrant](https://github.com/benitomartin/scale-gke-qdrant-llama) | OpenAI<br>LlamaIndex<br>Qdrant<br>Docker<br>FastAPI<br>GKE | GCP | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
