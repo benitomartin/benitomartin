@@ -64,7 +64,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ **Maths and Statistics:** Statsmodels, SciPy
 - ✅ **Data Science & ML:** Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy
 - ✅ **AI:** Langchain, LlamaIndex, OpenAI, Hugging Face, Transformers, Ollama, Llamafile, CrewAI, Pinecone, Qdrant, Chroma, Faiss, Ragas, LangSmith
-- ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Time Series, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
+- ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
 - ✅ **MLOps:** MLflow, Prefect, Mage, Comet, Docker, Kubernetes 
 - ✅ **APIs:** Flask, FastAPI, AWS API Gateway 
@@ -111,7 +111,6 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>CrewAI Agents |  |  |  |
 | [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers<br>PEFT (LoRA/QLoRA) | Hugging Face  | |  |
 | **Data Analysis + Modeling** |
-| [Cryptocurrencies Analysis](https://github.com/benitomartin/cryptocurrencies) | ARIMA<br>XGBoost<br>TensorFlow LSTM<br>Prophet |  |  |  |
 | [News Classification](https://github.com/benitomartin/nlp-news-classification) | Scikit-learn (Multinomial Naive Bayes)<br>Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
 | [Breast Cancer Classification](https://github.com/benitomartin/ibm-advanced-ds-capstone) | Scikit-learn<br>Spark | IBM |  |  |
 | [Bank Churn Classification](https://github.com/benitomartin/bank_churn_classification) | Scikit-learn<br>LightGBM<br>XGBoost<br>CatBoost |  |  |  |
