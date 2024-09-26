@@ -96,20 +96,20 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | **LLM, RAG and Fine-tuning** |
-| [Multimodal AWS Bedrock DynamoDB](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb) | AWS Bedrock<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK<br>Claude 3 Sonnet | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
-| [RAG AWS Bedrock Opensearch](https://github.com/benitomartin/aws-bedrock-opensearch-langchain) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>Terraform<br>Titan | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
-| [RAG AWS CDK Qdrant](https://github.com/benitomartin/aws-cdk-rag-fargate) | OpenAI<br>LlamaIndex<br>Qdrant<br>AWS CDK/Fargate<br>FastAPI | AWS |  | Testing<br>Error Handling |
-| [RAG Azure Functions Qdrant](https://github.com/benitomartin/rag-azure-http) | OpenAI<br>LangChain<br>Qdrant<br>Azure Functions App | Azure |  | Linting<br>Formatting<br>Testing<br>Error Handling |
-| [Scalable RAG with GKE, LlamaIndex and Qdrant](https://github.com/benitomartin/scale-gke-qdrant-llama) | OpenAI<br>LlamaIndex<br>Qdrant<br>Docker<br>FastAPI<br>GKE | GCP | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
-| [RAG AWS LangChain Qdrant](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>Docker<br>AWS API Gateway | AWS | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling |
-| [Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
-| [Multimodal Llama Index](https://github.com/benitomartin/multimodal-youtube-recipes) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
-| [RAG Llama Index](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
-| [RAG LangChain Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI<br>Hugging Face Transformers<br>Faiss<br>LangChain<br>Ragas |  |  |  |
+| [Multimodal Bill Scan System](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb) | AWS Bedrock<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK<br>Claude 3 Sonnet | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
+| [IaC in RAG Applications with Terraform](https://github.com/benitomartin/aws-bedrock-opensearch-langchain) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>Terraform<br>Titan | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
+| [Scalable RAG in AWS with Fargate](https://github.com/benitomartin/aws-cdk-rag-fargate) | OpenAI<br>LlamaIndex<br>Qdrant<br>AWS CDK/Fargate<br>FastAPI | AWS |  | Testing<br>Error Handling |
+| [RAG Deployment with Azure Functions](https://github.com/benitomartin/rag-azure-http) | OpenAI<br>LangChain<br>Qdrant<br>Azure Functions App | Azure |  | Linting<br>Formatting<br>Testing<br>Error Handling |
+| [Scalable RAG with Kubernetes](https://github.com/benitomartin/scale-gke-qdrant-llama) | OpenAI<br>LlamaIndex<br>Qdrant<br>Docker<br>FastAPI<br>GKE | GCP | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
+| [Research Papers Semantic Search](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>Docker<br>AWS API Gateway | AWS | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling |
+| [Video Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
+| [Multimodal RAG with Video Frames](https://github.com/benitomartin/multimodal-youtube-recipes) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
+| [Books Reranking Semantic Search](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
+| [RAG Evaluation with Ragas](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI<br>Hugging Face Transformers<br>Faiss<br>LangChain<br>Ragas |  |  |  |
 | [PII RAG LlamaIndex Milvus](https://github.com/benitomartin/rag-pii-llamaindex-milvus) | OpenAI<br>Presidio<br>LlamaIndex<br>Milvus |  |  |  |
 | [Agentic RAG LlamaIndex Milvus](https://github.com/benitomartin/Milvus-Agentic-RAG-Claude) | OpenAI<br>Claude<br>LlamaIndex<br>Milvus |  |  |  |
-| [Agentic RAG LangChain Pinecone](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI<br>Groq<br>LangChain<br>Pinecone |  |  |  |
-| [CrewAI RAG LangChain Qdrant](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>CrewAI Agents |  |  |  |
+| [Agentic RAG with LangChain](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | OpenAI<br>Groq<br>LangChain<br>Pinecone |  |  |  |
+| [Agentic RAG with CrewAI](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>CrewAI Agents |  |  |  |
 | [Fine Tuning Gemma 2B](https://github.com/benitomartin/peft-gemma-2b) | Hugging Face Transformers<br>PEFT (LoRA/QLoRA) | Hugging Face  | |  |
 | **Data Analysis + Modeling** |
 | [News Classification](https://github.com/benitomartin/nlp-news-classification) | Scikit-learn (Multinomial Naive Bayes)<br>Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
