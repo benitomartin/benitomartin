@@ -62,7 +62,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ **Data Visualization & Analytics:** Power BI, Looker, Tableau,  Matplotlib, Seaborn, Plotly, Streamlit, Gradio
 - ✅ **Web Scraping:** BeautifulSoup, Scrapy, Selenium
 - ✅ **Maths and Statistics:** Statsmodels, SciPy
-- ✅ **Data Science & ML:** Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy
+- ✅ **Data Science & ML:** Python, TensorFlow, Scikit-learn, OpenCV, NLTK, SpaCy
 - ✅ **AI:** Langchain, LlamaIndex, OpenAI, Hugging Face, Transformers, Ollama, Llamafile, CrewAI, Pinecone, Qdrant, Chroma, Faiss, Ragas, LangSmith
 - ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction, Anomaly Detection
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
@@ -158,7 +158,6 @@ If you want me to develop a project for you feel free to contact me! I always ke
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
