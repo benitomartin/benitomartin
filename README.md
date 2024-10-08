@@ -168,7 +168,6 @@ If you want me to develop a project for you feel free to contact me! I always ke
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -181,24 +180,3 @@ If you want me to develop a project for you feel free to contact me! I always ke
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-<h2 align="left"><ins>Cloud Services</ins></h2>
-
-<h3 align="left">GCP</h3>
-
-| Cloud Storage | BigQuery | Cloud Run | VM | GKE | Vertex AI | Dataproc | Earth Engine | Container Registry |
-|---------------|----------|-----------|----|-----|-----------|----------|--------------|--------------------|
-
-<h3 align="left">AWS</h3>
-
-| SageMaker | S3 | EC2 | ECR | Kinesis | Lambda |ECS | Glue | Athena |CloudWatch |
-|-----------|----|-----|-----|---------|--------|----|------|--------|-----------|
-
-| Fargate | API Gateway | Firehose | EventBridge | Opensearch | RDS | CDK |  Bedrock | 
-|---------|-------------|----------|-------------|------------|-----|-----| -----------|
-
-<h3 align="left">Azure</h3>
-
-| Azure Functions App | Container Registry | 
-|---------------------|--------------------|
-
