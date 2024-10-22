@@ -135,8 +135,6 @@ If you want me to develop a project for you feel free to contact me! I always ke
 
 <h1>:abacus: Tech Stack</h1>
 
-<h2 align="left"><ins>Data Science/Engineering/Analysis and ML</ins></h2>
-
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
