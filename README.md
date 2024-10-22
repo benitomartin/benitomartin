@@ -59,13 +59,13 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 
 &nbsp;
 
-- ✅ **Data Visualization & Analytics:** Streamlit, Gradio
-- ✅ **Data Science & ML:** Python, TensorFlow, Scikit-learn
+- ✅ **Data Science, Analytics & ML:** Python, TensorFlow, Scikit-learn
 - ✅ **AI:** Langchain, LlamaIndex, Hugging Face, Transformers, Vector Databases, Evaluation
 - ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
 - ✅ **MLOps:** MLflow, Prefect, Comet, Docker, Kubernetes 
-- ✅ **APIs:** Flask, FastAPI, AWS API Gateway 
+- ✅ **APIs:** Flask, FastAPI, AWS API Gateway
+- ✅ **Apps:** Streamlit, Gradio 
 - ✅ **Cloud Platforms:** GCP, AWS
 - ✅ **Version Control:** Git
 &nbsp;
