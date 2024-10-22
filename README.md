@@ -55,20 +55,18 @@
 &nbsp;
 
 <h1>👨‍💻 My Profile</h1>
-Innovative and dynamic <b>Data Scientist</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. My skill set includes: 
+Innovative and dynamic <b>Data Scientist</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. My skill set includes (not limited to): 
 
 &nbsp;
 
-- ✅ **Data Visualization & Analytics:** Power BI, Looker, Tableau,  Matplotlib, Seaborn, Plotly, Streamlit, Gradio
-- ✅ **Web Scraping:** BeautifulSoup, Scrapy, Selenium
-- ✅ **Maths and Statistics:** Statsmodels, SciPy
-- ✅ **Data Science & ML:** Python, TensorFlow, Scikit-learn, OpenCV, NLTK
-- ✅ **AI:** Langchain, LlamaIndex, Hugging Face, Transformers, Agents, Pinecone, Qdrant, Chroma, Faiss, Ragas, LangSmith
+- ✅ **Data Visualization & Analytics:** Streamlit, Gradio
+- ✅ **Data Science & ML:** Python, TensorFlow, Scikit-learn
+- ✅ **AI:** Langchain, LlamaIndex, Hugging Face, Transformers, Vecto Databases, Evaluation
 - ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, PCA, Clustering, Dimensionality Reduction
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
-- ✅ **MLOps:** MLflow, Prefect, Mage, Comet, Docker, Kubernetes 
+- ✅ **MLOps:** MLflow, Prefect, Comet, Docker, Kubernetes 
 - ✅ **APIs:** Flask, FastAPI, AWS API Gateway 
-- ✅ **Cloud Platforms:** GCP, AWS, Azure
+- ✅ **Cloud Platforms:** GCP, AWS
 - ✅ **Version Control:** Git
 &nbsp;
 
