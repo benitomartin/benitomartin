@@ -37,14 +37,6 @@
 </table>
 
 
-<div align="center">
-<a href="https://www.credly.com/badges/d5698d0f-8b7f-452c-9342-2c35961649ed">
-    <img src="https://github.com/user-attachments/assets/ee2da396-5422-4b59-9c04-ca6908403c54" width="auto" height="150"/>
-     </a>
-<a href="https://www.credly.com/badges/6b1b1a95-0fd1-4a0d-a1bb-bab47aecc91c">
-    <img src="https://github.com/user-attachments/assets/96ed9891-1ac9-441c-b8b6-00161c85cc3e" width="auto" height="150"/>
-     </a>
-</div>
 
 
 &nbsp;
