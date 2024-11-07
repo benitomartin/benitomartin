@@ -68,7 +68,7 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 &nbsp;
 
 - ✅ **Data Science, Analytics & ML:** Python, TensorFlow, Scikit-learn
-- ✅ **AI:** Langchain, LlamaIndex, Hugging Face, Transformers, Vector Databases, Evaluation
+- ✅ **AI:** Langchain, LlamaIndex, Hugging Face, Transformers, Vector Databases
 - ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, Clustering, Dimensionality Reduction
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark
 - ✅ **MLOps:** MLflow, Prefect, Comet, Docker, Kubernetes 
