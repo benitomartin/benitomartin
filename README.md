@@ -102,6 +102,7 @@ If you want me to develop a project for you feel free to contact me! I always ke
 | [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | **LLM, RAG and Fine-tuning** |
+| [RAG Hybrid Search and Semantic Caching](https://github.com/benitomartin/semantic-caching-qdrant-splade) | Qdrant<br>FastEmbed<br>SPLADE<br>Hugging Face Transformers |  |  | Error Handling<br>Linting<br>Formatting |
 | [Multimodal Bill Scan System](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb) | AWS Bedrock<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK<br>Claude 3 Sonnet | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
 | [IaC in RAG Applications with Terraform](https://github.com/benitomartin/aws-bedrock-opensearch-langchain) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>Terraform<br>Titan | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
 | [Scalable RAG in AWS with Fargate](https://github.com/benitomartin/aws-cdk-rag-fargate) | OpenAI<br>LlamaIndex<br>Qdrant<br>AWS CDK/Fargate<br>FastAPI | AWS |  | Testing<br>Error Handling |
