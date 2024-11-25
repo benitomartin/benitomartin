@@ -58,7 +58,7 @@
 
 💰 My website has been created using Hostinger. If you want to create your own one, using this link (https://hostinger.com?REFERRALCODE=1BENITO83) will provide you 20% discount on the selected plan 💶
 
-👉 **CONTACT ME!** 👉 Book a [Free Call](https://martindatasol.com/book-a-free-call), or use this [Form](https://martindatasol.com/contact) 🚀
+👉 **CONTACT ME!** 👉 Book a [Free Consultation](https://martindatasol.com/free-consultation), or use this [Form](https://martindatasol.com/contact) 🚀
 
 &nbsp;
 
