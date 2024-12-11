@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://martindatasol.com/">
-    <img src="https://github.com/user-attachments/assets/48b04015-04b7-4fe5-9501-db13cea74e1d"/>
+    <img src="https://github.com/user-attachments/assets/f4d08233-4dba-4657-ac38-39a7f2b3bfb4"/>
 </div>
 
 &nbsp;
