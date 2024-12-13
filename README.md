@@ -63,7 +63,7 @@
 &nbsp;
 
 <h1>👨‍💻 My Profile</h1>
-Innovative and dynamic <b>Data Scientist</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. My skill set includes (not limited to): 
+Innovative and dynamic <b>Data Scientist</b> providing a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to): 
 
 &nbsp;
 
@@ -76,14 +76,6 @@ Innovative and dynamic <b>Data Scientist</b> with a proven track record in lever
 - ✅ **Apps:** Streamlit, Gradio 
 - ✅ **Cloud Platforms:** GCP, AWS
 - ✅ **Version Control:** Git
-&nbsp;
-
-Currently working as a **Freelance** for Data Analytics/Science ML and AI end-to-end projects, technical writing and open for further cooperation opportunities! 
-
-If you want me to develop a project for you feel free to contact me! I always keep developing personal projects and I'm happy to implement new ideas 😃
-
-
-&nbsp;
 
 <h1>📄 Projects Portfolio</h1>
 
