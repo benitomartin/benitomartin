@@ -56,7 +56,7 @@
 
 🌟 Crafting each piece of content is a journey that demands both time and passion. If you enjoy my work, consider fueling my creativity [Buying me a Coffee](https://buymeacoffee.com/bmartinc80w) ☕ or supporting me on [GitHub Sponsors](https://github.com/sponsors/benitomartin) 🚀
 
-💰 My website has been created using Hostinger. If you want to create your own one, using this link (https://hostinger.com?REFERRALCODE=1BENITO83) will provide you 20% discount on the selected plan 💶
+💰 My website has been created using Hostinger. If you want to create your own one, using this [referral code](https://hostinger.com?REFERRALCODE=1BENITO83) will provide you 20% discount on the selected plan 💶
 
 👉 **CONTACT ME!** 👉 Book a [Consultation](https://martindatasol.com/consultation), or use this [Form](https://martindatasol.com/contact) 🚀
 
