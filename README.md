@@ -81,7 +81,7 @@ Innovative and dynamic <b>Data Scientist</b> providing a diverse range of servic
 
 <h1>📄 Projects Portfolio</h1>
 
-💰 My personal end-to-end projects can be found in these repositories. Feel free to click ⭐ if you like them 😎
+💰 My end-to-end projects can be found in these repositories. Feel free to click ⭐ if you like them 😎
 
 &nbsp;
 
