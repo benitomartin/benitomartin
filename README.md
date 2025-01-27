@@ -127,13 +127,7 @@ Innovative and dynamic <b>Data Scientist</b> providing a diverse range of servic
 
 
 
-&nbsp;
 
-💸 Additionally, you can find my **Power BI** projects:
-   -  [Personal Finance](https://app.powerbi.com/view?r=eyJrIjoiZThmMzgyODUtOGU1Mi00MDI4LTk5MTUtYzdhNDdlNGFhOGIxIiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Analysis and Comparison of Income, Bills, Profits and Available Money
-   -  [Product Sales Comparison](https://app.powerbi.com/view?r=eyJrIjoiMTZiODk4MjYtMTZiOS00ZWIyLTg5ZmYtZWJiNDk2ODJhZDQ0IiwidCI6ImQ3NDMwODU2LTBjYTgtNGY1ZS05ZWIxLWFkYjk3YjFlNTZiNyJ9): Product Sales Comparison using DAX functions
-
-:basecamp: Last but not least, I also have a **Tableau** [portfolio](https://public.tableau.com/app/profile/benito.mart.n1807/vizzes) using groups, sets, blends, joins, table calculations, storylines, parameters, animations, and other advanced functions
 
 &nbsp;
 
@@ -146,8 +140,6 @@ Innovative and dynamic <b>Data Scientist</b> providing a diverse range of servic
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
