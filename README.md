@@ -67,11 +67,12 @@ Innovative and dynamic <b>Data Scientist</b> providing a diverse range of servic
 
 &nbsp;
 
-- ✅ **Data Science, Analytics & ML:** Python, TensorFlow, Scikit-learn
+- ✅ **Data Science, Analytics & ML:** Python, NumPy, Pandas, TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
 - ✅ **AI:** Langchain, LlamaIndex, Hugging Face, Transformers, Vector Databases
 - ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, Clustering, Dimensionality Reduction
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark, Databricks
-- ✅ **MLOps:** MLflow, Prefect, Comet, Docker, Kubernetes 
+- ✅ **MLOps:** MLflow, Prefect, Comet, Docker, Kubernetes
+- ✅ **DevOps**: Pydantic, Ruff, Poetry, UV, Conda, Pytest, Pre-commit, Coverage, CI/CD 
 - ✅ **APIs:** Flask, FastAPI
 - ✅ **Apps:** Streamlit, Gradio 
 - ✅ **Cloud Platforms:** GCP, AWS
@@ -150,6 +151,8 @@ Innovative and dynamic <b>Data Scientist</b> providing a diverse range of servic
 ![Spark](https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
