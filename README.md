@@ -62,8 +62,8 @@
 
 &nbsp;
 
-<h1>👨‍💻 My Profile</h1>
-Innovative and dynamic <b>Data Scientist</b> providing a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to): 
+<h1>😎 My Profile</h1>
+I am passionate, innovative and dynamic <b>Data Scientist</b> that provides a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to): 
 
 &nbsp;
 
@@ -80,7 +80,26 @@ Innovative and dynamic <b>Data Scientist</b> providing a diverse range of servic
 
 &nbsp;
 
-<h1>📄 Projects Portfolio</h1>
+<h1>✍️ Blogs</h1>
+
+I write about Data Science, Machine Learning, and AI, covering topics such as end-to-end applications, LLMs, Retrieval-Augmented Generation (RAG), and optimization techniques. You can find my blogs on the following platforms: 
+
+- [Medium](https://medium.com/@benitomartin)
+- [Zilliz](https://zilliz.com/authors/Benito_Martin)
+- [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm)
+- [Marvelous MLOps](https://marvelousmlops.substack.com/p/building-an-end-to-end-mlops-project)
+
+
+Some of my blogs have been highlighted in the LlamaIndex Newsletter, GKE Newsletter, and the MLOps community:&nbsp;
+- 📝 [Find Your Code! Scaling a LlamaIndex and Qdrant Application with Google Kubernetes Engine](https://www.linkedin.com/pulse/dymanic-workload-schedule-ga-confidential-computing-kms-sghiouar-ci8he/?trackingId=%2Bhgvw2lMQlSdKygvtG4MYA%3D%3D)
+- 📝 [Building a Serverless Application with AWS Lambda and Qdrant for Semantic Search](https://home.mlops.community/public/blogs/building-a-serverless-application-with-aws-lambda-and-qdrant-for-semantic-search)
+- 📝 [Multimodal LLM with Qdrant and Gemini](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-08-20)
+- 📝 [RAG App with AWS CDK, Qdrant and LlamaIndex](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-09-24)
+- 📝 [Building a Multimodal LLM Application with PyMuPDF4LLM](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-10-08)
+
+&nbsp;
+
+<h1>👨‍💻 Projects Portfolio</h1>
 
 💰 My end-to-end projects can be found in these repositories. Feel free to click ⭐ if you like them 😎
 
