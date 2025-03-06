@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://martindatasol.com/">
-    <img src="https://github.com/user-attachments/assets/f4d08233-4dba-4657-ac38-39a7f2b3bfb4"/>
+    <img src="https://github.com/user-attachments/assets/fa8598aa-815d-4a93-9f0b-da100bb216e9"/>
 </div>
 
 &nbsp;
@@ -47,6 +47,12 @@
      </a>
 </div>
 
+
+<div align="center">
+<a href="https://aws.amazon.com/developer/community/community-builders/">
+<img src="images/com_build.png" width="auto" height="100"/>
+ </a>
+</div>
 
 &nbsp;
 
