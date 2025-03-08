@@ -129,7 +129,7 @@ Some of my blogs have been highlighted in the LlamaIndex Newsletter, GKE Newslet
 | [Scalable RAG in AWS with Fargate](https://github.com/benitomartin/aws-cdk-rag-fargate) | OpenAI<br>LlamaIndex<br>Qdrant<br>AWS CDK/Fargate<br>FastAPI | AWS |  | Testing<br>Error Handling |
 | [RAG Deployment with Azure Functions](https://github.com/benitomartin/rag-azure-http) | OpenAI<br>LangChain<br>Qdrant<br>Azure Functions App | Azure |  | Linting<br>Formatting<br>Testing<br>Error Handling |
 | [Scalable RAG with Kubernetes](https://github.com/benitomartin/scale-gke-qdrant-llama) | OpenAI<br>LlamaIndex<br>Qdrant<br>Docker<br>FastAPI<br>GKE | GCP | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
-| [Research Papers Semantic Search](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>Docker<br>AWS API Gateway | AWS | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling |
+| [Research Papers Semantic Search](https://github.com/benitomartin/rag-aws-qdrant) | OpenAI<br>LangChain<br>Qdrant<br>Docker<br>AWS Lambda<br>AWS API Gateway | AWS | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling |
 | [Video Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
 | [Multimodal RAG with Video Frames](https://github.com/benitomartin/multimodal-youtube-recipes) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
 | [Books Reranking Semantic Search](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
