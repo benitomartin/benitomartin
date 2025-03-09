@@ -69,7 +69,7 @@
 
 &nbsp;
 
-<h1>😎 Trusted by Companies</h1>
+<h1>🏛️ Trusted by Companies</h1>
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/9cf4f8e3-71fd-4a50-97ef-f3d11ca5da71" width="auto" height="70"/>
