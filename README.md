@@ -1,6 +1,7 @@
 <div align="center">
 <a href="https://martindatasol.com/">
     <img src="https://github.com/user-attachments/assets/fa8598aa-815d-4a93-9f0b-da100bb216e9"/>
+</a>
 </div>
 
 &nbsp;
@@ -67,6 +68,26 @@
 👉 **CONTACT ME!** 👉 Book a [Consultation](https://martindatasol.com/consultation), or use this [Form](https://martindatasol.com/contact) 🚀
 
 &nbsp;
+
+<h1>😎 Tusted by Companies</h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9cf4f8e3-71fd-4a50-97ef-f3d11ca5da71" width="auto" height="70"/>
+<img src="https://github.com/user-attachments/assets/e67b7e64-0761-4556-add8-4042471ba85a" width="auto" height="70"/>
+<img src="https://github.com/user-attachments/assets/b6816d66-f438-4fd3-9c58-3c8e119613ba" width="auto" height="70"/>
+<img src="https://github.com/user-attachments/assets/d81a168e-ebe2-4959-abee-182415ab99b6" width="auto" height="70"/>
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/40964088-a679-44fe-9de1-316bd570704e" width="auto" height="130"/>
+<img src="https://github.com/user-attachments/assets/a3c6979d-2cbe-471d-ae6c-4c5cda5c31ab" width="auto" height="100"/>
+<img src="https://github.com/user-attachments/assets/d65f7842-ae4b-4889-a787-1b70bba8c3dc" width="auto" height="130"/>
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/aa05ac93-6a7c-4fbd-bad9-766335da9bff" width="auto" height="130"/>
+</div>
+
 
 <h1>😎 My Profile</h1>
 I am passionate, innovative and dynamic <b>Data Scientist</b> that provides a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to): 
