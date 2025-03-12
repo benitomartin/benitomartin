@@ -11,27 +11,37 @@
   <tr>
     <td>
       <a href="https://linkedin.com/in/benitomzh" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
     </td>
     <td>
       <a href="https://martindatasol.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/website-bdda57?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
+        <img src="https://img.shields.io/badge/website-e3941e?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
       </a>
     </td>
     <td>
       <a href="https://qdrant.tech/stars/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/qdrant-ff0000?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
+        <img src="https://img.shields.io/badge/qdrant-ff0000?style=for-the-badge&logo=&logoColor=white" alt="Qdrant Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.datacamp.com/tutorial/modulo-operator-python" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/datacamp-38c928?style=for-the-badge&logo=&logoColor=green" alt="Datacamp Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://circleci.com/blog/author/benito-martin/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/circleci-80786e?style=for-the-badge&logo=&logoColor=green" alt="Datacamp Badge">
       </a>
     </td>
     <td>
       <a href="https://zilliz.com/authors/Benito_Martin" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/zilliz-1c51f5?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
+        <img src="https://img.shields.io/badge/zilliz-1c51f5?style=for-the-badge&logo=&logoColor=white" alt="Zilliz Badge">
       </a>
     </td>
     <td>
       <a href="https://medium.com/@benitomartin" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
+        <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=&logoColor=white" alt="Medium Badge">
       </a>
     </td>
   </tr>
@@ -82,11 +92,11 @@
 <img src="https://github.com/user-attachments/assets/aa05ac93-6a7c-4fbd-bad9-766335da9bff" width="auto" height="130"/>
 <img src="https://github.com/user-attachments/assets/5ebdbbb3-259c-4cca-bbc3-f0e636995868" width="auto" height="130"/>
 <img src="https://github.com/user-attachments/assets/2228298a-8218-4857-924b-1ff448522d7e" width="auto" height="150"/>
+<img src="https://github.com/user-attachments/assets/ba0b7203-99cc-4160-8dc9-03f747ee8f21" width="auto" height="100"/>
 </div>
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/40964088-a679-44fe-9de1-316bd570704e" width="auto" height="130"/>
-<img src="https://github.com/user-attachments/assets/a3c6979d-2cbe-471d-ae6c-4c5cda5c31ab" width="auto" height="100"/>
 <img src="https://github.com/user-attachments/assets/d65f7842-ae4b-4889-a787-1b70bba8c3dc" width="auto" height="130"/>
 </div>
 
