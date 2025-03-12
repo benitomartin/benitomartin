@@ -156,6 +156,7 @@ Some of my blogs have been highlighted in the LlamaIndex Newsletter, GKE Newslet
 | [Birds Classification](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [Food Prediction](https://github.com/benitomartin/foodscore-code) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | **LLM, RAG and Fine-tuning** |
+| [Serverless GenAI API with FastAPI, AWS, and CircleCI](https://github.com/benitomartin/genai-aws-circleci) | OpenAI<br>AWS SAM<br>AWS Lambda<br>AWS API Gateway<br>AWS Secrets Manager<br>FastAPI<br>CircleCI | AWS |  | Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
 | [RAG Hybrid Search and Semantic Caching](https://github.com/benitomartin/semantic-caching-qdrant-splade) | Qdrant<br>FastEmbed<br>SPLADE<br>Hugging Face Transformers |  |  | Error Handling<br>Linting<br>Formatting |
 | [Multimodal Bill Scan System](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb) | AWS Bedrock<br>AWS Lambda<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK<br>Claude 3 Sonnet | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
 | [IaC in RAG Applications with Terraform](https://github.com/benitomartin/aws-bedrock-opensearch-langchain) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>AWS Secrets Manager<br>Terraform<br>Titan | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
