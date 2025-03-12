@@ -29,6 +29,15 @@
         <img src="https://img.shields.io/badge/datacamp-38c928?style=for-the-badge&logo=&logoColor=green" alt="Datacamp Badge">
       </a>
     </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://dev.to/benitomartin" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/dev-b8b535?style=for-the-badge&logo=&logoColor=grey" alt="Datacamp Badge">
+      </a>
+    </td>
     <td>
       <a href="https://circleci.com/blog/author/benito-martin/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/circleci-80786e?style=for-the-badge&logo=&logoColor=green" alt="Datacamp Badge">
@@ -46,7 +55,6 @@
     </td>
   </tr>
 </table>
-
 &nbsp;
 
 <div align="center">
@@ -126,7 +134,10 @@ I write about Data Science, Machine Learning, and AI, covering topics such as en
 - [Medium](https://medium.com/@benitomartin)
 - [Zilliz](https://zilliz.com/authors/Benito_Martin)
 - [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm)
+- [DEV](https://dev.to/benitomartin)
 - [Marvelous MLOps](https://marvelousmlops.substack.com/p/building-an-end-to-end-mlops-project)
+- [DataCamp](https://www.datacamp.com/tutorial/modulo-operator-python)
+- [CircleCI](https://circleci.com/blog/author/benito-martin/)
 
 
 Some of my blogs have been highlighted in the LlamaIndex Newsletter, GKE Newsletter, and the MLOps community:&nbsp;
