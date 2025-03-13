@@ -45,7 +45,7 @@
     </td>
     <td>
       <a href="https://zilliz.com/authors/Benito_Martin" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/zilliz-1c51f5?style=for-the-badge&logo=&logoColor=white" alt="Zilliz Badge">
+        <img src="https://img.shields.io/badge/zilliz-4103fc?style=for-the-badge&logo=&logoColor=white" alt="Zilliz Badge">
       </a>
     </td>
     <td>
