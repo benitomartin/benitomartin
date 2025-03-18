@@ -119,7 +119,7 @@ I am passionate, innovative and dynamic <b>Data Scientist</b> that provides a di
 - ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, Clustering, Dimensionality Reduction
 - ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark, Databricks
 - ✅ **MLOps:** MLflow, Prefect, Comet, Docker, Kubernetes
-- ✅ **DevOps**: Pydantic, Ruff, Poetry, UV, Conda, Pytest, Pre-commit, Coverage, CI/CD 
+- ✅ **DevOps**: Pydantic, Ruff, Poetry, uv, Conda, Pytest, Pre-commit, Coverage, CI/CD 
 - ✅ **APIs:** Flask, FastAPI
 - ✅ **Apps:** Streamlit, Gradio 
 - ✅ **Cloud Platforms:** GCP, AWS
