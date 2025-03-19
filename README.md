@@ -195,10 +195,7 @@ Some of my blogs have been highlighted in the LlamaIndex Newsletter, GKE Newslet
 | **Miscellaneous** |
 | [Gradio Application with Descope Authentication](https://github.com/benitomartin/gradio-sso-auth-descope) | Flask<br>Descope |  | Gradio | Error Handling |
 | [Justicio Web Scraping](https://github.com/benitomartin/scraping-to-sql) | Beautiful Soup<br>MySQL<br> |  |  | Error Handling |
-
-
-
-
+| [Docker + uv Benchmark](https://github.com/benitomartin/uv-docker-benchmark) | Docker<br>FastAPI<br>uv |  |  | Error Handling |
 
 
 &nbsp;
