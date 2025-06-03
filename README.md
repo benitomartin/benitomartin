@@ -110,7 +110,7 @@
 
 
 <h1>😎 My Profile</h1>
-I am passionate, innovative and dynamic <b>Data Scientist</b>, <b>ML</b>, and <b>AI Engineer</b> that provides a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to): 
+I am passionate, innovative and dynamic <b>Data Scientist, ML & AI Engineer</b> that provides a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to): 
 
 &nbsp;
 
