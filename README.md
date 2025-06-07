@@ -114,15 +114,15 @@ I am passionate, innovative and dynamic <b>Data Scientist, ML & AI Engineer</b> 
 
 &nbsp;
 
-- ✅ **Data Science, Analytics & ML:** Python, NumPy, Pandas, TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
-- ✅ **AI:** Langchain, LlamaIndex, Hugging Face, Transformers, Vector Databases
-- ✅ **Key Domains:** Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, Clustering, Dimensionality Reduction
-- ✅ **Data Engineering:** dbt, Terraform, SQL, BigQuery, PySpark, Databricks
-- ✅ **MLOps:** MLflow, Prefect, Comet, Docker, Kubernetes
-- ✅ **DevOps**: Pydantic, Ruff, Poetry, uv, Conda, Linux, Pytest, Pre-commit, Coverage, CI/CD 
-- ✅ **APIs:** Flask, FastAPI
-- ✅ **Apps:** Streamlit, Gradio 
-- ✅ **Cloud Platforms:** GCP, AWS
+- ✅ **DS/ML:** Python, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+- ✅ **AI/LLMs:** Hugging Face, LangChain, LlamaIndex, Transformers, Vector Databases
+- ✅ **Key Domains:** Regression, Classification, NLP, LLMs, RAG, Computer Vision, Neural Networks, Ensembles, Clustering, Dimensionality Reduction
+- ✅ **Data Engineering:** SQL, dbt, BigQuery, PySpark, Databricks, Terraform
+- ✅ **MLOps:** MLflow, Comet ML, Prefect, Docker, Kubernetes
+- ✅ **DevOps/Tooling**: Uv, Poetry, Conda, Pydantic, Ruff, Mypy, Pytest, Pre-commit, Coverage, CI/CD
+- ✅ **REST APIs:** Flask, FastAPI
+- ✅ **Apps/UI:** Streamlit, Gradio 
+- ✅ **Cloud:** GCP, AWS
 - ✅ **Version Control:** Git
 
 &nbsp;
