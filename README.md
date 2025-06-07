@@ -105,9 +105,9 @@
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/40964088-a679-44fe-9de1-316bd570704e" width="auto" height="130"/>
+<img src="https://github.com/user-attachments/assets/90753dbf-a141-43bd-93a1-43398ed96490" width="auto" height="100"/>
 <img src="https://github.com/user-attachments/assets/d65f7842-ae4b-4889-a787-1b70bba8c3dc" width="auto" height="130"/>
 </div>
-
 
 <h1>😎 My Profile</h1>
 I am passionate, innovative and dynamic <b>Data Scientist, ML & AI Engineer</b> that provides a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to): 
