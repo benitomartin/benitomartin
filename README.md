@@ -176,6 +176,7 @@ Some of my blogs have been highlighted in the LlamaIndex Newsletter, GKE Newslet
 | [Birds Species Identification System](https://github.com/benitomartin/birds_classification) | Pytorch |  | Gradio |  |
 | [ResNet-Based Food Recognition System](https://github.com/benitomartin/foodscore-code) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | **LLM, RAG and Fine-tuning** |
+| [LLM Evaluation and Observability System for Football Content](https://github.com/benitomartin/llm-observability-opik) | OpenAI<br>Hugging Face<br>MongoDB<br>Comet ML<br>Opik<br>ZenML |  |  | Experiment Tracking<br>LLM Evaluation<br>Linting<br>Formatting<br>Testing<br>Pre-Commit<br>Error Handling<br>CI/CD |
 | [Serverless Vector Database Embedding Pipeline](https://github.com/benitomartin/embeddings-aws-circleci) | OpenAI<br>LangChain<br>Zilliz<br>AWS Lambda<br>Amazon ECR<br>Docker<br>CircleCI | AWS |  | Containerization<br>Linting<br>Formatting<br>Testing<br>Pre-Commit<br>Error Handling<br>CI/CD |
 | [Collaborative Multi-Agent AI System with LangGraph](https://github.com/benitomartin/multiagent-langgraph-circleci) | OpenAI<br>AWS Bedrock<br>LangChain<br>LangGraph<br>AWS Lambda<br>Amazon ECR<br>Docker<br>CircleCI<br>Pydantic | AWS |  | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
 | [AI-Powered Response Generation API](https://github.com/benitomartin/genai-aws-circleci) | OpenAI<br>AWS SAM<br>AWS Lambda<br>AWS API Gateway<br>AWS Secrets Manager<br>FastAPI<br>CircleCI<br>Pydantic | AWS |  | Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
@@ -189,7 +190,7 @@ Some of my blogs have been highlighted in the LlamaIndex Newsletter, GKE Newslet
 | [Interactive YouTube Q&A and Summarization](https://github.com/benitomartin/youtube-llm) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
 | [YouTube-Based Multimodal Recipe Recommender](https://github.com/benitomartin/multimodal-youtube-recipes) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
 | [Intelligent Document Reranking RAG System](https://github.com/benitomartin/rag_llama_deeplake) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
-| [RAG Evaluation Pipeline with RAGAS](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI<br>Hugging Face Transformers<br>Faiss<br>LangChain<br>Ragas |  |  |  |
+| [RAG Evaluation Pipeline with RAGAS](https://github.com/benitomartin/rag-langchain-ragas) | OpenAI<br>Hugging Face Transformers<br>Faiss<br>LangChain<br>Ragas |  |  | LLM Evaluation |
 | [PII-Filtered Secure RAG System](https://github.com/benitomartin/rag-pii-llamaindex-milvus) | OpenAI<br>Presidio<br>LlamaIndex<br>Milvus |  |  |  |
 | [Multimodal RAG with PyMuPDF](https://github.com/benitomartin/multimodal-llm-pymupdf4llm) | OpenAI<br>Qdrant<br>LlamaIndex<br>PyMuPDF |  |  |  |
 | [Claude-Powered Agentic RAG](https://github.com/benitomartin/Milvus-Agentic-RAG-Claude) | OpenAI<br>Claude<br>LlamaIndex<br>Milvus |  |  |  |
