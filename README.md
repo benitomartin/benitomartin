@@ -214,14 +214,14 @@ My technical writing has been featured in major industry newsletters and platfor
 
 #### [Real-Time Crypto Forecasting Pipeline](https://github.com/benitomartin/mlops-llm-crypto-predictor)
 - **Stack**: Quix Streams, MLflow, Kubernetes, Kafka, Grafana, PostgreSQL
-- **Infrastructure**: Civo
+- **Infrastructure**: Kind/Civo
 - **Features**: Real-time inference, model registry, data validation, automated monitoring
 <div align="center">
     <img src="images/real_time _crypto_forecasting_pipeline.png" width="700"/>
 </div>
 
 #### [Financial Risk Assessment System](https://github.com/benitomartin/mlops-databricks-credit-default)
-- **Stack**: Databricks, MLflow, LightGBM, Pydantic
+- **Stack**: Databricks, MLflow, LightGBM
 - **Infrastructure**: AWS/Databricks
 - **Features**: Automated feature engineering, model monitoring, A/B testing
 <div align="center">
@@ -229,7 +229,7 @@ My technical writing has been featured in major industry newsletters and platfor
 </div>
 
 #### [Healthcare Cost Forecasting](https://github.com/benitomartin/mlops-aws-insurance)
-- **Stack**: SageMaker, TensorFlow, Comet ML, Flask
+- **Stack**: AWS SageMaker, TensorFlow, Comet ML, Flask
 - **Infrastructure**: AWS
 - **Features**: Automated retraining, cost optimization
 <div align="center">
@@ -247,7 +247,7 @@ My technical writing has been featured in major industry newsletters and platfor
 </div>
 
 #### [Collaborative Multi-Agent AI System with LangGraph](https://github.com/benitomartin/multiagent-langgraph-circleci)
-- **Stack**: LangGraph, Bedrock, Docker, CircleCI
+- **Stack**: LangGraph, AWS Lambda, AWS Bedrock, Docker, CircleCI
 - **Infrastructure**: AWS
 - **Features**: Agent coordination, workflow automation, scalable deployment
 <div align="center">
@@ -263,7 +263,7 @@ My technical writing has been featured in major industry newsletters and platfor
 </div>
 
 #### [Multimodal Smart Document Processing System](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb)
-- **Stack**: AWS Bedrock, Claude 3, DynamoDB, CDK
+- **Stack**: AWS Bedrock, Claude 3, AWS Lambda, AWS DynamoDB, AWS CDK
 - **Infrastructure**: AWS
 - **Features**: Text + image processing, event-driven architecture, serverless
 <div align="center">
