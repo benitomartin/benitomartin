@@ -216,16 +216,25 @@ My technical writing has been featured in major industry newsletters and platfor
 - **Stack**: Quix Streams, MLflow, Kubernetes, Kafka, Grafana, PostgreSQL
 - **Infrastructure**: Civo
 - **Features**: Real-time inference, model registry, data validation, automated monitoring
+<div align="center">
+    <img src="images/real_time _crypto_forecasting_pipeline.png" width="700"/>
+</div>
 
 #### [Financial Risk Assessment System](https://github.com/benitomartin/mlops-databricks-credit-default)
 - **Stack**: Databricks, MLflow, LightGBM, Pydantic
 - **Infrastructure**: AWS/Databricks
 - **Features**: Automated feature engineering, model monitoring, A/B testing
+<div align="center">
+    <img src="images/financial_risk_assessment_system.png" width="700"/>
+</div>
 
 #### [Healthcare Cost Forecasting](https://github.com/benitomartin/mlops-aws-insurance)
 - **Stack**: SageMaker, TensorFlow, Comet ML, Flask
 - **Infrastructure**: AWS
 - **Features**: Automated retraining, cost optimization
+<div align="center">
+    <img src="images/healthcare_cost_forecasting.png" width="700"/>
+</div>
 
 ### 🧠 Advanced AI & LLM Applications
 
@@ -233,36 +242,47 @@ My technical writing has been featured in major industry newsletters and platfor
 - **Stack**: LangGraph, Bedrock, Docker, CircleCI
 - **Infrastructure**: AWS
 - **Features**: LLM evaluation, observability, workflow automation, production monitoring
+<div align="center">
+    <img src="images/llm_observability_opik.png" width="700"/>
+</div>
 
 #### [Collaborative Multi-Agent AI System with LangGraph](https://github.com/benitomartin/multiagent-langgraph-circleci)
 - **Stack**: LangGraph, Bedrock, Docker, CircleCI
 - **Infrastructure**: AWS
 - **Features**: Agent coordination, workflow automation, scalable deployment
+<div align="center">
+    <img src="images/collaborative _multi_agent_ai_system_with_langgraph.png" width="300"/>
+</div>
 
 #### [Kubernetes-Powered Semantic Code Search System](https://github.com/benitomartin/scale-gke-qdrant-llama)
 - **Stack**: LlamaIndex, Qdrant, GKE, FastAPI, Streamlit
 - **Infrastructure**: GCP
 - **Features**: Semantic search, auto-scaling, production monitoring
+<div align="center">
+    <img src="images/kubernetes_powered_semantic_code_search_system.png" width="700"/>
+</div>
 
 #### [Multimodal Smart Document Processing System](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb)
 - **Stack**: AWS Bedrock, Claude 3, DynamoDB, CDK
 - **Infrastructure**: AWS
 - **Features**: Text + image processing, event-driven architecture, serverless
+<div align="center">
+    <img src="images/multimodal_smart_document_processing_system.png" width="700"/>
+</div>
 
 ### 🏗️ Data Engineering Solutions
-
-#### [Hotel Reviews ETL Pipeline on GCP](https://github.com/benitomartin/de-hotel-reviews)
-- **Stack**: Spark, Prefect, dbt, BigQuery, Terraform, Looker
-- **Infrastructure**: GCP
-- **Features**: Data quality checks, automated testing, visualization
 
 #### [Swiss Air Quality Pipeline](https://github.com/benitomartin/de-ch-weather)
 **End-to-end data engineering with modern tools**
 - **Stack**: Mage, dbt, BigQuery, Terraform, Looker
 - **Infrastructure**: GCP
 - **Features**: Data quality checks, automated testing, visualization
+<div align="center">
+    <img src="images/swiss_air_quality_pipeline.png" width="700"/>
+</div>
 
 ---
+
 
 ### 🚀 **40+ Projects** across 5 categories
 
