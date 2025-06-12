@@ -104,12 +104,16 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 
 <div align="center">
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-00A1EA?style=for-the-badge&logoColor=white)
 
-**Machine Learning**
+**Machine Learning & Data Science**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logoColor=white)
@@ -135,6 +139,9 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 ![Zilliz](https://img.shields.io/badge/Zilliz-4103FC?style=for-the-badge&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+
 **UI & REST APIs**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logoColor=white)
@@ -156,8 +163,6 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white)
-
-&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logoColor=white)
@@ -171,17 +176,21 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 ![Linting](https://img.shields.io/badge/Linting-27AE60?style=for-the-badge&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-E74C3C?style=for-the-badge&logoColor=white)
 ![Error Handling](https://img.shields.io/badge/Error%20Handling-FF4B4B?style=for-the-badge&logoColor=white)
-
-&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logoColor=white)
 ![Version Control](https://img.shields.io/badge/Version%20Control-2F80ED?style=for-the-badge&logoColor=white)
 ![Pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-9B59B6?style=for-the-badge&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white)
 
+</td>
+</tr>
+</table>
+
+
 </div>
 
 ---
+
 
 ## 📚 Featured Publications
 
@@ -260,7 +269,7 @@ My technical writing has been featured in major industry newsletters and platfor
 | Category | Description |
 |----------|-------------|
 | 🤖 **ML/MLOps** | Production-grade systems with comprehensive DevOps |
-| 🧠 **LLM & RAG** | Advanced AI applications and multi-modal systems |
+| 🧠 **AI & LLM** | Advanced AI applications and multi-modal systems |
 | 📊 **Data Analysis** | End-to-end data science with advanced modeling |  
 | 🔧 **Data Engineering** | Scalable pipeline solutions with modern tools |
 | 🛠️ **Miscellaneous** | Utility applications and specialized tools |
