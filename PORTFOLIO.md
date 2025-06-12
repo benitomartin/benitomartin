@@ -105,10 +105,10 @@
 - **Enterprise-grade** DevOps practices
 ---
 
-<div align="center">
-
 ## 💼 Ready to Collaborate?
 
+<div align="center">
+  
 **Transform your ideas into production-ready AI solutions**
 
 [![Contact Me!](https://img.shields.io/badge/🌐%20Contact-green?style=for-the-badge)](https://martindatasol.com)
