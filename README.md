@@ -210,7 +210,7 @@ My technical writing has been featured in major industry newsletters and platfor
 
 ## 🚀 Featured Projects
 
-### 🤖 Production MLOps Systems
+### 🤖 End-to-end MLOps Systems
 
 #### [Real-Time Crypto Forecasting Pipeline](https://github.com/benitomartin/mlops-llm-crypto-predictor)
 - **Stack**: Quix Streams, MLflow, Kubernetes, Kafka, Grafana, PostgreSQL
