@@ -264,9 +264,9 @@ My technical writing has been featured in major industry newsletters and platfor
 
 ## 💼 Ready to Collaborate?
 
-**Transform your ideas into production-grade ML & AI solutions**
-
 <div align="center">
+    
+**Transform your ideas into production-grade ML & AI solutions**
 
 [![Contact Me!](https://img.shields.io/badge/🌐%20Contact-green?style=for-the-badge)](https://martindatasol.com/contact)
 
