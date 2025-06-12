@@ -239,9 +239,9 @@ My technical writing has been featured in major industry newsletters and platfor
 ### 🧠 Advanced AI & LLM Applications
 
 #### [LLM Evaluation and Observability System for Football Content](https://github.com/benitomartin/llm-observability-opik)
-- **Stack**: LangGraph, Bedrock, Docker, CircleCI
-- **Infrastructure**: AWS
-- **Features**: LLM evaluation, observability, workflow automation, production monitoring
+- **Stack**: OpenAI, Hugging Face, MongoDB, Comet ML, Opik, ZenML
+- **Infrastructure**: Comet ML
+- **Features**: LLM evaluation, observability, workflow automation
 <div align="center">
     <img src="images/llm_observability_opik.png" width="700"/>
 </div>
