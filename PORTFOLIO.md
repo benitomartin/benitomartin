@@ -105,15 +105,15 @@
 - **Enterprise-grade** DevOps practices
 ---
 
-## 💼 Ready to Collaborate?
+## 📬 Contact & Inquiries
 
 <div align="center">
-  
-**Transform your ideas into production-ready AI solutions**
 
-[![Contact Me!](https://img.shields.io/badge/🌐%20Contact-green?style=for-the-badge)](https://martindatasol.com)
+*Technical content, consulting, and partnerships*
 
-&nbsp;
-[![Schedule Consultation](https://img.shields.io/badge/📅%20Schedule%20Consultation-blue?style=for-the-badge)](https://martindatasol.com/consultation)
+| For Technical Leaders | For Content Needs | For Partnerships |
+|:---:|:---:|:---:|
+| [![Project Discussion](https://img.shields.io/badge/Project%20Discussion-2E86AB?style=for-the-badge)](https://martindatasol.com/consultation) | [![Technical Writing](https://img.shields.io/badge/Technical%20Writing-F18F01?style=for-the-badge)](https://martindatasol.com/contact) | [![Partnership Inquiry](https://img.shields.io/badge/Partnership%20Inquiry-A23B72?style=for-the-badge)](https://martindatasol.com/contact) |
+| Development, Strategy | Tutorials, Documentation, Guides | Teaching, Collaboration, Consulting |
 
 </div>
