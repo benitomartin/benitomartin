@@ -1,6 +1,6 @@
 <div align="center">
 
-🚀 **Building the future, one algorithm at a time** 🚀
+🚀 **Building the future, one algorithm at a time**
 
 </div>
 
@@ -10,7 +10,16 @@
 </a>
 </div>
 
+<div align="center">
+    
+*🌟 Industry Recognition*
+
 &nbsp;
+**🚀 40+ Projects Developed** • **👨‍🏫 Educator in ML/AI & Data Science** • **📚 30K+ Readers Reached** • **🏆 AWS ML/AI Certified** 
+
+---
+
+</div>
 
 <h3 align="center">⬇️ You can find me here! ⬇️</h3>
 
@@ -34,20 +43,26 @@
 
 ---
 
-## 🎯 Quick Actions
+## 🏛️ Trusted by Leading Companies
 
 <div align="center">
 
-[![Contact Me!](https://img.shields.io/badge/🌐%20Contact-green?style=for-the-badge)](https://martindatasol.com/contact)
-
-&nbsp;
-[![Schedule Consultation](https://img.shields.io/badge/📅%20Schedule%20Consultation-blue?style=for-the-badge)](https://martindatasol.com/consultation)
+<img src="https://github.com/user-attachments/assets/9cf4f8e3-71fd-4a50-97ef-f3d11ca5da71" alt="Client Logo - Zilliz"              width="auto" height="50"/>
+<img src="https://github.com/user-attachments/assets/e67b7e64-0761-4556-add8-4042471ba85a" alt="Client Logo - Le Wagon"            width="auto" height="50"/>
+<img src="https://github.com/user-attachments/assets/b6816d66-f438-4fd3-9c58-3c8e119613ba" alt="Client Logo - Artifex"             width="auto" height="50"/>
+<img src="https://github.com/user-attachments/assets/d81a168e-ebe2-4959-abee-182415ab99b6" alt="Client Logo - Qdrant"              width="auto" height="50"/>
+<img src="https://github.com/user-attachments/assets/aa05ac93-6a7c-4fbd-bad9-766335da9bff" alt="Client Logo - AWS"                 width="auto" height="80"/>
+<img src="https://github.com/user-attachments/assets/5ebdbbb3-259c-4cca-bbc3-f0e636995868" alt="Client Logo - CircleCI"            width="auto" height="80"/>
+<img src="https://github.com/user-attachments/assets/2228298a-8218-4857-924b-1ff448522d7e" alt="Client Logo - DataCamp"            width="auto" height="90"/>
+<img src="https://github.com/user-attachments/assets/ba0b7203-99cc-4160-8dc9-03f747ee8f21" alt="Client Logo - Towards AI"          width="auto" height="70"/>
+<img src="https://github.com/user-attachments/assets/40964088-a679-44fe-9de1-316bd570704e" alt="Client Logo - MLOps Community"     width="auto" height="80"/>
+<img src="https://github.com/user-attachments/assets/90753dbf-a141-43bd-93a1-43398ed96490" alt="Client Logo - Docker"              width="auto" height="70"/>
+<img src="https://github.com/user-attachments/assets/20bba153-87af-450c-bd07-1aecbf44da2a" alt="Client Logo - Ironhack"            width="auto" height="80"/>
+<img src="https://github.com/user-attachments/assets/d65f7842-ae4b-4889-a787-1b70bba8c3dc" alt="Client Logo - Deeplearning.ai"     width="auto" height="80"/>
 
 </div>
 
----
-
-## 🏆 Certifications & Recognition
+&nbsp;
 
 <div align="center">
 
@@ -68,24 +83,16 @@
 
 ---
 
-## 🏛️ Trusted by Leading Companies
+## 🤝 Let's Build Something Impactful Together
 
 <div align="center">
 
-*Technical content, consulting, and educational partnerships*
+*Technical content, consulting, and partnerships*
 
-<img src="https://github.com/user-attachments/assets/9cf4f8e3-71fd-4a50-97ef-f3d11ca5da71" width="auto" height="50"/>
-<img src="https://github.com/user-attachments/assets/e67b7e64-0761-4556-add8-4042471ba85a" width="auto" height="50"/>
-<img src="https://github.com/user-attachments/assets/b6816d66-f438-4fd3-9c58-3c8e119613ba" width="auto" height="50"/>
-<img src="https://github.com/user-attachments/assets/d81a168e-ebe2-4959-abee-182415ab99b6" width="auto" height="50"/>
-<img src="https://github.com/user-attachments/assets/aa05ac93-6a7c-4fbd-bad9-766335da9bff" width="auto" height="80"/>
-<img src="https://github.com/user-attachments/assets/5ebdbbb3-259c-4cca-bbc3-f0e636995868" width="auto" height="80"/>
-<img src="https://github.com/user-attachments/assets/2228298a-8218-4857-924b-1ff448522d7e" width="auto" height="90"/>
-<img src="https://github.com/user-attachments/assets/ba0b7203-99cc-4160-8dc9-03f747ee8f21" width="auto" height="70"/>
-<img src="https://github.com/user-attachments/assets/40964088-a679-44fe-9de1-316bd570704e" width="auto" height="80"/>
-<img src="https://github.com/user-attachments/assets/90753dbf-a141-43bd-93a1-43398ed96490" width="auto" height="70"/>
-<img src="https://github.com/user-attachments/assets/20bba153-87af-450c-bd07-1aecbf44da2a" width="auto" height="80"/>
-<img src="https://github.com/user-attachments/assets/d65f7842-ae4b-4889-a787-1b70bba8c3dc" width="auto" height="80"/>
+| For Technical Leaders | For Content Needs | For Partnerships |
+|:---:|:---:|:---:|
+| [![Project Discussion](https://img.shields.io/badge/Project%20Discussion-2E86AB?style=for-the-badge)](https://martindatasol.com/consultation) | [![Technical Writing](https://img.shields.io/badge/Technical%20Writing-F18F01?style=for-the-badge)](https://martindatasol.com/contact) | [![Partnership Inquiry](https://img.shields.io/badge/Partnership%20Inquiry-A23B72?style=for-the-badge)](https://martindatasol.com/contact) |
+| Development, Strategy | Tutorials, Documentation, Guides | Teaching, Collaboration, Consulting |
 
 </div>
 
@@ -95,20 +102,19 @@
 
 I specialize in teaching, technical writing, and developing practical, scalable systems that combine deep technical expertise with tangible business impact, ranging from LLM-powered applications to full-stack ML solutions.
 
-### 🔧 Core Expertise
-
 <div align="center">
 
 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-00A1EA?style=for-the-badge&logoColor=white)
 
 **Machine Learning**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-23d9ead3?style=for-the-badge&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337ABC?style=for-the-badge&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoColor=white)
@@ -149,6 +155,7 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 ![ZenML](https://img.shields.io/badge/ZenML-431AB7?style=for-the-badge&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white)
 
 &nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logoColor=white)
@@ -260,17 +267,9 @@ My technical writing has been featured in major industry newsletters and platfor
 
 ### 👉 **[View Complete Project Portfolio →](PORTFOLIO.md)** 👈
 
----
-
-## 💼 Ready to Collaborate?
-
-<div align="center">
-    
-**Transform your ideas into production-grade ML & AI solutions**
-
-[![Contact Me!](https://img.shields.io/badge/🌐%20Contact-green?style=for-the-badge)](https://martindatasol.com/contact)
-
 &nbsp;
-[![Schedule Consultation](https://img.shields.io/badge/📅%20Schedule%20Consultation-blue?style=for-the-badge)](https://martindatasol.com/consultation)
+<div align="center">  
+    
+✨ *Thanks for visiting — Let’s connect and build something amazing!* ✨  
 
 </div>
