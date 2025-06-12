@@ -24,7 +24,7 @@
 **Professional Platforms**
 
 [![Qdrant Stars](https://img.shields.io/badge/qdrant-ff0000?style=for-the-badge&logo=&logoColor=white)](https://qdrant.tech/stars/)
-[![DataCamp](https://img.shields.io/badge/datacamp-38c928?style=for-the-badge&logo=&logoColor=white)](https://www.datacamp.com/tutorial/modulo-operator-python)
+[![DataCamp](https://img.shields.io/badge/datacamp-38c928?style=for-the-badge&logo=&logoColor=white)](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port)
 [![Dev.to](https://img.shields.io/badge/dev-b8b535?style=for-the-badge&logo=&logoColor=white)](https://dev.to/benitomartin)
 [![CircleCI](https://img.shields.io/badge/circleci-80786e?style=for-the-badge&logo=&logoColor=white)](https://circleci.com/blog/author/benito-martin/)
 [![Zilliz](https://img.shields.io/badge/zilliz-4103fc?style=for-the-badge&logo=&logoColor=white)](https://zilliz.com/authors/Benito_Martin)
