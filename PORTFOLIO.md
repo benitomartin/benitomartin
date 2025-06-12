@@ -1,5 +1,15 @@
 # 🚀 Complete Project Portfolio
 
+---
+
+## 🏆 Project Highlights
+
+- **End-to-end solutions**: From data ingestion to model deployment
+- **Enterprise integration**: Authentication, testing, and monitoring
+- **Scalable architecture**: Kubernetes, serverless, and cloud-native solutions
+- **Real-time ML**: Streaming data and live inference
+- **Multimodal AI**: Text, image, and video processing
+- **Enterprise-grade** DevOps practices
 
 ---
 
@@ -93,16 +103,6 @@
 | [**Docker Container Optimization Benchmark**](https://github.com/benitomartin/uv-docker-benchmark) | Container performance testing | Docker, FastAPI, uv | |
 | [**Automatic AWS S3 Buckets Deletion**](https://github.com/benitomartin/delete-all-aws-s3-buckets) | Automated resource management | AWS S3 | |
 
----
-
-## 🏆 Project Highlights
-
-- **End-to-end solutions**: From data ingestion to model deployment
-- **Enterprise integration**: Authentication, testing, and monitoring
-- **Scalable architecture**: Kubernetes, serverless, and cloud-native solutions
-- **Real-time ML**: Streaming data and live inference
-- **Multimodal AI**: Text, image, and video processing
-- **Enterprise-grade** DevOps practices
 ---
 
 ## 📬 Contact & Inquiries
