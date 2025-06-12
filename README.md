@@ -124,6 +124,13 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white)
 
+**Vector Databases**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
+![Zilliz](https://img.shields.io/badge/Zilliz-4103FC?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white)
+
 **LLMs & AI**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
@@ -131,13 +138,6 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5A3C?style=for-the-badge&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6B6B?style=for-the-badge&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG%20Systems-4ECDC4?style=for-the-badge&logoColor=white)
-
-**Vector Databases**
-
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
-![Zilliz](https://img.shields.io/badge/Zilliz-4103FC?style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -148,11 +148,6 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logoColor=white)
 
 **MLOps & Engineering**
 
@@ -168,6 +163,11 @@ I specialize in teaching, technical writing, and developing practical, scalable 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logoColor=white)
 
 **DevOps Best Practices**
 
