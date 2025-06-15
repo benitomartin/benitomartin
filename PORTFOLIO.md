@@ -13,26 +13,6 @@
 
 ---
 
-## 🤖 ML/MLOps Projects 
-
-*Production-grade machine learning systems with comprehensive DevOps practices*
-
-| Project | Description | Tech Stack | Cloud | App |
-|---------|-------------|------------|-------|-----|
-| [**Real-Time Crypto Forecasting Prediction Pipeline**](https://github.com/benitomartin/mlops-llm-crypto-predictor) | Enterprise streaming ML pipeline with monitoring | Quix Streams, MLflow, Scikit-learn, Optuna, Great Expectations, Pydantic, Kubernetes, Kind, Kafka, Grafana, Risingwave, Minio, PostgreSQL | Civo | |
-| [**Event-Driven ETL with AWS Step Functions**](https://github.com/benitomartin/aws-step-functions-circleci) | Serverless data pipeline orchestration | AWS Lambda, AWS Step Functions, CircleCI | AWS | |
-| [**Financial Risk Assessment System**](https://github.com/benitomartin/mlops-databricks-credit-default) | Scalable credit risk modeling platform | Scikit-learn, LightGBM, MLflow, Databricks, Pydantic | AWS/Databricks | |
-| [**Healthcare Cost Forecasting System**](https://github.com/benitomartin/mlops-aws-insurance) | Insurance cost prediction system | Scikit-learn, TensorFlow, Amazon SageMaker, AWS Lambda, Comet ML, Flask | AWS | |
-| [**Medical Risk Prediction**](https://github.com/benitomartin/mlops-aws-stroke) | Stroke risk assessment platform | Scikit-learn, XGBoost, Amazon SageMaker, AWS Lambda, Amazon ECR, Comet ML, Flask, Docker | AWS | |
-| [**Ensemble Regression for Car Price Forecasting**](https://github.com/benitomartin/mlops-car-prices) | Ensemble regression system | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Amazon ECR, AWS Lambda, Docker, Grafana, Terraform | AWS | |
-| [**Secure Social Authentication Integration with AWS Cognito**](https://github.com/benitomartin/aws-cognito-circleci) | Secure social authentication | AWS Cognito, Google OAuth2 Client, CircleCI | AWS/GCP | Streamlit |
-| [**Serverless API with AWS SAM**](https://github.com/benitomartin/sam-lambda-aws-api) | Infrastructure-as-Code API | AWS SAM, AWS Lambda, AWS API Gateway, Docker | AWS | |
-| [**Urban Transportation Cost Estimator**](https://github.com/benitomartin/mlops-chicago-rides) | Urban transportation ML system | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP | |
-| [**Playlist Generator with K-Means & PCA**](https://github.com/benitomartin/mlops-music-clustering) | K-Means playlist generator | Scikit-learn, FastAPI, Amazon ECR, Docker | AWS | Streamlit |
-| [**ResNet-Based Food Recognition System**](https://github.com/benitomartin/foodscore-code) | ResNet-based classification | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit |
-
----
-
 ## 🧠 LLM & RAG Applications 
 
 *Advanced AI applications including retrieval-augmented generation and multi-modal systems*
@@ -59,6 +39,28 @@
 | [**Claude-Powered Agentic RAG**](https://github.com/benitomartin/Milvus-Agentic-RAG-Claude) | Advanced agent system | OpenAI, Claude, LlamaIndex, Milvus | | |
 | [**Hybrid Knowledge Agentic RAG System**](https://github.com/benitomartin/agentic-RAG-langchain-pinecone) | Agentic knowledge system | OpenAI, Groq, LangChain, Pinecone | | |
 | [**Collaborative Multi-Agent RAG with CrewAI**](https://github.com/benitomartin/crewai-rag-langchain-qdrant) | Collaborative AI system | OpenAI, LangChain, Qdrant, CrewAI Agents | | |
+
+---
+
+## 🤖 ML/MLOps Projects 
+
+*Production-grade machine learning systems with comprehensive DevOps practices*
+
+| Project | Description | Tech Stack | Cloud | App |
+|---------|-------------|------------|-------|-----|
+| [**Real-Time Crypto Forecasting Prediction Pipeline**](https://github.com/benitomartin/mlops-llm-crypto-predictor) | Enterprise streaming ML pipeline with monitoring | Quix Streams, MLflow, Scikit-learn, Optuna, Great Expectations, Pydantic, Kubernetes, Kind, Kafka, Grafana, Risingwave, Minio, PostgreSQL | Civo | |
+| [**Event-Driven ETL with AWS Step Functions**](https://github.com/benitomartin/aws-step-functions-circleci) | Serverless data pipeline orchestration | AWS Lambda, AWS Step Functions, CircleCI | AWS | |
+| [**Financial Risk Assessment System**](https://github.com/benitomartin/mlops-databricks-credit-default) | Scalable credit risk modeling platform | Scikit-learn, LightGBM, MLflow, Databricks, Pydantic | AWS/Databricks | |
+| [**Healthcare Cost Forecasting System**](https://github.com/benitomartin/mlops-aws-insurance) | Insurance cost prediction system | Scikit-learn, TensorFlow, Amazon SageMaker, AWS Lambda, Comet ML, Flask | AWS | |
+| [**Medical Risk Prediction**](https://github.com/benitomartin/mlops-aws-stroke) | Stroke risk assessment platform | Scikit-learn, XGBoost, Amazon SageMaker, AWS Lambda, Amazon ECR, Comet ML, Flask, Docker | AWS | |
+| [**Ensemble Regression for Car Price Forecasting**](https://github.com/benitomartin/mlops-car-prices) | Ensemble regression system | Scikit-learn, TensorFlow, MLFlow, Prefect, Flask, Amazon ECR, AWS Lambda, Docker, Grafana, Terraform | AWS | |
+| [**Secure Social Authentication Integration with AWS Cognito**](https://github.com/benitomartin/aws-cognito-circleci) | Secure social authentication | AWS Cognito, Google OAuth2 Client, CircleCI | AWS/GCP | Streamlit |
+| [**Serverless API with AWS SAM**](https://github.com/benitomartin/sam-lambda-aws-api) | Infrastructure-as-Code API | AWS SAM, AWS Lambda, AWS API Gateway, Docker | AWS | |
+| [**Urban Transportation Cost Estimator**](https://github.com/benitomartin/mlops-chicago-rides) | Urban transportation ML system | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP | |
+| [**Playlist Generator with K-Means & PCA**](https://github.com/benitomartin/mlops-music-clustering) | K-Means playlist generator | Scikit-learn, FastAPI, Amazon ECR, Docker | AWS | Streamlit |
+| [**ResNet-Based Food Recognition System**](https://github.com/benitomartin/foodscore-code) | ResNet-based classification | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit |
+
+---
 
 ### 🔬 Fine-Tuning Projects
 
