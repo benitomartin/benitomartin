@@ -210,32 +210,6 @@ My technical writing has been featured in major industry newsletters and platfor
 
 ## 🚀 Featured Projects
 
-### 🤖 End-to-end MLOps Systems
-
-#### [Real-Time Crypto Forecasting Pipeline](https://github.com/benitomartin/mlops-llm-crypto-predictor)
-- **Stack**: Quix Streams, MLflow, Kubernetes, Kafka, Grafana, PostgreSQL
-- **Infrastructure**: Kind/Civo
-- **Features**: Real-time inference, model registry, data validation, automated monitoring
-<div align="center">
-    <img src="images/real_time _crypto_forecasting_pipeline.png" width="700"/>
-</div>
-
-#### [Financial Risk Assessment System](https://github.com/benitomartin/mlops-databricks-credit-default)
-- **Stack**: Databricks, MLflow, LightGBM
-- **Infrastructure**: AWS/Databricks
-- **Features**: Automated feature engineering, model monitoring, A/B testing
-<div align="center">
-    <img src="images/financial_risk_assessment_system.png" width="700"/>
-</div>
-
-#### [Healthcare Cost Forecasting](https://github.com/benitomartin/mlops-aws-insurance)
-- **Stack**: AWS SageMaker, TensorFlow, Comet ML, Flask
-- **Infrastructure**: AWS
-- **Features**: Automated retraining, cost optimization
-<div align="center">
-    <img src="images/healthcare_cost_forecasting.png" width="700"/>
-</div>
-
 ### 🧠 Advanced AI & LLM Applications
 
 #### [LLM Evaluation and Observability System for Football Content](https://github.com/benitomartin/llm-observability-opik)
@@ -268,6 +242,32 @@ My technical writing has been featured in major industry newsletters and platfor
 - **Features**: Text + image processing, event-driven architecture, serverless
 <div align="center">
     <img src="images/multimodal_smart_document_processing_system.png" width="700"/>
+</div>
+
+### 🤖 End-to-end MLOps Systems
+
+#### [Real-Time Crypto Forecasting Pipeline](https://github.com/benitomartin/mlops-llm-crypto-predictor)
+- **Stack**: Quix Streams, MLflow, Kubernetes, Kafka, Grafana, PostgreSQL
+- **Infrastructure**: Kind/Civo
+- **Features**: Real-time inference, model registry, data validation, automated monitoring
+<div align="center">
+    <img src="images/real_time _crypto_forecasting_pipeline.png" width="700"/>
+</div>
+
+#### [Financial Risk Assessment System](https://github.com/benitomartin/mlops-databricks-credit-default)
+- **Stack**: Databricks, MLflow, LightGBM
+- **Infrastructure**: AWS/Databricks
+- **Features**: Automated feature engineering, model monitoring, A/B testing
+<div align="center">
+    <img src="images/financial_risk_assessment_system.png" width="700"/>
+</div>
+
+#### [Healthcare Cost Forecasting](https://github.com/benitomartin/mlops-aws-insurance)
+- **Stack**: AWS SageMaker, TensorFlow, Comet ML, Flask
+- **Infrastructure**: AWS
+- **Features**: Automated retraining, cost optimization
+<div align="center">
+    <img src="images/healthcare_cost_forecasting.png" width="700"/>
 </div>
 
 ### 🏗️ Data Engineering Solutions
