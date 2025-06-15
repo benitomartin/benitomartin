@@ -102,6 +102,8 @@
 
 I specialize in teaching, technical writing, and developing practical, scalable systems that combine deep technical expertise with tangible business impact, ranging from LLM-powered applications to full-stack ML solutions.
 
+Additionally I am actively engaged with the global tech community as a member of the AWS Community Builders and a [Docker Captain](https://www.docker.com/captains/benito-martin/). Through these roles, I share my expertise, contribute to open collaboration, and help foster innovation across the cloud and developer ecosystems.
+
 <div align="center">
 
 <table>
