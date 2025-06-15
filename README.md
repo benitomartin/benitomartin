@@ -6,7 +6,6 @@
 
 <div align="center">
 <a href="https://martindatasol.com/">
-    <img src="images/linkedin_personal_builder.png"/>
 </a>
 </div>
 
