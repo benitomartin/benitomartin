@@ -1,6 +1,6 @@
 <div align="center">
 
-🚀 **Building the future, one algorithm at a time**
+🚀 **Solutions That Drive ROI**
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 🏛️ Trusted by Leading Companies
+## 🏛️ Trusted By Leading Companies
 
 <div align="center">
 
