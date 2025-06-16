@@ -76,9 +76,11 @@
 
 ### Community Recognition
 <a href="https://aws.amazon.com/developer/community/community-builders/">
-    <img src="images/com_build.png" width="auto" height="80"/>
+    <img src="images/com_build.png" alt="AWS Communkty Builders" width="auto" height="80"/>
 </a>
-
+<a href="https://www.docker.com/captains/benito-martin/">
+    <img src="images/docker_captain_wo_bg.png" alt="Docker Captain" width="140" height="80"/>
+</a>
 </div>
 
 ---
@@ -102,7 +104,7 @@
 
 I specialize in teaching, technical writing, and developing practical, scalable systems that combine deep technical expertise with tangible business impact, ranging from LLM-powered applications to full-stack ML solutions.
 
-Additionally, I am actively engaged with the global tech community as an AWS Community Builder, [Qdrant Star](https://qdrant.tech/stars/) and [Docker Captain](https://www.docker.com/captains/benito-martin/). Through these roles, I share my expertise, contribute to open collaboration, and help foster innovation across the cloud and developer ecosystems.
+Additionally, I am actively engaged with the global tech community as an AWS Community Builder, [Qdrant Star](https://qdrant.tech/stars/), and [Docker Captain](https://www.docker.com/captains/benito-martin/). Through these roles, I share my expertise, contribute to open collaboration, and help foster innovation across the cloud and developer ecosystems.
 
 <div align="center">
 
