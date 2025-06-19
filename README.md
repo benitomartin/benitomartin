@@ -59,7 +59,6 @@
 <img src="https://github.com/user-attachments/assets/90753dbf-a141-43bd-93a1-43398ed96490" alt="Client Logo - Docker"              width="auto" height="70"/>
 <img src="https://github.com/user-attachments/assets/20bba153-87af-450c-bd07-1aecbf44da2a" alt="Client Logo - Ironhack"            width="auto" height="80"/>
 <img src="https://github.com/user-attachments/assets/d65f7842-ae4b-4889-a787-1b70bba8c3dc" alt="Client Logo - Deeplearning.ai"     width="auto" height="80"/>
-<img src="https://github.com/user-attachments/assets/12a65339-608e-45bb-9c0a-5f09b53b448c" alt="Client Logo - Decoding ML"         width="auto" height="70"/>
 
 </div>
 
