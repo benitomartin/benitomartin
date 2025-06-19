@@ -59,6 +59,7 @@
 <img src="https://github.com/user-attachments/assets/90753dbf-a141-43bd-93a1-43398ed96490" alt="Client Logo - Docker"              width="auto" height="70"/>
 <img src="https://github.com/user-attachments/assets/20bba153-87af-450c-bd07-1aecbf44da2a" alt="Client Logo - Ironhack"            width="auto" height="80"/>
 <img src="https://github.com/user-attachments/assets/d65f7842-ae4b-4889-a787-1b70bba8c3dc" alt="Client Logo - Deeplearning.ai"     width="auto" height="80"/>
+<img src="https://github.com/user-attachments/assets/12a65339-608e-45bb-9c0a-5f09b53b448c" alt="Client Logo - Decoding ML"         width="auto" height="70"/>
 
 </div>
 
@@ -201,6 +202,7 @@ Additionally, I am actively engaged with the global tech community as an AWS Com
 My technical writing has been featured in major industry newsletters and platforms, such as LlamaIndex Newsletter, GKE Newsletter, and the MLOps community:
 
 ### Highlighted Articles
+- 📝 [Your AI Football Assist Eval Guide](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide)
 - 📝 [Find Your Code! Scaling a LlamaIndex and Qdrant Application with Google Kubernetes Engine](https://www.linkedin.com/pulse/dymanic-workload-schedule-ga-confidential-computing-kms-sghiouar-ci8he/?trackingId=%2Bhgvw2lMQlSdKygvtG4MYA%3D%3D)
 - 📝 [Building a Serverless Application with AWS Lambda and Qdrant for Semantic Search](https://home.mlops.community/public/blogs/building-a-serverless-application-with-aws-lambda-and-qdrant-for-semantic-search)
 - 📝 [Multimodal LLM with Qdrant and Gemini](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-08-20)
@@ -208,7 +210,7 @@ My technical writing has been featured in major industry newsletters and platfor
 - 📝 [Building a Multimodal LLM Application with PyMuPDF4LLM](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-10-08)
 
 ### Publishing Platforms
-[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port) • [CircleCI](https://circleci.com/blog/author/benito-martin/)
+[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port) • [CircleCI](https://circleci.com/blog/author/benito-martin/) • [Decoding ML](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide)
 
 ---
 
