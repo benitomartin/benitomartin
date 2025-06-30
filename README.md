@@ -233,12 +233,12 @@ My technical writing has been featured in major industry newsletters and platfor
     <img src="images/collaborative _multi_agent_ai_system_with_langgraph.png" width="300"/>
 </div>
 
-#### [Kubernetes-Powered Semantic Code Search System](https://github.com/benitomartin/scale-gke-qdrant-llama)
-- **Stack**: LlamaIndex, Qdrant, GKE, FastAPI, Streamlit
-- **Infrastructure**: GCP
-- **Features**: Semantic search, auto-scaling, production monitoring
+#### [Kubernetes-Powered GitHub Issues Multiagents Intelligence](https://github.com/benitomartin/github-issues-multiagent-intelligence)
+- **Stack**: Docker, Qdrant, AWS EKS Fargate, AWS RDS, FastAPI, Guardrails AI
+- **Infrastructure**: AWS
+- **Features**: Hybrid search, auto-scaling, load balancer
 <div align="center">
-    <img src="images/kubernetes_powered_semantic_code_search_system.png" width="700"/>
+    <img src="images/github-issuses-multiagent-intelligence.png" width="700"/>
 </div>
 
 #### [Multimodal Smart Document Processing System](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb)
