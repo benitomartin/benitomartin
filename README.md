@@ -229,9 +229,7 @@ My technical writing has been featured in major industry newsletters and platfor
 - **Stack**: Docker, Qdrant, AWS EKS Fargate, AWS RDS, FastAPI, Guardrails AI
 - **Infrastructure**: AWS
 - **Features**: Hybrid search, auto-scaling, load balancer
-<div align="center">
-    <img src="images/github-issuses-multiagents-intelligence.png" width="700"/>
-</div>
+
 
 #### [Collaborative Multi-Agent AI System with LangGraph](https://github.com/benitomartin/multiagent-langgraph-circleci)
 - **Stack**: LangGraph, AWS Lambda, AWS Bedrock, Docker, CircleCI
