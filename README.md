@@ -225,20 +225,20 @@ My technical writing has been featured in major industry newsletters and platfor
     <img src="images/llm_observability_opik.png" width="700"/>
 </div>
 
-#### [Collaborative Multi-Agent AI System with LangGraph](https://github.com/benitomartin/multiagent-langgraph-circleci)
-- **Stack**: LangGraph, AWS Lambda, AWS Bedrock, Docker, CircleCI
-- **Infrastructure**: AWS
-- **Features**: Agent coordination, workflow automation, scalable deployment
-<div align="center">
-    <img src="images/collaborative _multi_agent_ai_system_with_langgraph.png" width="300"/>
-</div>
-
 #### [Kubernetes-Powered GitHub Issues Multiagents Intelligence](https://github.com/benitomartin/github-issues-multiagent-intelligence)
 - **Stack**: Docker, Qdrant, AWS EKS Fargate, AWS RDS, FastAPI, Guardrails AI
 - **Infrastructure**: AWS
 - **Features**: Hybrid search, auto-scaling, load balancer
 <div align="center">
     <img src="images/github-issuses-multiagent-intelligence.png" width="700"/>
+</div>
+
+#### [Collaborative Multi-Agent AI System with LangGraph](https://github.com/benitomartin/multiagent-langgraph-circleci)
+- **Stack**: LangGraph, AWS Lambda, AWS Bedrock, Docker, CircleCI
+- **Infrastructure**: AWS
+- **Features**: Agent coordination, workflow automation, scalable deployment
+<div align="center">
+    <img src="images/collaborative _multi_agent_ai_system_with_langgraph.png" width="300"/>
 </div>
 
 #### [Multimodal Smart Document Processing System](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb)
