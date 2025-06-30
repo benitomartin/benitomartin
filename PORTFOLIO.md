@@ -19,6 +19,7 @@
 
 | Project | Description | Tech Stack | Cloud | App |
 |---------|-------------|------------|-------|-----|
+| [**Kubernetes-Powered GitHub Issues Multiagents Intelligence**](https://github.com/benitomartin/github-issues-multiagent-intelligence) | GitHub Issues Multiagents Intelligence | OpenAI, LangGraph, Qdrant, Guardrails AI, AWS EKS, AWS, CDK, AWS RDS, Docker, FastAPI | AWS | |
 | [**LLM Evaluation and Observability System for Football Content**](https://github.com/benitomartin/llm-observability-opik) | Football content evaluation platform | OpenAI, Hugging Face, MongoDB, Comet ML, Opik, ZenML | | |
 | [**Serverless Vector Database Embedding Pipeline**](https://github.com/benitomartin/embeddings-aws-circleci) | Embedding processing system | OpenAI, LangChain, Zilliz, AWS Lambda, Amazon ECR, Docker, CircleCI | AWS | |
 | [**Collaborative Multi-Agent AI System with LangGraph**](https://github.com/benitomartin/multiagent-langgraph-circleci) | Collaborative AI orchestration | OpenAI, AWS Bedrock, LangChain, LangGraph, AWS Lambda, Amazon ECR, Docker, CircleCI, Pydantic | AWS | |
