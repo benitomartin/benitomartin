@@ -128,13 +128,6 @@ Additionally, I am actively engaged with the global tech community as an AWS Com
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white)
 
-**Vector Databases**
-
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
-![Zilliz](https://img.shields.io/badge/Zilliz-4103FC?style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white)
-
 **LLMs & AI**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
@@ -142,6 +135,13 @@ Additionally, I am actively engaged with the global tech community as an AWS Com
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5A3C?style=for-the-badge&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6B6B?style=for-the-badge&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG%20Systems-4ECDC4?style=for-the-badge&logoColor=white)
+
+**Vector Databases**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
+![Zilliz](https://img.shields.io/badge/Zilliz-4103FC?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -168,11 +168,6 @@ Additionally, I am actively engaged with the global tech community as an AWS Com
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logoColor=white)
 
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logoColor=white)
-
 **DevOps Best Practices**
 
 ![Formatting](https://img.shields.io/badge/Formatting-337ABC?style=for-the-badge&logoColor=white)
@@ -185,6 +180,11 @@ Additionally, I am actively engaged with the global tech community as an AWS Com
 ![Pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-9B59B6?style=for-the-badge&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>
