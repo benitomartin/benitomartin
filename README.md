@@ -76,7 +76,7 @@
 </a>
 
 ### Community Recognition
-<a href="https://aws.amazon.com/developer/community/community-builders/">
+<a href="https://builder.aws.com/community/@benitomartin">
     <img src="images/com_build.png" alt="AWS Communkty Builders" width="auto" height="80"/>
 </a>
 <a href="https://www.docker.com/captains/benito-martin/">
