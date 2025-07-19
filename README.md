@@ -202,6 +202,7 @@ Additionally, I am actively engaged with the global tech community as an [AWS Co
 My technical writing has been featured in major industry newsletters and platforms, such as LlamaIndex Newsletter, GKE Newsletter, and the MLOps community:
 
 ### Highlighted Articles
+- 📝 [Automate Vector Database Update with AWS and CircleCI](https://builder.aws.com/content/2zgPPabkCNUwsNH4WR4TOe1zmnA/automate-vector-database-update-with-aws-and-circleci)
 - 📝 [Your AI Football Assist Eval Guide](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide)
 - 📝 [Find Your Code! Scaling a LlamaIndex and Qdrant Application with Google Kubernetes Engine](https://www.linkedin.com/pulse/dymanic-workload-schedule-ga-confidential-computing-kms-sghiouar-ci8he/?trackingId=%2Bhgvw2lMQlSdKygvtG4MYA%3D%3D)
 - 📝 [Building a Serverless Application with AWS Lambda and Qdrant for Semantic Search](https://home.mlops.community/public/blogs/building-a-serverless-application-with-aws-lambda-and-qdrant-for-semantic-search)
@@ -210,7 +211,7 @@ My technical writing has been featured in major industry newsletters and platfor
 - 📝 [Building a Multimodal LLM Application with PyMuPDF4LLM](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-10-08)
 
 ### Publishing Platforms
-[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port) • [CircleCI](https://circleci.com/blog/author/benito-martin/) • [Decoding ML](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide)
+[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port) • [CircleCI](https://circleci.com/blog/author/benito-martin/) • [Decoding ML](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide) • [AWS](https://builder.aws.com/)
 
 ---
 
