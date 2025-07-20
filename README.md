@@ -15,7 +15,7 @@
 *🌟 Industry Recognition*
 
 &nbsp;
-**🚀 40+ Projects Developed** • **👨‍🏫 Educator in ML/AI & Data Science** • **📚 100K+ Readers Reached** • **🏆 AWS ML/AI Certified** 
+**🏆 AWS ML/AI Certified** • **🚀 40+ Projects** • **📝 30+ Technical Articles** • **📚 100K+ Readers Reached** • **👨‍🏫 Teacher**
 
 ---
 
