@@ -213,7 +213,7 @@ My technical writing has been featured in major industry newsletters and platfor
 - 📝 [Building a Multimodal LLM Application with PyMuPDF4LLM](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-10-08)
 
 ### Publishing Platforms
-[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port) • [CircleCI](https://circleci.com/blog/author/benito-martin/) • [Decoding ML](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide) • [AWS](https://builder.aws.com/)
+[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port) • [CircleCI](https://circleci.com/blog/author/benito-martin/) • [Decoding ML](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide) • [AWS](https://builder.aws.com/community/@benitomartin)
 
 ---
 
