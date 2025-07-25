@@ -29,6 +29,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/benitomzh)
 [![Website](https://img.shields.io/badge/website-e3941e?style=for-the-badge&logo=&logoColor=white)](https://martindatasol.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%235C6BC0?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/benitomartin/blob/main/PORTFOLIO.md)
+[![Blogs](https://img.shields.io/badge/blogs-F2545B?style=for-the-badge&logo=&logoColor=white)](https://martindatasol.com/blog)
 
 **Professional Platforms**
 
