@@ -204,7 +204,7 @@ Additionally, I am actively engaged with the global tech community as an [AWS Co
 My technical writing has been featured in major industry newsletters and platforms, such as LlamaIndex Newsletter, GKE Newsletter, and the MLOps community:
 
 ### Highlighted Articles
-- 📝 [Automate Vector Database Update with AWS and CircleCI](https://builder.aws.com/content/2zgPPabkCNUwsNH4WR4TOe1zmnA/automate-vector-database-update-with-aws-and-circleci)
+- 📝 [The GitHub Issue AI Butler on Kubernetes](https://decodingml.substack.com/p/the-github-issue-ai-butler-on-kubernetes)
 - 📝 [Your AI Football Assist Eval Guide](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide)
 - 📝 [Find Your Code! Scaling a LlamaIndex and Qdrant Application with Google Kubernetes Engine](https://www.linkedin.com/pulse/dymanic-workload-schedule-ga-confidential-computing-kms-sghiouar-ci8he/?trackingId=%2Bhgvw2lMQlSdKygvtG4MYA%3D%3D)
 - 📝 [Building a Serverless Application with AWS Lambda and Qdrant for Semantic Search](https://home.mlops.community/public/blogs/building-a-serverless-application-with-aws-lambda-and-qdrant-for-semantic-search)
