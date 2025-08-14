@@ -31,7 +31,7 @@
 [![Website](https://img.shields.io/badge/website-e3941e?style=for-the-badge&logo=&logoColor=white)](https://martindatasol.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%235C6BC0?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/benitomartin/blob/main/PORTFOLIO.md)
 [![Blogs](https://img.shields.io/badge/blogs-F2545B?style=for-the-badge&logo=&logoColor=white)](https://martindatasol.com/blog)
-[![My Newsletter](https://img.shields.io/badge/Substack-FF7731.svg?style=for-the-badge&logo=&logoColor=white)](https://aiechoes.substack.com/)
+[![Substack](https://img.shields.io/badge/Substack-FF7731.svg?style=for-the-badge&logo=&logoColor=white)](https://substack.com/@benitomartin)
 
 **Professional Platforms**
 
@@ -43,6 +43,12 @@
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=&logoColor=white)](https://medium.com/@benitomartin)
 
 </div>
+
+---
+## 📩 My Substack Newsletter
+
+[![AI Echoes Substack](https://github.com/user-attachments/assets/03fd47c7-ef2d-488d-9c95-aedeece5f0cb)](https://aiechoes.substack.com/)
+
 
 ---
 
