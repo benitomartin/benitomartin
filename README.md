@@ -49,6 +49,11 @@
 
 [![AI Echoes Substack](https://github.com/user-attachments/assets/03fd47c7-ef2d-488d-9c95-aedeece5f0cb)](https://aiechoes.substack.com/)
 
+<div align="center">
+
+[![Substack](https://img.shields.io/static/v1?label=&logo=substack&logoColor=white&message=Newsletter&color=ff6719&style=for-the-badge)](https://aiechoes.substack.com/)
+
+</div>
 
 ---
 
