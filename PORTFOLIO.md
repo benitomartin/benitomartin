@@ -15,8 +15,6 @@
 
 ## 🧠 LLM & RAG Applications 
 
-*Advanced AI applications including retrieval-augmented generation and multi-modal systems*
-
 | Project | Description | Tech Stack | Cloud | App |
 |---------|-------------|------------|-------|-----|
 | [**Kubernetes-Powered GitHub Issues Multiagents Intelligence**](https://github.com/benitomartin/github-issues-multiagent-intelligence) | GitHub Issues Multiagents Intelligence | OpenAI, LangGraph, Qdrant, Guardrails AI, AWS EKS, AWS, CDK, AWS RDS, Docker, FastAPI | AWS | |
@@ -45,8 +43,6 @@
 
 ## 🤖 ML/MLOps Projects 
 
-*Production-grade machine learning systems with comprehensive DevOps practices*
-
 | Project | Description | Tech Stack | Cloud | App |
 |---------|-------------|------------|-------|-----|
 | [**Real-Time Crypto Forecasting Prediction Pipeline**](https://github.com/benitomartin/mlops-llm-crypto-predictor) | Enterprise streaming ML pipeline with monitoring | Quix Streams, MLflow, Scikit-learn, Optuna, Great Expectations, Pydantic, Kubernetes, Kind, Kafka, Grafana, Risingwave, Minio, PostgreSQL | Civo | |
@@ -73,8 +69,6 @@
 
 ## 📊 Data Analysis & Modeling 
 
-*End-to-end data science projects with advanced modeling techniques*
-
 | Project | Description | Tech Stack | Platform | App |
 |---------|-------------|------------|----------|-----|
 | [**Fake News Detection with NLP Architectures**](https://github.com/benitomartin/nlp-news-classification) | NLP classification system | Scikit-learn (Multinomial Naive Bayes), Tensorflow (CNN, RNN, feedforward) | | Streamlit |
@@ -86,8 +80,6 @@
 
 ## 🔧 Data Engineering 
 
-*Scalable data pipeline solutions with modern tools*
-
 | Project | Description | Tech Stack | Cloud |
 |---------|-------------|------------|-------|
 | [**Hotel Reviews ETL Pipeline on GCP**](https://github.com/benitomartin/de-hotel-reviews) | End-to-end data pipeline | Prefect, Spark, SQL, BigQuery, dbt, Terraform, Looker | GCP |
@@ -96,8 +88,6 @@
 ---
 
 ## 🛠️ Miscellaneous Tools
-
-*Utility applications and specialized tools*
 
 | Project | Description | Tech Stack | App |
 |---------|-------------|------------|-----|
