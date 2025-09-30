@@ -36,7 +36,7 @@
 **Professional Platforms**
 
 [![Qdrant Stars](https://img.shields.io/badge/qdrant-ff0000?style=for-the-badge&logo=&logoColor=white)](https://qdrant.tech/stars/)
-[![DataCamp](https://img.shields.io/badge/datacamp-38c928?style=for-the-badge&logo=&logoColor=white)](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port)
+[![DataCamp](https://img.shields.io/badge/datacamp-38c928?style=for-the-badge&logo=&logoColor=white)](https://www.datacamp.com/blog/chunking-strategies)
 [![Dev.to](https://img.shields.io/badge/dev-b8b535?style=for-the-badge&logo=&logoColor=white)](https://dev.to/benitomartin)
 [![CircleCI](https://img.shields.io/badge/circleci-80786e?style=for-the-badge&logo=&logoColor=white)](https://circleci.com/blog/author/benito-martin/)
 [![Zilliz](https://img.shields.io/badge/zilliz-4103fc?style=for-the-badge&logo=&logoColor=white)](https://zilliz.com/authors/Benito_Martin)
@@ -226,7 +226,7 @@ My technical writing has been featured in major industry newsletters and platfor
 - 📝 [Building a Multimodal LLM Application with PyMuPDF4LLM](https://www.llamaindex.ai/blog/llamaindex-newsletter-2024-10-08)
 
 ### Publishing Platforms
-[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port) • [CircleCI](https://circleci.com/blog/author/benito-martin/) • [Decoding ML](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide) • [AWS](https://builder.aws.com/community/@benitomartin)
+[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/blog/chunking-strategies) • [CircleCI](https://circleci.com/blog/author/benito-martin/) • [Decoding ML](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide) • [AWS](https://builder.aws.com/community/@benitomartin)
 
 ---
 
