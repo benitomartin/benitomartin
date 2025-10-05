@@ -234,6 +234,14 @@ My technical writing has been featured in major industry newsletters and platfor
 
 ### 🧠 Advanced AI & LLM Applications
 
+#### [Substack Articles Search Engine](https://github.com/benitomartin/substack-newsletters-search-pipeline)
+- **Stack**: Qdrant, Supabase, Prefect, FastAPI, Docker, Google Cloud Run, Gradio/React
+- **Infrastructure**: GCP
+- **Features**: RAG-based retrieval, hybrid search, automated data ingestion
+<div align="center">
+    <img src="images/substack_search_engine.png" width="700"/>
+</div>
+
 #### [LLM Evaluation and Observability System for Football Content](https://github.com/benitomartin/llm-observability-opik)
 - **Stack**: OpenAI, Hugging Face, MongoDB, Comet ML, Opik, ZenML
 - **Infrastructure**: Comet ML
