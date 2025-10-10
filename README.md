@@ -53,7 +53,7 @@
 
 [![Substack](https://img.shields.io/static/v1?label=&logo=substack&logoColor=white&message=Newsletter&color=ff6719&style=for-the-badge)](https://aiechoes.substack.com/)
 
-[![Projects List](https://img.shields.io/badge/Projects%20List-%235C6BC0?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/ai-echoes-substack)
+[![Projects List](https://img.shields.io/badge/Knowledge%20Hub-%235C6BC0?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/ai-echoes-substack)
 
 </div>
 
