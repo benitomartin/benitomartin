@@ -234,7 +234,7 @@ My technical writing has been featured in major industry newsletters and platfor
 
 ### 🧠 Advanced AI & LLM Applications
 
-#### [Substack Articles Search Engine](https://github.com/benitomartin/substack-newsletters-search-pipeline)
+#### [Substack Articles Search Engine](https://github.com/benitomartin/substack-newsletters-search-course)
 - **Stack**: Qdrant, Supabase, Prefect, FastAPI, Docker, Google Cloud Run, Gradio/React
 - **Features**: RAG-based retrieval, hybrid search, automated data ingestion
 <div align="center">
