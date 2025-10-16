@@ -236,7 +236,6 @@ My technical writing has been featured in major industry newsletters and platfor
 
 #### [Substack Articles Search Engine](https://github.com/benitomartin/substack-newsletters-search-pipeline)
 - **Stack**: Qdrant, Supabase, Prefect, FastAPI, Docker, Google Cloud Run, Gradio/React
-- **Infrastructure**: GCP
 - **Features**: RAG-based retrieval, hybrid search, automated data ingestion
 <div align="center">
     <img src="images/substack_search_engine.png" width="700"/>
@@ -244,7 +243,6 @@ My technical writing has been featured in major industry newsletters and platfor
 
 #### [LLM Evaluation and Observability System for Football Content](https://github.com/benitomartin/llm-observability-opik)
 - **Stack**: OpenAI, Hugging Face, MongoDB, Comet ML, Opik, ZenML
-- **Infrastructure**: Comet ML
 - **Features**: LLM evaluation, observability, workflow automation
 <div align="center">
     <img src="images/llm_observability_opik.png" width="700"/>
@@ -252,7 +250,6 @@ My technical writing has been featured in major industry newsletters and platfor
 
 #### [Kubernetes-Powered GitHub Issues Multiagents Intelligence](https://github.com/benitomartin/github-issues-multiagent-intelligence)
 - **Stack**: Docker, Qdrant, AWS EKS Fargate, AWS RDS, FastAPI, Guardrails AI
-- **Infrastructure**: AWS
 - **Features**: Hybrid search, auto-scaling, load balancer
 <div align="center">
     <img src="images/github_issuses_multiagent_intelligence.png" width="700"/>
@@ -260,7 +257,6 @@ My technical writing has been featured in major industry newsletters and platfor
 
 #### [Collaborative Multi-Agent AI System with LangGraph](https://github.com/benitomartin/multiagent-langgraph-circleci)
 - **Stack**: LangGraph, AWS Lambda, AWS Bedrock, Docker, CircleCI
-- **Infrastructure**: AWS
 - **Features**: Agent coordination, workflow automation, scalable deployment
 <div align="center">
     <img src="images/collaborative _multi_agent_ai_system_with_langgraph.png" width="300"/>
@@ -268,7 +264,6 @@ My technical writing has been featured in major industry newsletters and platfor
 
 #### [Multimodal Smart Document Processing System](https://github.com/benitomartin/aws-multimodal-bedrock-dynamodb)
 - **Stack**: AWS Bedrock, Claude 3, AWS Lambda, AWS DynamoDB, AWS CDK
-- **Infrastructure**: AWS
 - **Features**: Text + image processing, event-driven architecture, serverless
 <div align="center">
     <img src="images/multimodal_smart_document_processing_system.png" width="700"/>
@@ -277,8 +272,7 @@ My technical writing has been featured in major industry newsletters and platfor
 ### 🤖 End-to-end MLOps Systems
 
 #### [Real-Time Crypto Forecasting Pipeline](https://github.com/benitomartin/mlops-llm-crypto-predictor)
-- **Stack**: Quix Streams, MLflow, Kubernetes, Kafka, Grafana, PostgreSQL
-- **Infrastructure**: Kind/Civo
+- **Stack**: Quix Streams, MLflow, Kubernetes, Kafka, Grafana, PostgreSQL, Kind/Civo
 - **Features**: Real-time inference, model registry, data validation, automated monitoring
 <div align="center">
     <img src="images/real_time _crypto_forecasting_pipeline.png" width="700"/>
@@ -286,7 +280,6 @@ My technical writing has been featured in major industry newsletters and platfor
 
 #### [Financial Risk Assessment System](https://github.com/benitomartin/mlops-databricks-credit-default)
 - **Stack**: Databricks, MLflow, LightGBM
-- **Infrastructure**: AWS/Databricks
 - **Features**: Automated feature engineering, model monitoring, A/B testing
 <div align="center">
     <img src="images/financial_risk_assessment_system.png" width="700"/>
@@ -294,7 +287,6 @@ My technical writing has been featured in major industry newsletters and platfor
 
 #### [Healthcare Cost Forecasting](https://github.com/benitomartin/mlops-aws-insurance)
 - **Stack**: AWS SageMaker, TensorFlow, Comet ML, Flask
-- **Infrastructure**: AWS
 - **Features**: Automated retraining, cost optimization
 <div align="center">
     <img src="images/healthcare_cost_forecasting.png" width="700"/>
@@ -305,7 +297,6 @@ My technical writing has been featured in major industry newsletters and platfor
 #### [Swiss Air Quality Pipeline](https://github.com/benitomartin/de-ch-weather)
 **End-to-end data engineering with modern tools**
 - **Stack**: Mage, dbt, BigQuery, Terraform, Looker
-- **Infrastructure**: GCP
 - **Features**: Data quality checks, automated testing, visualization
 <div align="center">
     <img src="images/swiss_air_quality_pipeline.png" width="700"/>
