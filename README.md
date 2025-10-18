@@ -55,6 +55,8 @@
 
 [![Projects List](https://img.shields.io/badge/Knowledge%20Hub-%235C6BC0?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/ai-echoes-substack)
 
+[![Substack RAG Course](https://img.shields.io/badge/Substack%20RAG%20Course-Green?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/substack-newsletters-search-course)
+
 </div>
 
 ---
