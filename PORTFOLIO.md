@@ -17,6 +17,7 @@
 
 | Project | Description | Tech Stack | Cloud | App |
 |---------|-------------|------------|-------|-----|
+| [**Gmail Telegram MCP Server**](https://github.com/benitomartin/gmail-telegram-mcp-server) | Email Telegram voice assistant | FastMCP, OpenAI, Gmail API, Google Text-to-Speech, Telegram, OAuth 2.0, Pydantic | GCP | Telegram |
 | [**Substack Articles Search Engine**](https://github.com/benitomartin/substack-newsletters-search-course) | Substack semantic search system | Qdrant, Supabase, Prefect, FastAPI, Docker, Google Cloud Run | GCP | Versions:<br>• Gradio<br>• React 
 | [**Kubernetes-Powered GitHub Issues Multiagents Intelligence**](https://github.com/benitomartin/github-issues-multiagent-intelligence) | GitHub Issues Multiagents Intelligence | OpenAI, LangGraph, Qdrant, Guardrails AI, AWS EKS, AWS, CDK, AWS RDS, Docker, FastAPI | AWS | |
 | [**LLM Evaluation and Observability System for Football Content**](https://github.com/benitomartin/llm-observability-opik) | Football content evaluation platform | OpenAI, Hugging Face, MongoDB, Comet ML, Opik, ZenML | | |
