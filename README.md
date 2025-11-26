@@ -236,18 +236,18 @@ My technical writing has been featured in major industry newsletters and platfor
 
 ### 🧠 Advanced AI & LLM Applications
 
-#### [Biomedical GraphRAG System](https://github.com/benitomartin/biomedical-graphrag)
-- **Stack**: LangChain, OpenAI, Neo4j, Qdrant, FastAPI
-- **Features**: Hybrid RAG combining Knowledge Graphs and Vector Databases
-<div align="center">
-    <img src="images/biomedical_graph_rag.png" width="700"/>
-</div>
-
 #### [Substack Articles Search Engine](https://github.com/benitomartin/substack-newsletters-search-course)
 - **Stack**: Qdrant, Supabase, Prefect, FastAPI, Docker, Google Cloud Run, Gradio/React
 - **Features**: RAG-based retrieval, hybrid search, automated data ingestion
 <div align="center">
     <img src="images/substack_search_engine.png" width="700"/>
+</div>
+
+#### [Biomedical GraphRAG System](https://github.com/benitomartin/biomedical-graphrag)
+- **Stack**: LangChain, OpenAI, Neo4j, Qdrant, FastAPI
+- **Features**: Hybrid RAG combining Knowledge Graphs and Vector Databases
+<div align="center">
+    <img src="images/biomedical_graph_rag.png" width="700"/>
 </div>
 
 #### [LLM Evaluation and Observability System for Football Content](https://github.com/benitomartin/llm-observability-opik)
