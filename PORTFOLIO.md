@@ -19,7 +19,6 @@
 |---------|-------------|------------|-------|-----|
 | [**LangGraph Audio Agents**](https://github.com/benitomartin/langgraph-audio-agents) | Real-time agent-to-agent conversational validation | LangGraph, OpenAI, Google Text-to-Speech, Elevenlabs, FastAPI |  | Gradio |
 | [**Biomedical GraphRAG System**](https://github.com/benitomartin/biomedical-graphrag) | Hybrid RAG combining Knowledge Graphs and Vector Databases |  LangChain, OpenAI, Neo4j, Qdrant, FastAPI, Pydantic |  |  |
-| [**Food Images Fine Tuning**](https://github.com/benitomartin/food-images-finetuning) | Liquid AI 450M and 1.6B VL Models |  PyTorch, LoRA, Hugging Face, Transformers, Modal | Modal |  |
 | [**Gmail Telegram MCP Server**](https://github.com/benitomartin/gmail-telegram-mcp-server) | Email Telegram voice assistant | FastMCP, OpenAI, Gmail API, Google Text-to-Speech, Telegram, OAuth 2.0, Pydantic | GCP | Telegram |
 | [**Substack Articles Search Engine**](https://github.com/benitomartin/substack-newsletters-search-course) | Substack semantic search system | Qdrant, Supabase, Prefect, FastAPI, Docker, Google Cloud Run | GCP | Versions:<br>• Gradio<br>• React 
 | [**Kubernetes-Powered GitHub Issues Multiagents Intelligence**](https://github.com/benitomartin/github-issues-multiagent-intelligence) | GitHub Issues Multiagents Intelligence | OpenAI, LangGraph, Qdrant, Guardrails AI, AWS EKS, AWS, CDK, AWS RDS, Docker, FastAPI | AWS | |
@@ -68,6 +67,7 @@
 
 | Project | Description | Tech Stack | Platform |
 |---------|-------------|------------|----------|
+| [**Food Images Fine Tuning**](https://github.com/benitomartin/food-images-finetuning) | Liquid AI 450M and 1.6B VL Models |  PyTorch, LoRA, Hugging Face, Transformers, Modal | Modal |
 | [**Fine Tuning Gemma 2B**](https://github.com/benitomartin/peft-gemma-2b) | Parameter-efficient fine-tuning | Hugging Face Transformers, PEFT (LoRA/QLoRA) | Hugging Face |
 
 ---
