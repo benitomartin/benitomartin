@@ -219,6 +219,7 @@ Additionally, I am actively engaged with the global tech community as an [AWS Co
 My technical writing has been featured in major industry newsletters and platforms, such as LlamaIndex Newsletter, GKE Newsletter, and the MLOps community:
 
 ### Highlighted Articles
+- 📝 [Smarter Food Classification with LiquidAI Vision Models](https://paulabartabajo.substack.com/p/smarter-food-classification-with)
 - 📝 [The GitHub Issue AI Butler on Kubernetes](https://decodingml.substack.com/p/the-github-issue-ai-butler-on-kubernetes)
 - 📝 [Your AI Football Assist Eval Guide](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide)
 - 📝 [Find Your Code! Scaling a LlamaIndex and Qdrant Application with Google Kubernetes Engine](https://www.linkedin.com/pulse/dymanic-workload-schedule-ga-confidential-computing-kms-sghiouar-ci8he/?trackingId=%2Bhgvw2lMQlSdKygvtG4MYA%3D%3D)
