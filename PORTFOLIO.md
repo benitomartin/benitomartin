@@ -17,6 +17,7 @@
 
 | Project | Description | Tech Stack | Cloud | App |
 |---------|-------------|------------|-------|-----|
+| [**Tauri LLM Chat App**](https://github.com/benitomartin/tauri-app-bundle) | A desktop chat application built that runs a local LLM using llama.cpp | Tauri, llama.cpp, PyInstaller |  |  |
 | [**LangGraph Audio Agents**](https://github.com/benitomartin/langgraph-audio-agents) | Real-time agent-to-agent conversational validation | LangGraph, OpenAI, Google Text-to-Speech, Elevenlabs, FastAPI |  | Gradio |
 | [**Biomedical GraphRAG System**](https://github.com/benitomartin/biomedical-graphrag) | Hybrid RAG combining Knowledge Graphs and Vector Databases |  LangChain, OpenAI, Neo4j, Qdrant, FastAPI, Pydantic |  |  |
 | [**Gmail Telegram MCP Server**](https://github.com/benitomartin/gmail-telegram-mcp-server) | Email Telegram voice assistant | FastMCP, OpenAI, Gmail API, Google Text-to-Speech, Telegram, OAuth 2.0, Pydantic | GCP | Telegram |
