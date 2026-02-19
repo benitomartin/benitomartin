@@ -45,6 +45,21 @@
 </div>
 
 ---
+## 📩 Projects Highlights
+
+<div align="center">
+
+#### [Substack Articles Search Engine](https://github.com/benitomartin/substack-newsletters-search-course)
+
+[![Substack Video](images/substack_video.png)](https://drive.google.com/file/d/1sK7yYeqNRbrmwaKcP4tsALKzDV1rllWd/view?usp=sharing)
+
+#### [Biomedical GraphRAG System](https://github.com/benitomartin/biomedical-graphrag)
+
+[![Biomedical GraphRAG](https://img.youtube.com/vi/3NWTi90i6C4/0.jpg)](https://www.youtube.com/watch?v=3NWTi90i6C4)
+   
+</div>
+
+---
 ## 📩 My Substack Newsletter
 
 [![AI Echoes Substack](https://github.com/user-attachments/assets/03fd47c7-ef2d-488d-9c95-aedeece5f0cb)](https://aiechoes.substack.com/)
