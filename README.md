@@ -49,16 +49,16 @@
 
 <div align="center">
 
-#### [Substack Articles Search Engine Course](https://github.com/benitomartin/substack-newsletters-search-course)
-
-<a href="https://drive.google.com/file/d/1sK7yYeqNRbrmwaKcP4tsALKzDV1rllWd/view?usp=sharing">
-  <img src="images/substack_video.png" width="600">
-</a>
-
 #### [Biomedical GraphRAG System](https://github.com/benitomartin/biomedical-graphrag)
 
 <a href="https://www.youtube.com/watch?v=3NWTi90i6C4&t=200s" target="_blank">
   <img src="images/pubmed_navigator.jpeg" width="600" alt="YouTube Video">
+</a>
+
+#### [Substack Articles Search Engine Course](https://github.com/benitomartin/substack-newsletters-search-course)
+
+<a href="https://drive.google.com/file/d/1sK7yYeqNRbrmwaKcP4tsALKzDV1rllWd/view?usp=sharing">
+  <img src="images/substack_video.png" width="600">
 </a>
    
 </div>
