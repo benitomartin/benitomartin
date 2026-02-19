@@ -57,8 +57,8 @@
 
 #### [Biomedical GraphRAG System](https://github.com/benitomartin/biomedical-graphrag)
 
-<a href="https://www.youtube.com/watch?v=3NWTi90i6C4&t=2s" target="_blank">
-  <img src="https://img.youtube.com/vi/3NWTi90i6C4/0.jpg" width="600" alt="YouTube Video">
+<a href="https://www.youtube.com/watch?v=3NWTi90i6C4&t=200s" target="_blank">
+  <img src="images/pubmed_navigator.jpeg" width="600" alt="YouTube Video">
 </a>
    
 </div>
