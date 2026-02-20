@@ -55,7 +55,7 @@
   <img src="images/pubmed_navigator.jpeg" width="600" alt="YouTube Video">
 </a>
 
-#### [Substack Articles Search Engine Course](https://github.com/benitomartin/substack-newsletters-search-course)
+#### [Production RAG Course](https://github.com/benitomartin/substack-newsletters-search-course)
 
 <a href="https://drive.google.com/file/d/1sK7yYeqNRbrmwaKcP4tsALKzDV1rllWd/view?usp=sharing">
   <img src="images/substack_video.png" width="600">
@@ -256,7 +256,7 @@ My technical writing has been featured in major industry newsletters and platfor
 
 ### 🧠 Advanced AI & LLM Applications
 
-#### [Substack Articles Search Engine Course](https://github.com/benitomartin/substack-newsletters-search-course)
+#### [Production RAG Course](https://github.com/benitomartin/substack-newsletters-search-course)
 - **Stack**: Qdrant, Supabase, Prefect, FastAPI, Docker, Google Cloud Run, Gradio/React
 - **Features**: RAG-based retrieval, hybrid search, automated data ingestion
 <div align="center">
