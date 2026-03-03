@@ -68,8 +68,9 @@
 
 | Project | Description | Tech Stack | Platform |
 |---------|-------------|------------|----------|
-| [**Food Images Fine Tuning**](https://github.com/benitomartin/food-images-finetuning) | Liquid AI 450M and 1.6B VL Models |  PyTorch, LoRA, Hugging Face, Transformers, Modal | Modal |
-| [**Fine Tuning Gemma 2B**](https://github.com/benitomartin/peft-gemma-2b) | Parameter-efficient fine-tuning | Hugging Face Transformers, PEFT (LoRA/QLoRA) | Hugging Face |
+| [**Fine-Tuning SFT + DPO**](https://github.com/benitomartin/grumpy-chef-finetuning-dpo) | Liquid AI 1.2B Model fine-tuned to reply as a grumpy Italian chef with SFT and DPO |  Unsloth, LoRA, Hugging Face, Transformers |  |
+| [**Food Images Fine-Tuning**](https://github.com/benitomartin/food-images-finetuning) | Liquid AI 450M and 1.6B VL Models fine-tuned using food images |  PyTorch, LoRA, Hugging Face, Transformers, Modal | Modal |
+| [**Fine-Tuning Gemma 2B**](https://github.com/benitomartin/peft-gemma-2b) | Parameter-efficient fine-tuning | Hugging Face Transformers, PEFT (LoRA/QLoRA) | Hugging Face |
 
 ---
 
