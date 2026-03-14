@@ -15,7 +15,7 @@
 *🌟 Industry Recognition*
 
 &nbsp;
-**🏆 AWS ML/AI Certified** • **🚀 50+ Projects** • **📝 70+ Technical Articles** • **📚 1M+ Readers Reached** • **👨‍🏫 Teacher**
+**🏆 AWS ML/AI Certified** • **🚀 50+ Projects** • **📝 80+ Technical Articles** • **📚 1M+ Readers Reached** • **👨‍🏫 Teacher**
 
 ---
 
