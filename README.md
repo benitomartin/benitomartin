@@ -1,11 +1,11 @@
 <div align="center">
 
-🚀 **Solutions That Drive ROI**
+🚀 **Subscribe to my Newsletter**
 
 </div>
 
 <div align="center">
-<a href="https://martindatasol.com/">
+<a href="https://aiechoes.substack.com/">
    <img src="images/linkedin_personal_builder_github.png"/>
 </a>
 </div>
@@ -28,9 +28,7 @@
 **Personal Platforms**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/benitomzh)
-[![Website](https://img.shields.io/badge/website-e3941e?style=for-the-badge&logo=&logoColor=white)](https://martindatasol.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%235C6BC0?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/benitomartin/blob/main/PORTFOLIO.md)
-[![Blogs](https://img.shields.io/badge/blogs-F2545B?style=for-the-badge&logo=&logoColor=white)](https://martindatasol.com/blog)
 [![Substack](https://img.shields.io/badge/Substack-FF7731.svg?style=for-the-badge&logo=&logoColor=white)](https://aiechoes.substack.com)
 
 **Professional Platforms**
@@ -118,21 +116,6 @@
 <a href="https://www.docker.com/captains/benito-martin/">
     <img src="images/docker_captain_wo_bg.png" alt="Docker Captain" width="140" height="80"/>
 </a>
-</div>
-
----
-
-## 📬 Contact & Inquiries
-
-<div align="center">
-
-*Technical content, consulting, coaching, and partnerships*
-
-| For Technical Leaders | For Content Needs | For Partnerships | For Career Coaching |
-|:---:|:---:|:---:|:---:|
-| [![Project Discussion](https://img.shields.io/badge/Project%20Discussion-2E86AB?style=for-the-badge)](https://martindatasol.com/contact) | [![Technical Writing](https://img.shields.io/badge/Technical%20Writing-F18F01?style=for-the-badge)](https://martindatasol.com/contact) | [![Partnership Inquiry](https://img.shields.io/badge/Partnership%20Inquiry-A23B72?style=for-the-badge)](https://martindatasol.com/contact) | [![Career Coaching](https://img.shields.io/badge/Career%20Coaching-5A189A?style=for-the-badge)](https://martindatasol.com/contact) |
-| Development, Strategy | Tutorials, Documentation, Guides | Teaching, Collaboration, Consulting | Mentorship, Resume Help, Career Strategy |
-
 </div>
 
 ---
