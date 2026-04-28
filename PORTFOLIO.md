@@ -102,19 +102,3 @@
 | [**Justicio Web Scraping**](https://github.com/benitomartin/scraping-to-sql) | Web scraping to database | Beautiful Soup, MySQL | |
 | [**Docker Container Optimization Benchmark**](https://github.com/benitomartin/uv-docker-benchmark) | Container performance testing | Docker, FastAPI, uv | |
 | [**Automatic AWS S3 Buckets Deletion**](https://github.com/benitomartin/delete-all-aws-s3-buckets) | Automated resource management | AWS S3 | |
-
----
-
-## 📬 Contact & Inquiries
-
-<div align="center">
-
-*Technical content, consulting, coaching, and partnerships*
-
-| For Technical Leaders | For Content Needs | For Partnerships | For Career Coaching |
-|:---:|:---:|:---:|:---:|
-| [![Project Discussion](https://img.shields.io/badge/Project%20Discussion-2E86AB?style=for-the-badge)](https://martindatasol.com/contact) | [![Technical Writing](https://img.shields.io/badge/Technical%20Writing-F18F01?style=for-the-badge)](https://martindatasol.com/contact) | [![Partnership Inquiry](https://img.shields.io/badge/Partnership%20Inquiry-A23B72?style=for-the-badge)](https://martindatasol.com/contact) | [![Career Coaching](https://img.shields.io/badge/Career%20Coaching-5A189A?style=for-the-badge)](https://martindatasol.com/contact) |
-| Development, Strategy | Tutorials, Documentation, Guides | Teaching, Collaboration, Consulting | Mentorship, Resume Help, Career Strategy |
-
-
-</div>
