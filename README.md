@@ -28,8 +28,8 @@
 **Personal Platforms**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/benitomzh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%235C6BC0?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/benitomartin/blob/main/PORTFOLIO.md)
 [![Substack](https://img.shields.io/badge/Substack-FF7731.svg?style=for-the-badge&logo=&logoColor=white)](https://aiechoes.substack.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%235C6BC0?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/benitomartin/benitomartin/blob/main/PORTFOLIO.md)
 
 **Professional Platforms**
 
